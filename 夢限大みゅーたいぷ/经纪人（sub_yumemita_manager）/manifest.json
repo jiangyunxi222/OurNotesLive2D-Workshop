@@ -14,8 +14,8 @@
   "viewerex_runtime_verified": false,
   "policy_revision": 3,
   "files_sha256": {
-    "001_costume.model3.json": "9250b91e684b54ccf1af1479a06b5c3f06206afab6e30b35c28efe8fe64eb7b2",
-    "002_costume.model3.json": "6ab50caae86905557359eae8c14425614fca37d64aa6ab4e7c87724283e6f2b8",
+    "001_costume.model3.json": "7494ce2ee466ba38f353b0e6f68b82a6015a994208f595ff430982d204845a31",
+    "002_costume.model3.json": "ed7f5a48a743173794f8055a7ae59340abf2719a57c9de3311cb8e21b7c581fd",
     "00_integrated.model3.json": "994c77d2fa3904d518e3d3691b8889b29ceaf6bcd18045e2a3bd31efe0b74511",
     "assets/anchor/transparent.png": "43739c566e26fd7cb88f69d3864ea34740372f5ee99acac169e090beffbce5c6",
     "assets/expressions/0cd515ae82fc8487e1753cf7f2cb73cd.exp3.json": "9a9f30ac876309f12fcff77d56ce53012eefe357369b3b9fd41a590de2fa05da",
@@ -142,7 +142,7 @@
     "assets/hitareas/001.moc": "97eac341a7c7c9d2f9388457da8661ed1e1702b57252bc5f582a5227274851b2",
     "assets/hitareas/002.moc": "f4307134699ef7da245b6897136b23703cdf39976d04f255ae1ef2a88827ba14",
     "source-lock.json": "9714d0bd00d36c60e701241bcdcb17a1acb236b95da3f098e090747a638ee022",
-    "assets/voices/voice-sources.json": "25fcdf485d31b3d8a2bea9dde156b88d276cf3cc1d930a3c55b84ca8149a3c75",
+    "assets/voices/voice-sources.json": "b2250fe9d99432bd804428646bec5496630d8a07341f635c9d038f9cd33407ea",
     "assets/menu/001.moc": "cbafd5e5b1ce1cc16036efd250d807f9d0d2c303dbc09617d635511fc14b2469",
     "assets/menu/002.moc": "0118873642bdd47f515c9c453580bba839b155e71af72cad96808196ae25f619",
     "assets/menu/LICENSE-GenSen.txt": "d84b652ca46586043946969a33c1dbf5a43028440825ae744a325965bec4c8fb",
@@ -202,7 +202,7 @@
   "costumes_without_source_audio": 0,
   "quiet_random_costume_revision": 2,
   "voice_ownership_excluded": [],
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 30,
   "motion_layer_revision": 1,
   "motion_layer_replacements": {

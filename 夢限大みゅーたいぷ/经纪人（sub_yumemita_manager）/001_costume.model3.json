@@ -1860,7 +1860,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "取り急ぎ、明日収録入れていいですか？ この番組、sumimiに出てもらうしかなくて"
+          "Text": "明天就安排节目录制，可以吗？\n这档节目只能请sumimi出场补位了"
         },
         {
           "Name": "voice_2",
@@ -2076,7 +2076,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あ、お疲れ様です。 東京に戻ったら、詳しい話を聞かせてもらいますね"
+          "Text": "啊，辛苦了。\n回到东京后，麻烦告诉我详细情况哦"
         },
         {
           "Name": "voice_26",
@@ -2132,7 +2132,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "取り急ぎ、明日収録入れていいですか？ この番組、sumimiに出てもらうしかなくて"
+          "Text": "明天就安排节目录制，可以吗？\n这档节目只能请sumimi出场补位了"
         },
         {
           "Name": "voice_2",
@@ -2348,7 +2348,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あ、お疲れ様です。 東京に戻ったら、詳しい話を聞かせてもらいますね"
+          "Text": "啊，辛苦了。\n回到东京后，麻烦告诉我详细情况哦"
         },
         {
           "Name": "voice_26",

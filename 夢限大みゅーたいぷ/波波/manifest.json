@@ -125,7 +125,7 @@
     "assets/voices/curated_adv_voice_yumemita_003_1_13_024.wav": "811fee9c327dc870be8788d005f6c34657c3df1c72361350623bf95c04d1caa1",
     "assets/voices/curated_adv_voice_yumemita_003_1_05_207.wav": "74d72ecd50d2c7d0792b2d3ffd2636c027f909fded18ac6a23f232513cd363eb",
     "assets/voices/curated_adv_voice_yumemita_003_1_13_020.wav": "c8233c9fdd2b11de59d37276300b709735dc3ec494f252ad2dd82527d1f12f51",
-    "assets/voices/voice-sources.json": "44db0f75e5260e2609ae2dafef71794ec9fa9c78fd030e54480719f6e953088c",
+    "assets/voices/voice-sources.json": "6a7cc51a9e996c9c7cbd6bcab7dd3fa9ece6a06941976423bbcfa379e3db43e8",
     "assets/voices/curated_adv_voice_yumemita_003_1_19_032.wav": "4dc1598b9a71b82e538d262933471aa2b8223e2d0e78419aee6de203ded4993d",
     "assets/voices/curated_adv_voice_yumemita_003_1_19_048.wav": "ac89cbe169527407148cd180a83ad39b42dfeea0fefeac5a50c6e1701c92cc12",
     "assets/voices/curated_adv_voice_yumemita_003_1_05_219.wav": "ee913759931ec89d17aaf57cd8ce8c4fdd92a3ade08380b356d2cca162d95459",
@@ -1441,7 +1441,7 @@
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
   "workshop_native_menu_revision": 11,
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 30,
   "curated_voice_counts": {
     "primary": 30

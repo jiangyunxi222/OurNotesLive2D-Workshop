@@ -1365,7 +1365,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=180%>（都子————————<voffset=-1.2em><pos=5.8em>—————！！！！！）</voffset>"
+          "Text": "（都子—————————————！！！！！）"
         },
         {
           "Name": "voice_4",
@@ -1446,7 +1446,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>呀——————！！！"
+          "Text": "呀——————！！！"
         },
         {
           "Name": "voice_13",
@@ -1455,7 +1455,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>（冷静点，都子——！）"
+          "Text": "（冷静点，都子——！）"
         },
         {
           "Name": "voice_14",
@@ -1554,7 +1554,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "何を隠そう、都子は今まであだ名で呼ばれたことなんてない！"
+          "Text": "实不相瞒，都子至今为止还从来没被人叫过昵称呢！"
         },
         {
           "Name": "voice_25",
@@ -1563,7 +1563,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "だから嬉しいとか以前にピンときてないんだぜ！"
+          "Text": "所以别说开不开心了，她压根就没反应过来是怎么回事！"
         },
         {
           "Name": "voice_26",
@@ -1572,7 +1572,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "はぁ〜……まったく、困ったヤツだな"
+          "Text": "唉～真是个让人头疼的家伙"
         },
         {
           "Name": "voice_27",
@@ -1581,7 +1581,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それが手荒だって言ってんだ！"
+          "Text": "我都说了那就是粗暴！"
         }
       ],
       "ws_voice_1_1#2": [
@@ -1619,7 +1619,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=180%>（都子————————<voffset=-1.2em><pos=5.8em>—————！！！！！）</voffset>"
+          "Text": "（都子—————————————！！！！！）"
         },
         {
           "Name": "voice_4",
@@ -1700,7 +1700,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>呀——————！！！"
+          "Text": "呀——————！！！"
         },
         {
           "Name": "voice_13",
@@ -1709,7 +1709,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>（冷静点，都子——！）"
+          "Text": "（冷静点，都子——！）"
         },
         {
           "Name": "voice_14",
@@ -1808,7 +1808,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "何を隠そう、都子は今まであだ名で呼ばれたことなんてない！"
+          "Text": "实不相瞒，都子至今为止还从来没被人叫过昵称呢！"
         },
         {
           "Name": "voice_25",
@@ -1817,7 +1817,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "だから嬉しいとか以前にピンときてないんだぜ！"
+          "Text": "所以别说开不开心了，她压根就没反应过来是怎么回事！"
         },
         {
           "Name": "voice_26",
@@ -1826,7 +1826,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "はぁ〜……まったく、困ったヤツだな"
+          "Text": "唉～真是个让人头疼的家伙"
         },
         {
           "Name": "voice_27",
@@ -1835,7 +1835,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それが手荒だって言ってんだ！"
+          "Text": "我都说了那就是粗暴！"
         }
       ],
       "ws_voice_run#6": [

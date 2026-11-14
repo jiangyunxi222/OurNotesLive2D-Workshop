@@ -564,7 +564,7 @@
     "assets/textures/upstream_92757db41745b5484f03993c.png": "92757db41745b5484f03993cdc0cb8c75c71c2130a8c6b06ac760112ba1015e8",
     "assets/textures/upstream_0ace0724a211ab2ec26e2e6a.png": "0ace0724a211ab2ec26e2e6a5bd9ad412cc4caf415cc28bfc786d4c1f4756c24",
     "source-lock.json": "e4f01a35d4f76fb8b5fe258352a0607bfd3c032bac97cf599184094946c1ce80",
-    "assets/voices/voice-sources.json": "5f04a920c98753a25bb92e9519ae2feae493c034819111abf8a0ba7e84deea73",
+    "assets/voices/voice-sources.json": "425287ca76d2439213259696dc9bfc7d69c7620ce34acc22dc66fa67f44d269d",
     "assets/menu/001.moc": "36085d3096b3b48e38d3ce07581641df35b4534d656c2c6828b26e07f1c540c5",
     "assets/menu/002.moc": "36085d3096b3b48e38d3ce07581641df35b4534d656c2c6828b26e07f1c540c5",
     "assets/menu/003.moc": "36085d3096b3b48e38d3ce07581641df35b4534d656c2c6828b26e07f1c540c5",
@@ -667,7 +667,7 @@
     "assets/voices/ef4ca1baf6a0879aae06d87dd7c40dd4.wav",
     "assets/voices/f8d24a063d3bbe5b1b998d840fcc0d44.wav"
   ],
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 30,
   "motion_layer_revision": 1,
   "motion_layer_replacements": {

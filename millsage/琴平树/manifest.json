@@ -14,9 +14,9 @@
   "viewerex_runtime_verified": false,
   "policy_revision": 3,
   "files_sha256": {
-    "001_costume.model3.json": "098ceeabe6923c7f66b2ae8a747aa40a3e8c57da018dd6420a1e936a278b8e9a",
-    "002_costume.model3.json": "27425001f9e8611709c39e5c77b458fd5ac4236e396ba78551ae934448ef0aab",
-    "003_costume.model3.json": "014f3b7b3bcd34a8cff67de7cf3e0129b59962a2dfaee4341974a38b6c9b0dad",
+    "001_costume.model3.json": "437a4a3ac258276fe659a60d5e8f67c303b22f1a46a41cea9d731f5c7ffbf782",
+    "002_costume.model3.json": "fdfa4a7c2c296c5a2e8e2d2e8826488a2da062c8297fd9451a1bf033369f8977",
+    "003_costume.model3.json": "31c62d0e874119d48834afe9b7200335e2a44554f446ff5c3e7d46e49154d430",
     "00_integrated.model3.json": "8168b4563511bfd91ffe1f596a817941db790a3f7bf9dad5e388ef04f3dbc9ba",
     "assets/anchor/transparent.png": "43739c566e26fd7cb88f69d3864ea34740372f5ee99acac169e090beffbce5c6",
     "assets/expressions/05ca305e7702809e9724a6447c8b7d08.exp3.json": "f75774dc9bbce94e50baad3d585a04442585b44853b320c8066524af61bf21ea",
@@ -213,7 +213,7 @@
     "assets/voices/curated_adv_voice_eventstory_7_03_088.wav": "49f474820edc51d9d61b8bc41b3e43794149975ac334606c82b30335ef87a8cf",
     "assets/voices/curated_adv_voice_eventstory_7_02_064.wav": "b392908309a3f82b27f638035b3be09caaa1553e88723a6d0bbc1858d0e64498",
     "assets/voices/curated_adv_voice_eventstory_7_02_054.wav": "d64e0c21181ed96042ee4009ce70b29392a136fa22eb09c028bc3c397766961a",
-    "assets/voices/voice-sources.json": "2af2939055fc975d132eebf9ebf9e0912acf45fb9fdd1b02105e85c74db2a726"
+    "assets/voices/voice-sources.json": "527e25874f52ec02977a9229c3fb2289f5bd61dfb39b339fc92d46d78fa76dd5"
   },
   "interaction_repairs": true,
   "menu_version": 2,
@@ -2433,7 +2433,7 @@
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
   "workshop_native_menu_revision": 11,
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 30,
   "curated_voice_counts": {
     "primary": 30

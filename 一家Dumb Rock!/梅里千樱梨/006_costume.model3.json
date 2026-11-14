@@ -1485,7 +1485,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それはペーパーポンポンっていうんですよっ。 『HAPPY BIRTHDAY』の文字を 囲むように飾るんです！"
+          "Text": "那个叫纸花球啦。\n要围着『HAPPY BIRTHDAY』\n这几个字来装饰！"
         },
         {
           "Name": "voice_8",
@@ -1512,7 +1512,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "む……現実でもちゃんと使えますっ。 漁師さんたちも掛け声やってたでしょう"
+          "Text": "唔……这在现实里可是完全派得上用场的。\n渔夫们不也喊号子了吗"
         },
         {
           "Name": "voice_11",
@@ -1521,7 +1521,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "寧月のおかげで 連合の船・ちえり丸を手に入れるって目標もできましたし！"
+          "Text": "多亏了宁月\n我还多了个目标，要入手联盟的船・千樱梨丸！"
         },
         {
           "Name": "voice_12",
@@ -1530,7 +1530,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……ちえりにはわかりません。 自分で選んだものは全部正解じゃないんですか？"
+          "Text": "……千樱梨不明白。\n自己选的东西，不全都是正确答案吗？"
         },
         {
           "Name": "voice_13",
@@ -1611,7 +1611,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですね！ ちえり連合の本気を見せてあげましょう！ さあ、例のモノを！"
+          "Text": "说得对！就让她见识一下千樱梨联盟的真本事吧！\n来，把那个拿出来！"
         },
         {
           "Name": "voice_22",
@@ -1647,7 +1647,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "当たり前です！ 『ファミリーやホームが大切』なのは蕾叶の話ですから"
+          "Text": "那当然了！\n因为只有蕾叶才会把『Family和Home最重要』挂在嘴边"
         },
         {
           "Name": "voice_26",
@@ -1757,7 +1757,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それはペーパーポンポンっていうんですよっ。 『HAPPY BIRTHDAY』の文字を 囲むように飾るんです！"
+          "Text": "那个叫纸花球啦。\n要围着『HAPPY BIRTHDAY』\n这几个字来装饰！"
         },
         {
           "Name": "voice_8",
@@ -1784,7 +1784,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "む……現実でもちゃんと使えますっ。 漁師さんたちも掛け声やってたでしょう"
+          "Text": "唔……这在现实里可是完全派得上用场的。\n渔夫们不也喊号子了吗"
         },
         {
           "Name": "voice_11",
@@ -1793,7 +1793,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "寧月のおかげで 連合の船・ちえり丸を手に入れるって目標もできましたし！"
+          "Text": "多亏了宁月\n我还多了个目标，要入手联盟的船・千樱梨丸！"
         },
         {
           "Name": "voice_12",
@@ -1802,7 +1802,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……ちえりにはわかりません。 自分で選んだものは全部正解じゃないんですか？"
+          "Text": "……千樱梨不明白。\n自己选的东西，不全都是正确答案吗？"
         },
         {
           "Name": "voice_13",
@@ -1883,7 +1883,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですね！ ちえり連合の本気を見せてあげましょう！ さあ、例のモノを！"
+          "Text": "说得对！就让她见识一下千樱梨联盟的真本事吧！\n来，把那个拿出来！"
         },
         {
           "Name": "voice_22",
@@ -1919,7 +1919,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_chieri ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "当たり前です！ 『ファミリーやホームが大切』なのは蕾叶の話ですから"
+          "Text": "那当然了！\n因为只有蕾叶才会把『Family和Home最重要』挂在嘴边"
         },
         {
           "Name": "voice_26",

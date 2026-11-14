@@ -713,7 +713,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ああ。今回の欧州ツアーで長く家をあけてしまった。\n君も娘たちも大変だっただろう"
+          "Text": "嗯。因为这次欧洲巡演，我离家太久了。\n你和女儿们都很辛苦吧"
         },
         {
           "Name": "voice_1",
@@ -722,7 +722,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この中に君たちの好みのものがあるとよいのだが"
+          "Text": "要是这里面有你们喜欢的东西就好了"
         },
         {
           "Name": "voice_2",
@@ -731,7 +731,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "では、これからもたくさんの本を買ってこよう"
+          "Text": "那么，今后我也多买些书回来吧"
         },
         {
           "Name": "voice_3",
@@ -740,7 +740,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "！　そうか、そうか。\n寧月は絵本が好きなのだな"
+          "Text": "！这样啊，这样啊。\n原来宁月喜欢图画书啊"
         }
       ],
       "ws_voice_1_1#2": [
@@ -751,7 +751,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ああ。今回の欧州ツアーで長く家をあけてしまった。\n君も娘たちも大変だっただろう"
+          "Text": "嗯。因为这次欧洲巡演，我离家太久了。\n你和女儿们都很辛苦吧"
         },
         {
           "Name": "voice_1",
@@ -760,7 +760,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この中に君たちの好みのものがあるとよいのだが"
+          "Text": "要是这里面有你们喜欢的东西就好了"
         },
         {
           "Name": "voice_2",
@@ -769,7 +769,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "では、これからもたくさんの本を買ってこよう"
+          "Text": "那么，今后我也多买些书回来吧"
         },
         {
           "Name": "voice_3",
@@ -778,7 +778,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_father ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "！　そうか、そうか。\n寧月は絵本が好きなのだな"
+          "Text": "！这样啊，这样啊。\n原来宁月喜欢图画书啊"
         }
       ],
       "ws_voice_run#6": [

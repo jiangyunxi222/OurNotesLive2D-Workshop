@@ -2248,7 +2248,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "祥はAve Mujicaの誘いを断った。 きっとまたCRYCHICをやってくれる"
+          "Text": "祥拒绝了重组Ave Mujica的邀请。\n她肯定会为我重组CRYCHIC"
         },
         {
           "Name": "voice_1",
@@ -2257,7 +2257,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICの祥はいつもしあわせそうだった。 だけどAve Mujicaの祥は……ずっと苦しそうで……"
+          "Text": "CRYCHIC的祥看起来总是很幸福。\n可是，Ave Mujica的祥……看起来一直很痛苦……"
         },
         {
           "Name": "voice_2",
@@ -2284,7 +2284,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICは壊れたから 今度はちゃんとやりたかったのに"
+          "Text": "CRYCHIC已经毁了\n所以这次我想好好坚持的"
         },
         {
           "Name": "voice_5",
@@ -2302,7 +2302,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICじゃないのになにがわかるの"
+          "Text": "你又不属于CRYCHIC，你懂什么"
         },
         {
           "Name": "voice_7",
@@ -2311,7 +2311,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "言ったはず、私は…… CRYCHICをもう一度……"
+          "Text": "我说了，我想……\n再一次组CRYCHIC……"
         },
         {
           "Name": "voice_8",
@@ -2338,7 +2338,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "祥とCRYCHICやりたい"
+          "Text": "我想再一次和祥组CRYCHIC"
         },
         {
           "Name": "voice_11",
@@ -2347,7 +2347,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス？ 祥に会わせて"
+          "Text": "Mortis？让我和祥见面"
         },
         {
           "Name": "voice_12",
@@ -2356,7 +2356,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス、おねがい"
+          "Text": "Mortis，求你了"
         },
         {
           "Name": "voice_13",
@@ -2365,7 +2365,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス、わかって"
+          "Text": "Mortis，你要理解我"
         },
         {
           "Name": "voice_14",
@@ -2374,7 +2374,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ごめんなさい。バンド……壊して ギター下手で……ずっと謝りたかった……"
+          "Text": "对不起。我……毁了乐队，\n我弹得不好……我一直都很想道歉……"
         },
         {
           "Name": "voice_15",
@@ -2401,7 +2401,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "新作コスメのCM撮り、ドラマのインタビュー…… あと……"
+          "Text": "拍新化妆品的广告，剧集采访……\n还有……"
         },
         {
           "Name": "voice_18",
@@ -2419,7 +2419,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お願いだから祥に会わせて。祥と話がしたいの"
+          "Text": "求你了，让我和祥见面。我要和祥说话"
         },
         {
           "Name": "voice_20",
@@ -2428,7 +2428,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "私は……バンド、楽しいって思ったこと一度もない"
+          "Text": "我……从来没觉得乐队有什么开心的"
         },
         {
           "Name": "voice_21",
@@ -2437,7 +2437,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "再デビューからまだ一週間しか経ってない"
+          "Text": "重新出道才过了一周而已"
         },
         {
           "Name": "voice_22",
@@ -2446,7 +2446,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……そよは今バンドをやってる。 私も誘われてる"
+          "Text": "……爽世现在在组乐队。\n她也邀请我了"
         },
         {
           "Name": "voice_23",
@@ -2455,7 +2455,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そよたちのライブの日なら会えると思う"
+          "Text": "演出那天，应该能见到爽世她们"
         },
         {
           "Name": "voice_24",
@@ -2464,7 +2464,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "任せてって言ったのに。あんなのひどい"
+          "Text": "你说交给你，结果却是这样。太过分了"
         },
         {
           "Name": "voice_25",
@@ -2473,7 +2473,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……きゅうり。 そっちがトマト……こっちはナス……"
+          "Text": "……黄瓜。\n那边是番茄……这边是茄子……"
         },
         {
           "Name": "voice_26",
@@ -2482,7 +2482,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "メッセージ送っても、返事なかったから……"
+          "Text": "因为我发消息给你，你也不回复……"
         },
         {
           "Name": "voice_27",
@@ -2491,7 +2491,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そよを止めて。祥の家に行かせないで"
+          "Text": "快去阻止爽世。别让她去祥家"
         },
         {
           "Name": "voice_28",
@@ -2500,7 +2500,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……そよが心配してる。 家に行きたいって……"
+          "Text": "……爽世很担心你。\n说想去你家……"
         },
         {
           "Name": "voice_29",
@@ -2509,7 +2509,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "もうムジカしか祥にはないのに……！"
+          "Text": "除了Mujica，祥已经一无所有了……！"
         }
       ],
       "ws_voice_1_1#2": [
@@ -2520,7 +2520,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "祥はAve Mujicaの誘いを断った。 きっとまたCRYCHICをやってくれる"
+          "Text": "祥拒绝了重组Ave Mujica的邀请。\n她肯定会为我重组CRYCHIC"
         },
         {
           "Name": "voice_1",
@@ -2529,7 +2529,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICの祥はいつもしあわせそうだった。 だけどAve Mujicaの祥は……ずっと苦しそうで……"
+          "Text": "CRYCHIC的祥看起来总是很幸福。\n可是，Ave Mujica的祥……看起来一直很痛苦……"
         },
         {
           "Name": "voice_2",
@@ -2556,7 +2556,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICは壊れたから 今度はちゃんとやりたかったのに"
+          "Text": "CRYCHIC已经毁了\n所以这次我想好好坚持的"
         },
         {
           "Name": "voice_5",
@@ -2574,7 +2574,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICじゃないのになにがわかるの"
+          "Text": "你又不属于CRYCHIC，你懂什么"
         },
         {
           "Name": "voice_7",
@@ -2583,7 +2583,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "言ったはず、私は…… CRYCHICをもう一度……"
+          "Text": "我说了，我想……\n再一次组CRYCHIC……"
         },
         {
           "Name": "voice_8",
@@ -2610,7 +2610,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "祥とCRYCHICやりたい"
+          "Text": "我想再一次和祥组CRYCHIC"
         },
         {
           "Name": "voice_11",
@@ -2619,7 +2619,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス？ 祥に会わせて"
+          "Text": "Mortis？让我和祥见面"
         },
         {
           "Name": "voice_12",
@@ -2628,7 +2628,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス、おねがい"
+          "Text": "Mortis，求你了"
         },
         {
           "Name": "voice_13",
@@ -2637,7 +2637,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス、わかって"
+          "Text": "Mortis，你要理解我"
         },
         {
           "Name": "voice_14",
@@ -2646,7 +2646,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ごめんなさい。バンド……壊して ギター下手で……ずっと謝りたかった……"
+          "Text": "对不起。我……毁了乐队，\n我弹得不好……我一直都很想道歉……"
         },
         {
           "Name": "voice_15",
@@ -2673,7 +2673,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "新作コスメのCM撮り、ドラマのインタビュー…… あと……"
+          "Text": "拍新化妆品的广告，剧集采访……\n还有……"
         },
         {
           "Name": "voice_18",
@@ -2691,7 +2691,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お願いだから祥に会わせて。祥と話がしたいの"
+          "Text": "求你了，让我和祥见面。我要和祥说话"
         },
         {
           "Name": "voice_20",
@@ -2700,7 +2700,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "私は……バンド、楽しいって思ったこと一度もない"
+          "Text": "我……从来没觉得乐队有什么开心的"
         },
         {
           "Name": "voice_21",
@@ -2709,7 +2709,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "再デビューからまだ一週間しか経ってない"
+          "Text": "重新出道才过了一周而已"
         },
         {
           "Name": "voice_22",
@@ -2718,7 +2718,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……そよは今バンドをやってる。 私も誘われてる"
+          "Text": "……爽世现在在组乐队。\n她也邀请我了"
         },
         {
           "Name": "voice_23",
@@ -2727,7 +2727,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そよたちのライブの日なら会えると思う"
+          "Text": "演出那天，应该能见到爽世她们"
         },
         {
           "Name": "voice_24",
@@ -2736,7 +2736,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "任せてって言ったのに。あんなのひどい"
+          "Text": "你说交给你，结果却是这样。太过分了"
         },
         {
           "Name": "voice_25",
@@ -2745,7 +2745,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……きゅうり。 そっちがトマト……こっちはナス……"
+          "Text": "……黄瓜。\n那边是番茄……这边是茄子……"
         },
         {
           "Name": "voice_26",
@@ -2754,7 +2754,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "メッセージ送っても、返事なかったから……"
+          "Text": "因为我发消息给你，你也不回复……"
         },
         {
           "Name": "voice_27",
@@ -2763,7 +2763,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そよを止めて。祥の家に行かせないで"
+          "Text": "快去阻止爽世。别让她去祥家"
         },
         {
           "Name": "voice_28",
@@ -2772,7 +2772,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……そよが心配してる。 家に行きたいって……"
+          "Text": "……爽世很担心你。\n说想去你家……"
         },
         {
           "Name": "voice_29",
@@ -2781,7 +2781,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_mutsumi ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "もうムジカしか祥にはないのに……！"
+          "Text": "除了Mujica，祥已经一无所有了……！"
         }
       ],
       "ws_voice_run#6": [

@@ -2176,7 +2176,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（あれからモーティスさんの様子を見にくるようには していますが……）"
+          "Text": "（虽说我在那之后也会不时来看看\nMortis同学的状况……）"
         },
         {
           "Name": "voice_3",
@@ -2185,7 +2185,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "昨日のリハ。CRYCHICでしたっけ。 見せつけてくれますね"
+          "Text": "昨天的彩排，是叫CRYCHIC来着。\n真是好一通炫耀啊"
         },
         {
           "Name": "voice_4",
@@ -2194,7 +2194,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティスさん。 確認ですが、あなたギター弾けませんよね"
+          "Text": "Mortis同学，\n我确认一下，你不会弹吉他，对吧"
         },
         {
           "Name": "voice_5",
@@ -2212,7 +2212,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この一生で、いちばん最初に組んだバンド——"
+          "Text": "我这辈子组的第一支乐队——"
         },
         {
           "Name": "voice_7",
@@ -2257,7 +2257,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ああ……知っているもなにも、Ave Mujicaが解散に至った きっかけが彼女なので"
+          "Text": "哦……何止是知道。Ave Mujica最终解散的\n契机就是她"
         },
         {
           "Name": "voice_12",
@@ -2266,7 +2266,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "豊川さんも若葉さんも複数のバンドを掛け持ちできるほど 器用ではなさそうなので"
+          "Text": "毕竟丰川同学和若叶同学似乎并没有八面玲珑到\n能够兼任两支乐队"
         },
         {
           "Name": "voice_13",
@@ -2284,7 +2284,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『お宅に伺ったらポストに 一週間前のタウン情報誌が入ったままだったんですよ——』"
+          "Text": "『我去她家找人，信箱里\n一周前的本地杂志都没收——』"
         },
         {
           "Name": "voice_15",
@@ -2293,7 +2293,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "はい。例年豊川グループ主催で行う 関係者のみを招いた豪華客船パーティだそうです"
+          "Text": "是的。听说是丰川集团每年主办，\n只邀请相关人士出席的豪华游轮派对"
         },
         {
           "Name": "voice_16",
@@ -2302,7 +2302,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "以前より豊川さんから 若葉さんの仕事のペースを調整するよう言われておりましたので"
+          "Text": "因为之前丰川同学就让我\n调整若叶同学的工作节奏了"
         },
         {
           "Name": "voice_17",
@@ -2311,7 +2311,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "波の出る巨大プール、スパ施設、映画館にゴルフ場…… 加えて一流コンシェルジュのおもてなし……度肝を抜かれました"
+          "Text": "巨大的人工造浪池、水疗中心、电影院还有高尔夫球场……\n再加上一流礼宾的盛情款待……真是让我大开眼界"
         },
         {
           "Name": "voice_18",
@@ -2320,7 +2320,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですか、 朝っぱらからエアドラムキメるのが 通常運転とは知りませんでした"
+          "Text": "是吗，\n我第一次听说一大早\n就在打空气鼓算是正常状态"
         },
         {
           "Name": "voice_19",
@@ -2338,7 +2338,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですか、 朝っぱらからニヤニヤ笑ってるのが 通常運転とは知りませんでした"
+          "Text": "是吗，\n一大早就笑嘻嘻的，\n我可不认为这叫正常"
         },
         {
           "Name": "voice_21",
@@ -2347,7 +2347,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "まぁ、実質動いてるのは１０くらいですが。 一週間前までに連絡いただければ、可能な限り参加しますので"
+          "Text": "不过，实际在活动的大概有10支左右吧。\n提前一个星期联系我的话，我会尽可能参加的"
         },
         {
           "Name": "voice_22",
@@ -2356,7 +2356,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ちょっ！ なんなんですか。引っ張らないでください！ 私この場にいないと信用が……！"
+          "Text": "等等！你干什么啊。不要拉我！\n我必须留在那儿，不然我的信用就……！"
         },
         {
           "Name": "voice_23",
@@ -2365,7 +2365,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『一体私の何が悪かったんですか？ ここにきてまだ信用してくれないんですか？』"
+          "Text": "『我到底做错什么了？\n事到如今还是不肯信任我吗？』"
         },
         {
           "Name": "voice_24",
@@ -2374,7 +2374,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "豊川さんが望むAve Mujicaからは外れるかもしれませんが"
+          "Text": "或许确实不同于丰川同学理想中的Ave Mujica"
         },
         {
           "Name": "voice_25",
@@ -2383,7 +2383,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ツアー初日に弾いた曲もですか？ さほどセトリは変わっていませんが"
+          "Text": "巡演首日弹过的曲子也不行吗？\n节目单的改动并不大"
         },
         {
           "Name": "voice_26",
@@ -2392,7 +2392,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "若葉さんがああなった以上、 バンドの継続は不可能と判断されました"
+          "Text": "既然若叶同学已经变成那样，\n大家判断乐队不可能继续办下去了"
         },
         {
           "Name": "voice_27",
@@ -2401,7 +2401,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『連絡もなしにこういうのやめてほしいんですよ、 トラウマなんですよ！』"
+          "Text": "『能不能别这样一言不发就放鸽子啊，\n我都有心理阴影了！』"
         },
         {
           "Name": "voice_28",
@@ -2410,7 +2410,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "自分のバンドのことで悩めるのが、 少しうらやましくもあります。……では"
+          "Text": "你能为自己的乐队发愁，\n我其实还挺羡慕的。再见"
         },
         {
           "Name": "voice_29",
@@ -2419,7 +2419,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "八幡海鈴です。 ３０ほどバンドを兼任していますが、それでもよければ"
+          "Text": "我是八幡海铃。\n在大概30支乐队中兼职，不介意的话就好"
         }
       ],
       "ws_voice_1_1#2": [
@@ -2448,7 +2448,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（あれからモーティスさんの様子を見にくるようには していますが……）"
+          "Text": "（虽说我在那之后也会不时来看看\nMortis同学的状况……）"
         },
         {
           "Name": "voice_3",
@@ -2457,7 +2457,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "昨日のリハ。CRYCHICでしたっけ。 見せつけてくれますね"
+          "Text": "昨天的彩排，是叫CRYCHIC来着。\n真是好一通炫耀啊"
         },
         {
           "Name": "voice_4",
@@ -2466,7 +2466,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティスさん。 確認ですが、あなたギター弾けませんよね"
+          "Text": "Mortis同学，\n我确认一下，你不会弹吉他，对吧"
         },
         {
           "Name": "voice_5",
@@ -2484,7 +2484,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この一生で、いちばん最初に組んだバンド——"
+          "Text": "我这辈子组的第一支乐队——"
         },
         {
           "Name": "voice_7",
@@ -2529,7 +2529,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ああ……知っているもなにも、Ave Mujicaが解散に至った きっかけが彼女なので"
+          "Text": "哦……何止是知道。Ave Mujica最终解散的\n契机就是她"
         },
         {
           "Name": "voice_12",
@@ -2538,7 +2538,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "豊川さんも若葉さんも複数のバンドを掛け持ちできるほど 器用ではなさそうなので"
+          "Text": "毕竟丰川同学和若叶同学似乎并没有八面玲珑到\n能够兼任两支乐队"
         },
         {
           "Name": "voice_13",
@@ -2556,7 +2556,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『お宅に伺ったらポストに 一週間前のタウン情報誌が入ったままだったんですよ——』"
+          "Text": "『我去她家找人，信箱里\n一周前的本地杂志都没收——』"
         },
         {
           "Name": "voice_15",
@@ -2565,7 +2565,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "はい。例年豊川グループ主催で行う 関係者のみを招いた豪華客船パーティだそうです"
+          "Text": "是的。听说是丰川集团每年主办，\n只邀请相关人士出席的豪华游轮派对"
         },
         {
           "Name": "voice_16",
@@ -2574,7 +2574,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "以前より豊川さんから 若葉さんの仕事のペースを調整するよう言われておりましたので"
+          "Text": "因为之前丰川同学就让我\n调整若叶同学的工作节奏了"
         },
         {
           "Name": "voice_17",
@@ -2583,7 +2583,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "波の出る巨大プール、スパ施設、映画館にゴルフ場…… 加えて一流コンシェルジュのおもてなし……度肝を抜かれました"
+          "Text": "巨大的人工造浪池、水疗中心、电影院还有高尔夫球场……\n再加上一流礼宾的盛情款待……真是让我大开眼界"
         },
         {
           "Name": "voice_18",
@@ -2592,7 +2592,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですか、 朝っぱらからエアドラムキメるのが 通常運転とは知りませんでした"
+          "Text": "是吗，\n我第一次听说一大早\n就在打空气鼓算是正常状态"
         },
         {
           "Name": "voice_19",
@@ -2610,7 +2610,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですか、 朝っぱらからニヤニヤ笑ってるのが 通常運転とは知りませんでした"
+          "Text": "是吗，\n一大早就笑嘻嘻的，\n我可不认为这叫正常"
         },
         {
           "Name": "voice_21",
@@ -2619,7 +2619,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "まぁ、実質動いてるのは１０くらいですが。 一週間前までに連絡いただければ、可能な限り参加しますので"
+          "Text": "不过，实际在活动的大概有10支左右吧。\n提前一个星期联系我的话，我会尽可能参加的"
         },
         {
           "Name": "voice_22",
@@ -2628,7 +2628,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ちょっ！ なんなんですか。引っ張らないでください！ 私この場にいないと信用が……！"
+          "Text": "等等！你干什么啊。不要拉我！\n我必须留在那儿，不然我的信用就……！"
         },
         {
           "Name": "voice_23",
@@ -2637,7 +2637,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『一体私の何が悪かったんですか？ ここにきてまだ信用してくれないんですか？』"
+          "Text": "『我到底做错什么了？\n事到如今还是不肯信任我吗？』"
         },
         {
           "Name": "voice_24",
@@ -2646,7 +2646,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "豊川さんが望むAve Mujicaからは外れるかもしれませんが"
+          "Text": "或许确实不同于丰川同学理想中的Ave Mujica"
         },
         {
           "Name": "voice_25",
@@ -2655,7 +2655,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ツアー初日に弾いた曲もですか？ さほどセトリは変わっていませんが"
+          "Text": "巡演首日弹过的曲子也不行吗？\n节目单的改动并不大"
         },
         {
           "Name": "voice_26",
@@ -2664,7 +2664,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "若葉さんがああなった以上、 バンドの継続は不可能と判断されました"
+          "Text": "既然若叶同学已经变成那样，\n大家判断乐队不可能继续办下去了"
         },
         {
           "Name": "voice_27",
@@ -2673,7 +2673,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『連絡もなしにこういうのやめてほしいんですよ、 トラウマなんですよ！』"
+          "Text": "『能不能别这样一言不发就放鸽子啊，\n我都有心理阴影了！』"
         },
         {
           "Name": "voice_28",
@@ -2682,7 +2682,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "自分のバンドのことで悩めるのが、 少しうらやましくもあります。……では"
+          "Text": "你能为自己的乐队发愁，\n我其实还挺羡慕的。再见"
         },
         {
           "Name": "voice_29",
@@ -2691,7 +2691,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_umiri ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "八幡海鈴です。 ３０ほどバンドを兼任していますが、それでもよければ"
+          "Text": "我是八幡海铃。\n在大概30支乐队中兼职，不介意的话就好"
         }
       ],
       "ws_voice_run#6": [

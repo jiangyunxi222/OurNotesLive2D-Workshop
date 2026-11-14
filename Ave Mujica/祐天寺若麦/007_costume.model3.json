@@ -2327,7 +2327,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "——はい祐天寺です。ええっ、舞台ですか？ プロデューサーから直接オーディションの案内？"
+          "Text": "——您好，我是祐天寺。什么，舞台剧？\n制作人亲自发来的试镜通知？"
         },
         {
           "Name": "voice_10",
@@ -2336,7 +2336,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "学校はちゃんと行くって約束で上京させてもらってるから 親に申し訳なくって！"
+          "Text": "我向父母保证会好好上学，他们才同意我来东京的。\n落下的话就辜负父母了！"
         },
         {
           "Name": "voice_11",
@@ -2345,7 +2345,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "Win-Wing-Production所属、祐天寺にゃむ。 よろしくお願いします"
+          "Text": "我是隶属于Win-Wing-Production的祐天寺若麦。\n请多多指教"
         },
         {
           "Name": "voice_12",
@@ -2354,7 +2354,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "てか、なんで急にこんなデカめの仕事？ 話がトントン拍子すぎて、怖いんですけど"
+          "Text": "话说回来，怎么突然来了这么个大活儿？\n进展也太顺了，我都觉得有点吓人"
         },
         {
           "Name": "voice_13",
@@ -2363,7 +2363,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『でも、時間と手間はかけたくな～い！ ……そんな時こそ、簡単にできちゃうバッチリメイク！』"
+          "Text": "『但是，又不想花费太多时间和精力~！\n……这时候，你就需要一套能轻松完成的全套妆容！』"
         },
         {
           "Name": "voice_14",
@@ -2372,7 +2372,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ありがとうございます！ ほらアタシたち、人形って設定だったじゃないですか"
+          "Text": "非常感谢！\n我们之前的设定不是人偶嘛"
         },
         {
           "Name": "voice_15",
@@ -2381,7 +2381,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "いまお時間よろしいですか？ ちょっと、ご相談したいことがあるんですけど"
+          "Text": "能占用您一点时间吗？\n我想和您商量一些事情"
         },
         {
           "Name": "voice_16",
@@ -2390,7 +2390,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "おはにゃむ〜。今回はこちらっ！ 激辛ラーメンににゃむっと挑戦しちゃいま〜す"
+          "Text": "早安Nyamu～这次来到了这家！\nNyamu要来挑战超辣拉面哦～"
         },
         {
           "Name": "voice_17",
@@ -2399,7 +2399,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『こんばんにゃむにゃむ～。 今日もにゃむっとおすすめメイク紹介しちゃうね～』"
+          "Text": "『晚上好若麦若麦~\n今天我也要为大家介绍一些推荐的妆容哦~』"
         },
         {
           "Name": "voice_18",
@@ -2408,7 +2408,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（バンドは終わったんだから……！ なんでも踏み台にして、先に進まなきゃって……！）"
+          "Text": "（乐队已经结束了……！\n我必须把一切都当成垫脚石，不断向前迈进才行……！）"
         },
         {
           "Name": "voice_19",
@@ -2435,7 +2435,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "選ばれた人間だけの 超セレブでクローズドなパーティなんだから"
+          "Text": "那可是仅限受邀者参加的，\n极其私密的顶级名流派对啊"
         },
         {
           "Name": "voice_22",
@@ -2462,7 +2462,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『これなら忙しい朝も大丈夫！ 時短で楽してワンランクアップしよ？』"
+          "Text": "『有了这个，即使是忙乱的早晨也没问题了！\n一起快速轻松地升级吧？』"
         },
         {
           "Name": "voice_25",
@@ -2480,7 +2480,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "はぁ〜……こらど〜し！ ほんなこつ、からかばい！ 口ん中のまだヒリヒリす〜"
+          "Text": "哈啊～搞毛啊！\n真是辣死咱了！嘴里现在还火辣辣的～"
         },
         {
           "Name": "voice_27",
@@ -2489,7 +2489,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "明日を楽しみにしてくれてるゲストのこと考えたことある？"
+          "Text": "你考虑过期待明天演唱会的来宾吗？"
         },
         {
           "Name": "voice_28",
@@ -2498,7 +2498,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チケット代だけじゃない。交通費も宿泊代もたくさんかかる"
+          "Text": "不光是入场券费用，交通费住宿费都要花很多钱"
         },
         {
           "Name": "voice_29",
@@ -2507,7 +2507,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_manual_voice_finished_7#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ありがとうございます〜！ みなみちゃんもまた映画の主演って"
+          "Text": "谢谢夸奖～！\n也祝贺南再次担任电影主演"
         }
       ],
       "ws_voice_1_1#2": [
@@ -2599,7 +2599,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "——はい祐天寺です。ええっ、舞台ですか？ プロデューサーから直接オーディションの案内？"
+          "Text": "——您好，我是祐天寺。什么，舞台剧？\n制作人亲自发来的试镜通知？"
         },
         {
           "Name": "voice_10",
@@ -2608,7 +2608,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "学校はちゃんと行くって約束で上京させてもらってるから 親に申し訳なくって！"
+          "Text": "我向父母保证会好好上学，他们才同意我来东京的。\n落下的话就辜负父母了！"
         },
         {
           "Name": "voice_11",
@@ -2617,7 +2617,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "Win-Wing-Production所属、祐天寺にゃむ。 よろしくお願いします"
+          "Text": "我是隶属于Win-Wing-Production的祐天寺若麦。\n请多多指教"
         },
         {
           "Name": "voice_12",
@@ -2626,7 +2626,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "てか、なんで急にこんなデカめの仕事？ 話がトントン拍子すぎて、怖いんですけど"
+          "Text": "话说回来，怎么突然来了这么个大活儿？\n进展也太顺了，我都觉得有点吓人"
         },
         {
           "Name": "voice_13",
@@ -2635,7 +2635,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『でも、時間と手間はかけたくな～い！ ……そんな時こそ、簡単にできちゃうバッチリメイク！』"
+          "Text": "『但是，又不想花费太多时间和精力~！\n……这时候，你就需要一套能轻松完成的全套妆容！』"
         },
         {
           "Name": "voice_14",
@@ -2644,7 +2644,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ありがとうございます！ ほらアタシたち、人形って設定だったじゃないですか"
+          "Text": "非常感谢！\n我们之前的设定不是人偶嘛"
         },
         {
           "Name": "voice_15",
@@ -2653,7 +2653,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "いまお時間よろしいですか？ ちょっと、ご相談したいことがあるんですけど"
+          "Text": "能占用您一点时间吗？\n我想和您商量一些事情"
         },
         {
           "Name": "voice_16",
@@ -2662,7 +2662,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "おはにゃむ〜。今回はこちらっ！ 激辛ラーメンににゃむっと挑戦しちゃいま〜す"
+          "Text": "早安Nyamu～这次来到了这家！\nNyamu要来挑战超辣拉面哦～"
         },
         {
           "Name": "voice_17",
@@ -2671,7 +2671,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『こんばんにゃむにゃむ～。 今日もにゃむっとおすすめメイク紹介しちゃうね～』"
+          "Text": "『晚上好若麦若麦~\n今天我也要为大家介绍一些推荐的妆容哦~』"
         },
         {
           "Name": "voice_18",
@@ -2680,7 +2680,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（バンドは終わったんだから……！ なんでも踏み台にして、先に進まなきゃって……！）"
+          "Text": "（乐队已经结束了……！\n我必须把一切都当成垫脚石，不断向前迈进才行……！）"
         },
         {
           "Name": "voice_19",
@@ -2707,7 +2707,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "選ばれた人間だけの 超セレブでクローズドなパーティなんだから"
+          "Text": "那可是仅限受邀者参加的，\n极其私密的顶级名流派对啊"
         },
         {
           "Name": "voice_22",
@@ -2734,7 +2734,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『これなら忙しい朝も大丈夫！ 時短で楽してワンランクアップしよ？』"
+          "Text": "『有了这个，即使是忙乱的早晨也没问题了！\n一起快速轻松地升级吧？』"
         },
         {
           "Name": "voice_25",
@@ -2752,7 +2752,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "はぁ〜……こらど〜し！ ほんなこつ、からかばい！ 口ん中のまだヒリヒリす〜"
+          "Text": "哈啊～搞毛啊！\n真是辣死咱了！嘴里现在还火辣辣的～"
         },
         {
           "Name": "voice_27",
@@ -2761,7 +2761,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "明日を楽しみにしてくれてるゲストのこと考えたことある？"
+          "Text": "你考虑过期待明天演唱会的来宾吗？"
         },
         {
           "Name": "voice_28",
@@ -2770,7 +2770,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チケット代だけじゃない。交通費も宿泊代もたくさんかかる"
+          "Text": "不光是入场券费用，交通费住宿费都要花很多钱"
         },
         {
           "Name": "voice_29",
@@ -2779,7 +2779,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nyamu ws_voice_finished_7#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ありがとうございます〜！ みなみちゃんもまた映画の主演って"
+          "Text": "谢谢夸奖～！\n也祝贺南再次担任电影主演"
         }
       ],
       "ws_voice_run#6": [

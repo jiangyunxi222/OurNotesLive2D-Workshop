@@ -175,7 +175,7 @@
     "assets/hitareas/001.moc": "7cc40de7c0ff4763b67c84a8a1bd656b34d8be92ef250649040012504a1676a1",
     "assets/hitareas/002.moc": "69125847adda3c5b7d49c63d8feb343e0974a0544464d34a5ad757f4b37ad973",
     "source-lock.json": "125b3bb54b6dd96a66ddc3371374e48b7944c2ae6ea2348e3ac194f73247bede",
-    "assets/voices/voice-sources.json": "6cd5163ce7a58cc33981c0908e5b7ae431e2f7a0a9cbd9de0df12467320d56e9",
+    "assets/voices/voice-sources.json": "9ab09dbfecdde2217ea031935af2963fd604f591e66a4acb8ae565ccb46354f2",
     "assets/menu/001.moc": "d2c291527768b1369e6f9697733f2efd9e238c03b8e92080d41c08755f46e583",
     "assets/menu/002.moc": "243fbff269c00b17b1d2fdc20036a6c68e45c1160d50f44a0dae5d091274fbde",
     "assets/menu/LICENSE-GenSen.txt": "d84b652ca46586043946969a33c1dbf5a43028440825ae744a325965bec4c8fb",
@@ -196,7 +196,7 @@
     "assets/voices/curated_adv_voice_yumemita_003_1_07_093.wav": "f452442edd5210e737eef4900e4b0e3dab754142b94c829f9901b1e8f44be46c",
     "assets/voices/curated_adv_voice_yumemita_003_1_18_053.wav": "da899e7cf29e291ab463f4e28228c7d6e78314e9ab0821052e5418dde3e4a35a",
     "assets/voices/curated_adv_voice_yumemita_003_1_19_051.wav": "4a0c4b2614e29c67a77e7752cfe5f33d12af0def7c6c6121b514703007c69b93",
-    "assets/voices/curated_adv_voice_yumemita_003_1_02_160.wav": "70212cea0496b244835d1ab8f37489789d7f917cefba48dc6409744999b9d32e",
+    "assets/voices/curated_adv_voice_yumemita_003_1_02_160.wav": "6d7610c7a168c1590fc1595b69180739a8a21ecb9a4525c33c16510aa93497f5",
     "assets/voices/curated_adv_voice_yumemita_003_1_19_081.wav": "18a274eaaf7fe7320977f57864938fb0781f375f17324c980b58a6bc5ea3f9ad",
     "assets/voices/curated_adv_voice_yumemita_003_1_07_176.wav": "13ba80f5e49f748b350d3e00e2b20db17b3fbf98775f7283cbdb42cd2bed258b",
     "assets/voices/curated_adv_voice_yumemita_003_1_06_013.wav": "8cc90699549a4346793f72019e5914df7d307c5810a673f9ec3d645125e4a3b2",
@@ -262,7 +262,7 @@
     "assets/voices/eab78f6aae2a5899249b46276a5cb247.wav",
     "assets/voices/fc1f53d356a15545f08856163e1e6cf1.wav"
   ],
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 30,
   "motion_layer_revision": 1,
   "motion_layer_replacements": {

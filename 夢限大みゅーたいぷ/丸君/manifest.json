@@ -14,7 +14,7 @@
   "viewerex_runtime_verified": false,
   "policy_revision": 3,
   "files_sha256": {
-    "001_costume.model3.json": "462a3d34ebb169048590a483f3982c55ee13be59f66c819da64fb3bfade192dc",
+    "001_costume.model3.json": "5950dbb93e6f4556411cb983a1801923639fbdd1e06a481a235e1547fae4cc05",
     "00_integrated.model3.json": "12659d9fcb7070875ffdc41643b37ed83399cbffaace0fc570c24e44c9dc04c5",
     "assets/anchor/transparent.png": "43739c566e26fd7cb88f69d3864ea34740372f5ee99acac169e090beffbce5c6",
     "assets/expressions/1a6eed5784deeae5ad751e6a27f281bf.exp3.json": "2e439bf3a3205cf937d49dc856b8cb853bf7bacf5fb2f8e3b6cbaa8a6f20ddb3",
@@ -86,7 +86,7 @@
     "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_033.wav": "7b195d9f168d61863a7e0b55d0f30f1a62f70ce26d009f85dba0490c22994cae",
     "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_009.wav": "5cd0d1fa2ec3a08da0e9566c11343f4e38894ad0c271d7a15e5074555dcc6638",
     "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_012.wav": "ab827093b6c45229aa6d502f35a2a8848eee01ab6316f90fef29272014a44885",
-    "assets/voices/voice-sources.json": "fca3428ed6067a61419b26b0f0604241e9c6273269dcc228b92e96a5715b8a82",
+    "assets/voices/voice-sources.json": "8e2202216dc4bea685868a8e57f94a743c846cc525e5c22cdd7e2ea33e79205a",
     "assets/voices/curated_adv_voice_yumemita_003_1_05_154.wav": "02103a913be4de756a9e825b1b3307c00078c172953dcc764d35d5cecfe0a8ae",
     "assets/voices/curated_adv_voice_yumemita_003_1_08_130.wav": "b44d3ada47dbb66e3697fd624a80dfbc4ea4c2d239f706581a3bba30dfe8e3a4",
     "assets/voices/curated_adv_voice_yumemita_003_1_05_149.wav": "e0c7beda5b1513f847cf5b30cdd7e9f080a2507032fed7ba0335ab1b79c144d3",
@@ -604,7 +604,7 @@
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
   "workshop_native_menu_revision": 11,
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 28,
   "curated_voice_counts": {
     "primary": 28

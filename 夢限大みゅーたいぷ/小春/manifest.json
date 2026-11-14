@@ -202,7 +202,7 @@
     "assets/voices/curated_adv_voice_yumemita_003_1_15_003.wav": "302c36444be072feffd6c280059e561355b3a237724a830bbbfeb3743fbe2140",
     "assets/voices/curated_adv_voice_yumemita_003_1_16_077.wav": "233c723bf37454b660b91f8a118112ca733bdec847271b26723690bc77c4b22d",
     "assets/voices/curated_adv_voice_yumemita_003_1_15_083.wav": "b793c9f789fa0f5145adbdc9e515747f479f8740778b3b1cea927a2da7b5bc97",
-    "assets/voices/voice-sources.json": "ccebae88dab3f602a81f29d54ee26cca351701ef8eb7101adf2aef8f8968b975"
+    "assets/voices/voice-sources.json": "e68c3d72b636f815eb06592a83652ee4217c158128ffc0bd4a674bfbf93739db"
   },
   "interaction_repairs": true,
   "menu_version": 2,
@@ -2757,7 +2757,7 @@
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
   "workshop_native_menu_revision": 11,
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 30,
   "curated_voice_counts": {
     "primary": 30

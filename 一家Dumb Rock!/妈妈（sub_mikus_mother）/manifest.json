@@ -64,7 +64,7 @@
     "assets/voices/curated_adv_voice_kadan_005_1_16_143.wav": "771148234f6c80a962f28ef82792a33f0a93a4a9e5cd0c521ce080211b52f3e4",
     "assets/voices/curated_adv_voice_kadan_005_1_05_065.wav": "cf6ef74c2d4f4328e9a1583cf1b11557d0e7f6575b14153b733df2e8d10227d3",
     "assets/voices/curated_adv_voice_kadan_005_1_16_124.wav": "dc43490b4e230886e3eccc2c20d180914cb63c3541e45ac3cc89bd86266a6a8e",
-    "assets/voices/voice-sources.json": "4fffbefa933921b2d5f6d30316562ccaf6509e8b28f4803c4354c173d1b5bcd0"
+    "assets/voices/voice-sources.json": "8dde744f5b7510083f1d5bdede6536ae8bea1bf32cfbe254c8dd0b1dbdf1879c"
   },
   "interaction_repairs": true,
   "menu_version": 2,
@@ -145,7 +145,7 @@
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
   "workshop_native_menu_revision": 11,
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 22,
   "curated_voice_counts": {
     "primary": 22

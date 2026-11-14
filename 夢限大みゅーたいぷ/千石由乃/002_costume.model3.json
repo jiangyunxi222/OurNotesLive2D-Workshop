@@ -2141,7 +2141,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yuno ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……ちょっと待って、なんか断面からサンドイッチじゃ 見たことない具材が覗いてる"
+          "Text": "……等等，从切面看，好像有三明治里没见过的食材"
         },
         {
           "Name": "voice_7",
@@ -2204,7 +2204,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yuno ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "薄暗い中に光が差して、ただ静かで、 それでもマグロが動き続けてて――"
+          "Text": "昏暗中有光射进来，一片寂静，\n但金枪鱼却一直在游动——"
         },
         {
           "Name": "voice_14",
@@ -2249,7 +2249,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yuno ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "別にいないけど…… この水槽がすごい好きってわけでもないし"
+          "Text": "也没什么特别推荐的……\n我也不是特别喜欢这个水族馆"
         },
         {
           "Name": "voice_19",
@@ -2413,7 +2413,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yuno ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……ちょっと待って、なんか断面からサンドイッチじゃ 見たことない具材が覗いてる"
+          "Text": "……等等，从切面看，好像有三明治里没见过的食材"
         },
         {
           "Name": "voice_7",
@@ -2476,7 +2476,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yuno ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "薄暗い中に光が差して、ただ静かで、 それでもマグロが動き続けてて――"
+          "Text": "昏暗中有光射进来，一片寂静，\n但金枪鱼却一直在游动——"
         },
         {
           "Name": "voice_14",
@@ -2521,7 +2521,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yuno ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "別にいないけど…… この水槽がすごい好きってわけでもないし"
+          "Text": "也没什么特别推荐的……\n我也不是特别喜欢这个水族馆"
         },
         {
           "Name": "voice_19",

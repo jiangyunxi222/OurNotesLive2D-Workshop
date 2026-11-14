@@ -2398,7 +2398,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "迎えのバンが来てるから急いで着替えようっ。 漁に間に合わないって！"
+          "Text": "来接我们的车已经到了，赶紧换衣服吧。\n不然赶不上捕鱼了！"
         },
         {
           "Name": "voice_2",
@@ -2434,7 +2434,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "楽しいっていうか嬉しい！ だって心玖のこともっと知りたいもん"
+          "Text": "与其说有意思，不如说是高兴啦！\n毕竟我想多了解心玖一点嘛"
         },
         {
           "Name": "voice_6",
@@ -2479,7 +2479,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "だからああやってご飯の時に 話してくれると嬉しいんだよね"
+          "Text": "所以像那样，大家在吃饭的时候\n愿意把这些事分享给我，我就会很开心呀"
         },
         {
           "Name": "voice_11",
@@ -2497,7 +2497,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "てか寧月、今日どうだった？ たくさん初めてのことしたんだよね？"
+          "Text": "对了宁月，今天怎么样？\n经历了很多第一次吧？"
         },
         {
           "Name": "voice_13",
@@ -2506,7 +2506,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うっ……わかったけど、でも、 そんなに怒んなくたっていいじゃんか〜！"
+          "Text": "唔……我明白了，可是，\n你也没必要那么生气嘛～！"
         },
         {
           "Name": "voice_14",
@@ -2551,7 +2551,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お〜、絶好調じゃん。 新しいバイト初日で緊張したかと思ったのに〜"
+          "Text": "哦～状态超好嘛。\n我还以为你新打工第一天会紧张呢～"
         },
         {
           "Name": "voice_19",
@@ -2560,7 +2560,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "だって心玖はこれから一生 おいしいご飯が食べられるんだよ！"
+          "Text": "因为心玖从今往后一辈子\n都能吃到美味的饭菜了呀！"
         },
         {
           "Name": "voice_20",
@@ -2569,7 +2569,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "心玖が曲作ってるとこ見たい！ 本当に静かにするから、お願いっ"
+          "Text": "我想看看心玖作曲的样子！\n我真的会安静的，求你了"
         },
         {
           "Name": "voice_21",
@@ -2596,7 +2596,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "心玖の家はどんなこと話してたの？ ご飯の時とか寝る前とか"
+          "Text": "心玖家里都会聊些什么呢？\n比如吃饭的时候，或者睡觉前"
         },
         {
           "Name": "voice_24",
@@ -2605,7 +2605,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "寝ない、つーか寝れない！ だってファミリー初のおでかけだよ"
+          "Text": "才不睡，不对，是根本睡不着！\n因为这可是Family第一次出去玩啊"
         },
         {
           "Name": "voice_25",
@@ -2670,7 +2670,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "迎えのバンが来てるから急いで着替えようっ。 漁に間に合わないって！"
+          "Text": "来接我们的车已经到了，赶紧换衣服吧。\n不然赶不上捕鱼了！"
         },
         {
           "Name": "voice_2",
@@ -2706,7 +2706,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "楽しいっていうか嬉しい！ だって心玖のこともっと知りたいもん"
+          "Text": "与其说有意思，不如说是高兴啦！\n毕竟我想多了解心玖一点嘛"
         },
         {
           "Name": "voice_6",
@@ -2751,7 +2751,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "だからああやってご飯の時に 話してくれると嬉しいんだよね"
+          "Text": "所以像那样，大家在吃饭的时候\n愿意把这些事分享给我，我就会很开心呀"
         },
         {
           "Name": "voice_11",
@@ -2769,7 +2769,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "てか寧月、今日どうだった？ たくさん初めてのことしたんだよね？"
+          "Text": "对了宁月，今天怎么样？\n经历了很多第一次吧？"
         },
         {
           "Name": "voice_13",
@@ -2778,7 +2778,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うっ……わかったけど、でも、 そんなに怒んなくたっていいじゃんか〜！"
+          "Text": "唔……我明白了，可是，\n你也没必要那么生气嘛～！"
         },
         {
           "Name": "voice_14",
@@ -2823,7 +2823,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お〜、絶好調じゃん。 新しいバイト初日で緊張したかと思ったのに〜"
+          "Text": "哦～状态超好嘛。\n我还以为你新打工第一天会紧张呢～"
         },
         {
           "Name": "voice_19",
@@ -2832,7 +2832,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "だって心玖はこれから一生 おいしいご飯が食べられるんだよ！"
+          "Text": "因为心玖从今往后一辈子\n都能吃到美味的饭菜了呀！"
         },
         {
           "Name": "voice_20",
@@ -2841,7 +2841,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "心玖が曲作ってるとこ見たい！ 本当に静かにするから、お願いっ"
+          "Text": "我想看看心玖作曲的样子！\n我真的会安静的，求你了"
         },
         {
           "Name": "voice_21",
@@ -2868,7 +2868,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "心玖の家はどんなこと話してたの？ ご飯の時とか寝る前とか"
+          "Text": "心玖家里都会聊些什么呢？\n比如吃饭的时候，或者睡觉前"
         },
         {
           "Name": "voice_24",
@@ -2877,7 +2877,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "寝ない、つーか寝れない！ だってファミリー初のおでかけだよ"
+          "Text": "才不睡，不对，是根本睡不着！\n因为这可是Family第一次出去玩啊"
         },
         {
           "Name": "voice_25",

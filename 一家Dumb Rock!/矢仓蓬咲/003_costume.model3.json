@@ -2191,7 +2191,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あの感触は苦手って言ってましたけど、 他はどうでした？ その、好きになれそうなものとか……"
+          "Text": "虽然你之前说不太适应那种触感，\n那其他的怎么样？那个，有没有什么你可能会喜欢上的东西……"
         },
         {
           "Name": "voice_1",
@@ -2209,7 +2209,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=80%>我要去跟新人搭话，\n今天一定要脱胎换骨，变成一个气魄十足的强者……！</size>"
+          "Text": "我要去跟新人搭话，\n今天一定要脱胎换骨，变成一个气魄十足的强者……！"
         },
         {
           "Name": "voice_3",
@@ -2227,7 +2227,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "よわよわ底辺人間の私には、 想像するだけで心臓が雑巾搾りされる気分です〜……！"
+          "Text": "像我这种软弱又底层的人，\n光是想象一下，感觉心脏就像抹布一样被拧紧了啊……！"
         },
         {
           "Name": "voice_5",
@@ -2236,7 +2236,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "私が断る勇気がないってわかっててそういうことするの 本当にずるいです〜〜！！"
+          "Text": "明知道我没有拒绝的勇气，\n还来这套，真是太狡猾了～～！！"
         },
         {
           "Name": "voice_6",
@@ -2254,7 +2254,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "１万歩譲って心玖さんを奪い返せたとして、 鈴木さんはどうするんですか！？"
+          "Text": "退一万步讲，就算成功把心玖同学抢回来了，\n铃木小姐那边怎么办啊！？"
         },
         {
           "Name": "voice_8",
@@ -2290,7 +2290,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "視界をシャットアウトするために パッと手に取った本がありました"
+          "Text": "为了挡住视线，\n我随手抓起了一本书"
         },
         {
           "Name": "voice_12",
@@ -2308,7 +2308,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あっ、注文したものが直接届くんです。 そういうシステムというか"
+          "Text": "啊，点单的东西会直接送到。\n算是这样一种系统吧"
         },
         {
           "Name": "voice_14",
@@ -2344,7 +2344,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うわ〜、本当にアツすぎる〜……！！ 私も一緒にがんばれる……ような気がします〜……！！"
+          "Text": "哎呀～真的太燃了～！！\n连带着我也充满了干劲……！！"
         },
         {
           "Name": "voice_18",
@@ -2353,7 +2353,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうなんですか？ 味噌とバターは切っても切れないマブですよっ"
+          "Text": "是吗？\n味噌和黄油可是难舍难分的死党哦"
         },
         {
           "Name": "voice_19",
@@ -2362,7 +2362,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あ、味見ならどうですか？ これ東京だと売ってないレア商品ですっ"
+          "Text": "啊，那不如只尝尝味道？\n这可是在东京买不到的稀有商品哦"
         },
         {
           "Name": "voice_20",
@@ -2371,7 +2371,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "えっ、えっ、 これってもうサプライズじゃなくなっちゃいますよね！？"
+          "Text": "诶、诶，\n这样一来，就已经不算惊喜了吧！？"
         },
         {
           "Name": "voice_21",
@@ -2380,7 +2380,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "酔い止め、車に乗る前に飲んだので大丈夫です。 ただ、もう、疲労が……"
+          "Text": "我上车前就吃过晕车药了，所以没事。\n只是，已经累得……"
         },
         {
           "Name": "voice_22",
@@ -2389,7 +2389,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "寧月さんもそう感じたことありませんか！？ 本とか、映画とかでっ"
+          "Text": "宁月同学也有过那种感受吗！？\n比如看书或者看电影的时候"
         },
         {
           "Name": "voice_23",
@@ -2398,7 +2398,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですか……！ 無駄なことをさせちゃったと思ってたんですけど"
+          "Text": "是这样吗……！\n我还以为让你白忙活了一场呢"
         },
         {
           "Name": "voice_24",
@@ -2407,7 +2407,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あっ、いいですねそれ！ どれが来ても取っちゃえばいいんですっ"
+          "Text": "啊，这主意不错！\n不管来哪盘，直接拿就行了啊"
         },
         {
           "Name": "voice_25",
@@ -2416,7 +2416,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_manual_voice_finished_3#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "わかります、手のひらグルングルンに返しまくりで すみませ〜〜〜ん！！"
+          "Text": "我懂，我这样翻来覆去地疯狂变卦\n实在抱歉～～～！！"
         },
         {
           "Name": "voice_26",
@@ -2463,7 +2463,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あの感触は苦手って言ってましたけど、 他はどうでした？ その、好きになれそうなものとか……"
+          "Text": "虽然你之前说不太适应那种触感，\n那其他的怎么样？那个，有没有什么你可能会喜欢上的东西……"
         },
         {
           "Name": "voice_1",
@@ -2481,7 +2481,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=80%>我要去跟新人搭话，\n今天一定要脱胎换骨，变成一个气魄十足的强者……！</size>"
+          "Text": "我要去跟新人搭话，\n今天一定要脱胎换骨，变成一个气魄十足的强者……！"
         },
         {
           "Name": "voice_3",
@@ -2499,7 +2499,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "よわよわ底辺人間の私には、 想像するだけで心臓が雑巾搾りされる気分です〜……！"
+          "Text": "像我这种软弱又底层的人，\n光是想象一下，感觉心脏就像抹布一样被拧紧了啊……！"
         },
         {
           "Name": "voice_5",
@@ -2508,7 +2508,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "私が断る勇気がないってわかっててそういうことするの 本当にずるいです〜〜！！"
+          "Text": "明知道我没有拒绝的勇气，\n还来这套，真是太狡猾了～～！！"
         },
         {
           "Name": "voice_6",
@@ -2526,7 +2526,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "１万歩譲って心玖さんを奪い返せたとして、 鈴木さんはどうするんですか！？"
+          "Text": "退一万步讲，就算成功把心玖同学抢回来了，\n铃木小姐那边怎么办啊！？"
         },
         {
           "Name": "voice_8",
@@ -2562,7 +2562,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "視界をシャットアウトするために パッと手に取った本がありました"
+          "Text": "为了挡住视线，\n我随手抓起了一本书"
         },
         {
           "Name": "voice_12",
@@ -2580,7 +2580,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あっ、注文したものが直接届くんです。 そういうシステムというか"
+          "Text": "啊，点单的东西会直接送到。\n算是这样一种系统吧"
         },
         {
           "Name": "voice_14",
@@ -2616,7 +2616,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うわ〜、本当にアツすぎる〜……！！ 私も一緒にがんばれる……ような気がします〜……！！"
+          "Text": "哎呀～真的太燃了～！！\n连带着我也充满了干劲……！！"
         },
         {
           "Name": "voice_18",
@@ -2625,7 +2625,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうなんですか？ 味噌とバターは切っても切れないマブですよっ"
+          "Text": "是吗？\n味噌和黄油可是难舍难分的死党哦"
         },
         {
           "Name": "voice_19",
@@ -2634,7 +2634,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あ、味見ならどうですか？ これ東京だと売ってないレア商品ですっ"
+          "Text": "啊，那不如只尝尝味道？\n这可是在东京买不到的稀有商品哦"
         },
         {
           "Name": "voice_20",
@@ -2643,7 +2643,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "えっ、えっ、 これってもうサプライズじゃなくなっちゃいますよね！？"
+          "Text": "诶、诶，\n这样一来，就已经不算惊喜了吧！？"
         },
         {
           "Name": "voice_21",
@@ -2652,7 +2652,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "酔い止め、車に乗る前に飲んだので大丈夫です。 ただ、もう、疲労が……"
+          "Text": "我上车前就吃过晕车药了，所以没事。\n只是，已经累得……"
         },
         {
           "Name": "voice_22",
@@ -2661,7 +2661,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "寧月さんもそう感じたことありませんか！？ 本とか、映画とかでっ"
+          "Text": "宁月同学也有过那种感受吗！？\n比如看书或者看电影的时候"
         },
         {
           "Name": "voice_23",
@@ -2670,7 +2670,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうですか……！ 無駄なことをさせちゃったと思ってたんですけど"
+          "Text": "是这样吗……！\n我还以为让你白忙活了一场呢"
         },
         {
           "Name": "voice_24",
@@ -2679,7 +2679,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "あっ、いいですねそれ！ どれが来ても取っちゃえばいいんですっ"
+          "Text": "啊，这主意不错！\n不管来哪盘，直接拿就行了啊"
         },
         {
           "Name": "voice_25",
@@ -2688,7 +2688,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_yomogi ws_voice_finished_3#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "わかります、手のひらグルングルンに返しまくりで すみませ〜〜〜ん！！"
+          "Text": "我懂，我这样翻来覆去地疯狂变卦\n实在抱歉～～～！！"
         },
         {
           "Name": "voice_26",

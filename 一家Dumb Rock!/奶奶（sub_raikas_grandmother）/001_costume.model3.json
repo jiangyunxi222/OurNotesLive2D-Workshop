@@ -739,7 +739,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『今日は絶対テントで寝る！ って言うから 慌ててペグなしのテントを買ったんだからな？』"
+          "Text": "『你那天死活要睡帐篷，搞得我们慌慌张张\n跑去买那种不用打地钉的帐篷，这你都忘了？』"
         },
         {
           "Name": "voice_6",
@@ -748,7 +748,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『ファミリーの先輩として……蕾叶の親として、 私は蕾叶が決めたことを全力で応援するよ』"
+          "Text": "『作为Family的前辈……作为蕾叶的家长，\n我会全力支持你的决定』"
         },
         {
           "Name": "voice_7",
@@ -829,7 +829,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『今まであんたのやりたいようにやらせてきたけど…… もう充分頑張ったよ』"
+          "Text": "『至今都让你按自己的想法去做了……\n你已经很努力了』"
         },
         {
           "Name": "voice_16",
@@ -856,7 +856,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『……そこまで言えるようになるなんて、 いいファミリーに出会ったな、蕾叶』"
+          "Text": "『……能说出这样的话，\n看来你遇到了很好的Family啊，蕾叶』"
         },
         {
           "Name": "voice_19",
@@ -865,7 +865,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『蕾叶は自分のファミリーのことに集中しな。 まだ解決してないんだろ？』"
+          "Text": "『蕾叶你就专心处理自己Family的事吧。\n还没完全解决对吧？』"
         },
         {
           "Name": "voice_20",
@@ -919,7 +919,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『はーい、任されました！ いや〜、久々に日本に帰るのも楽しみだよ！』"
+          "Text": "『好～包在我身上！\n哎呀～好久没回日本了，还真挺期待的！』"
         },
         {
           "Name": "voice_26",
@@ -928,7 +928,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『え？ ああ…… 蕾叶がどうしても行くって大泣きしたからなあ』"
+          "Text": "『啊？哦……\n那还不是因为蕾叶你大哭大闹说非要去露营嘛』"
         },
         {
           "Name": "voice_27",
@@ -937,7 +937,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "コラッ！！ 私の愛孫にそんな重いヤツ背負わせないよ！"
+          "Text": "喂！！别让我宝贝孙女背你这么沉的家伙！"
         },
         {
           "Name": "voice_28",
@@ -946,7 +946,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お〜、おかえり！ 今日も学校は楽しかったか？"
+          "Text": "哦～回来啦！\n今天在学校也开心吗？"
         },
         {
           "Name": "voice_29",
@@ -955,7 +955,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "これからさ。 ほら、さっさと動くよ！"
+          "Text": "正要准备呢。\n好了，都动起来，动作快点！"
         }
       ],
       "ws_voice_1_1#2": [
@@ -1011,7 +1011,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『今日は絶対テントで寝る！ って言うから 慌ててペグなしのテントを買ったんだからな？』"
+          "Text": "『你那天死活要睡帐篷，搞得我们慌慌张张\n跑去买那种不用打地钉的帐篷，这你都忘了？』"
         },
         {
           "Name": "voice_6",
@@ -1020,7 +1020,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『ファミリーの先輩として……蕾叶の親として、 私は蕾叶が決めたことを全力で応援するよ』"
+          "Text": "『作为Family的前辈……作为蕾叶的家长，\n我会全力支持你的决定』"
         },
         {
           "Name": "voice_7",
@@ -1101,7 +1101,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『今まであんたのやりたいようにやらせてきたけど…… もう充分頑張ったよ』"
+          "Text": "『至今都让你按自己的想法去做了……\n你已经很努力了』"
         },
         {
           "Name": "voice_16",
@@ -1128,7 +1128,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『……そこまで言えるようになるなんて、 いいファミリーに出会ったな、蕾叶』"
+          "Text": "『……能说出这样的话，\n看来你遇到了很好的Family啊，蕾叶』"
         },
         {
           "Name": "voice_19",
@@ -1137,7 +1137,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『蕾叶は自分のファミリーのことに集中しな。 まだ解決してないんだろ？』"
+          "Text": "『蕾叶你就专心处理自己Family的事吧。\n还没完全解决对吧？』"
         },
         {
           "Name": "voice_20",
@@ -1191,7 +1191,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『はーい、任されました！ いや〜、久々に日本に帰るのも楽しみだよ！』"
+          "Text": "『好～包在我身上！\n哎呀～好久没回日本了，还真挺期待的！』"
         },
         {
           "Name": "voice_26",
@@ -1200,7 +1200,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『え？ ああ…… 蕾叶がどうしても行くって大泣きしたからなあ』"
+          "Text": "『啊？哦……\n那还不是因为蕾叶你大哭大闹说非要去露营嘛』"
         },
         {
           "Name": "voice_27",
@@ -1209,7 +1209,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "コラッ！！ 私の愛孫にそんな重いヤツ背負わせないよ！"
+          "Text": "喂！！别让我宝贝孙女背你这么沉的家伙！"
         },
         {
           "Name": "voice_28",
@@ -1218,7 +1218,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お〜、おかえり！ 今日も学校は楽しかったか？"
+          "Text": "哦～回来啦！\n今天在学校也开心吗？"
         },
         {
           "Name": "voice_29",
@@ -1227,7 +1227,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "これからさ。 ほら、さっさと動くよ！"
+          "Text": "正要准备呢。\n好了，都动起来，动作快点！"
         }
       ],
       "ws_voice_run#6": [

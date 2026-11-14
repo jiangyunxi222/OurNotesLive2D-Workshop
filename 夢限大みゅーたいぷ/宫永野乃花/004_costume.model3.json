@@ -2268,7 +2268,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_4#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "赤いリボンはユノちゃんスペシャルで、 こっちは都子ちゃんで、りっちゃんで～……"
+          "Text": "红色缎带的是小由乃特制版，\n这边是小都子的，还有小律的～"
         },
         {
           "Name": "voice_1",
@@ -2439,7 +2439,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_4#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ユノちゃんは何持って来たの～？"
+          "Text": "小由乃带了什么来～？"
         },
         {
           "Name": "voice_20",
@@ -2475,7 +2475,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_4#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "楽しかったからわかんない！ 見て見て、黄色のはあられちゃんスペシャル～"
+          "Text": "因为很开心所以不记得了！\n看啊看啊，黄色的是小阿拉蕾特制版～"
         },
         {
           "Name": "voice_24",
@@ -2540,7 +2540,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_4#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "赤いリボンはユノちゃんスペシャルで、 こっちは都子ちゃんで、りっちゃんで～……"
+          "Text": "红色缎带的是小由乃特制版，\n这边是小都子的，还有小律的～"
         },
         {
           "Name": "voice_1",
@@ -2711,7 +2711,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_4#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ユノちゃんは何持って来たの～？"
+          "Text": "小由乃带了什么来～？"
         },
         {
           "Name": "voice_20",
@@ -2747,7 +2747,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_4#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "楽しかったからわかんない！ 見て見て、黄色のはあられちゃんスペシャル～"
+          "Text": "因为很开心所以不记得了！\n看啊看啊，黄色的是小阿拉蕾特制版～"
         },
         {
           "Name": "voice_24",

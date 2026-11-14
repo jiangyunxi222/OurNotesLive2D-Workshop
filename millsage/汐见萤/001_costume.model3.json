@@ -2573,7 +2573,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_hotaru ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（そっか……わたしがピアノを弾くだけじゃダメなんだ）"
+          "Text": "（这样啊……光靠我弹钢琴还是不够的）"
         },
         {
           "Name": "voice_15",
@@ -2690,7 +2690,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_hotaru ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（だから昨日のお客さんは、 あんまり反応が良くなかったんだ……）"
+          "Text": "（所以昨天的观众，\n反应才不怎么热烈……）"
         },
         {
           "Name": "voice_28",
@@ -2845,7 +2845,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_hotaru ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（そっか……わたしがピアノを弾くだけじゃダメなんだ）"
+          "Text": "（这样啊……光靠我弹钢琴还是不够的）"
         },
         {
           "Name": "voice_15",
@@ -2962,7 +2962,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_hotaru ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（だから昨日のお客さんは、 あんまり反応が良くなかったんだ……）"
+          "Text": "（所以昨天的观众，\n反应才不怎么热烈……）"
         },
         {
           "Name": "voice_28",

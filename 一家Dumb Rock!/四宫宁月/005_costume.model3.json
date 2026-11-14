@@ -1928,7 +1928,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "確か『ファミリーはチームワーク命』と言っていたな。 それと似ているのだろうか"
+          "Text": "记得你好像说过『Family团队合作至上』。\n跟那个是一回事吗"
         },
         {
           "Name": "voice_1",
@@ -1937,7 +1937,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "まだファミリーもホームも勉強中だ。 失ってしまっては、わからないままになる"
+          "Text": "我对Family和Home都还在摸索当中。\n万一失去了，就会永远弄不明白"
         },
         {
           "Name": "voice_2",
@@ -1955,7 +1955,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "当初の予定では朝一番にお祝いするということだったが…… こういう場合どうしたらよいのだ？"
+          "Text": "原定计划是明早第一时间为她庆祝的……\n遇到这种情况，该怎么办才好？"
         },
         {
           "Name": "voice_4",
@@ -1973,7 +1973,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "とても有意義な時間だった。 だが、魂が震える感覚についてもっと知りたい"
+          "Text": "这段时间非常有意义。\n不过，我还想了解更多关于灵魂震颤的感觉"
         },
         {
           "Name": "voice_6",
@@ -1991,7 +1991,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "すまない。 好きなものが見つかるかもしれないと浮き足立ってしまった"
+          "Text": "抱歉。\n一想到也许能找到喜欢的东西，就有些坐不住了"
         },
         {
           "Name": "voice_8",
@@ -2000,7 +2000,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "私はまだ『ファミリー』を学んでいる段階だ。 大切とまでは言えず……すまない"
+          "Text": "我还处于学习Family为何物的阶段。\n还说不上最重要……抱歉"
         },
         {
           "Name": "voice_9",
@@ -2009,7 +2009,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チェリの方がすごい。 私には予想もできない回答を、すべて合わせていた"
+          "Text": "千梨才更厉害。\n竟然全都跟那些连我都预想不到的答案对上了"
         },
         {
           "Name": "voice_10",
@@ -2018,7 +2018,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それもあるが、どう作られているのか 本当に何もわからなかったのだ"
+          "Text": "这也是一方面，不过它是怎么做出来的，\n我真的完全不知道"
         },
         {
           "Name": "voice_11",
@@ -2054,7 +2054,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ああ。今度こそ本当にライブハウスを 奪われてしまう可能性もあるぞ"
+          "Text": "也是。这次Live House说不定真的会\n被抢走"
         },
         {
           "Name": "voice_15",
@@ -2072,7 +2072,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうか…… バンドの音楽の正解がわからないのは、私だけだと思っていた"
+          "Text": "这样啊……\n我还以为只有我不知道乐队音乐的正确答案"
         },
         {
           "Name": "voice_17",
@@ -2090,7 +2090,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チェリ、このひらひらしたティッシュは どこに飾れば良いのだろうか？"
+          "Text": "千梨，这种轻飘飘的纸巾\n应该装饰在哪里呢？"
         },
         {
           "Name": "voice_19",
@@ -2099,7 +2099,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "師匠。私が好きなものに出会う日まで どうぞよろしくお願いします"
+          "Text": "师傅。直到我遇见自己喜欢的东西那天，\n还请你多多指教了"
         },
         {
           "Name": "voice_20",
@@ -2117,7 +2117,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チェリはすごい。 連合トップの実力がこれほどだとは知らなかった"
+          "Text": "千梨真厉害。\n没想到联盟头号人物的实力这么强"
         },
         {
           "Name": "voice_22",
@@ -2144,7 +2144,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "父の着ているものと似ていて、 格好いいと思ったのを覚えている"
+          "Text": "和父亲穿的衣服很像，\n我记得自己当时觉得好帅气"
         },
         {
           "Name": "voice_25",
@@ -2200,7 +2200,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "確か『ファミリーはチームワーク命』と言っていたな。 それと似ているのだろうか"
+          "Text": "记得你好像说过『Family团队合作至上』。\n跟那个是一回事吗"
         },
         {
           "Name": "voice_1",
@@ -2209,7 +2209,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "まだファミリーもホームも勉強中だ。 失ってしまっては、わからないままになる"
+          "Text": "我对Family和Home都还在摸索当中。\n万一失去了，就会永远弄不明白"
         },
         {
           "Name": "voice_2",
@@ -2227,7 +2227,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "当初の予定では朝一番にお祝いするということだったが…… こういう場合どうしたらよいのだ？"
+          "Text": "原定计划是明早第一时间为她庆祝的……\n遇到这种情况，该怎么办才好？"
         },
         {
           "Name": "voice_4",
@@ -2245,7 +2245,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "とても有意義な時間だった。 だが、魂が震える感覚についてもっと知りたい"
+          "Text": "这段时间非常有意义。\n不过，我还想了解更多关于灵魂震颤的感觉"
         },
         {
           "Name": "voice_6",
@@ -2263,7 +2263,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "すまない。 好きなものが見つかるかもしれないと浮き足立ってしまった"
+          "Text": "抱歉。\n一想到也许能找到喜欢的东西，就有些坐不住了"
         },
         {
           "Name": "voice_8",
@@ -2272,7 +2272,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "私はまだ『ファミリー』を学んでいる段階だ。 大切とまでは言えず……すまない"
+          "Text": "我还处于学习Family为何物的阶段。\n还说不上最重要……抱歉"
         },
         {
           "Name": "voice_9",
@@ -2281,7 +2281,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チェリの方がすごい。 私には予想もできない回答を、すべて合わせていた"
+          "Text": "千梨才更厉害。\n竟然全都跟那些连我都预想不到的答案对上了"
         },
         {
           "Name": "voice_10",
@@ -2290,7 +2290,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それもあるが、どう作られているのか 本当に何もわからなかったのだ"
+          "Text": "这也是一方面，不过它是怎么做出来的，\n我真的完全不知道"
         },
         {
           "Name": "voice_11",
@@ -2326,7 +2326,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ああ。今度こそ本当にライブハウスを 奪われてしまう可能性もあるぞ"
+          "Text": "也是。这次Live House说不定真的会\n被抢走"
         },
         {
           "Name": "voice_15",
@@ -2344,7 +2344,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そうか…… バンドの音楽の正解がわからないのは、私だけだと思っていた"
+          "Text": "这样啊……\n我还以为只有我不知道乐队音乐的正确答案"
         },
         {
           "Name": "voice_17",
@@ -2362,7 +2362,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チェリ、このひらひらしたティッシュは どこに飾れば良いのだろうか？"
+          "Text": "千梨，这种轻飘飘的纸巾\n应该装饰在哪里呢？"
         },
         {
           "Name": "voice_19",
@@ -2371,7 +2371,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "師匠。私が好きなものに出会う日まで どうぞよろしくお願いします"
+          "Text": "师傅。直到我遇见自己喜欢的东西那天，\n还请你多多指教了"
         },
         {
           "Name": "voice_20",
@@ -2389,7 +2389,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "チェリはすごい。 連合トップの実力がこれほどだとは知らなかった"
+          "Text": "千梨真厉害。\n没想到联盟头号人物的实力这么强"
         },
         {
           "Name": "voice_22",
@@ -2416,7 +2416,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_shizuku ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "父の着ているものと似ていて、 格好いいと思ったのを覚えている"
+          "Text": "和父亲穿的衣服很像，\n我记得自己当时觉得好帅气"
         },
         {
           "Name": "voice_25",

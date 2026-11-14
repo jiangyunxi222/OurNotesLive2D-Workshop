@@ -1251,7 +1251,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ユノさんちゃん！ ユノさんちゃんがオススメなのはどの子です？"
+          "Text": "小由乃同学！\n小由乃同学推荐哪一只啊？"
         },
         {
           "Name": "voice_3",
@@ -1485,7 +1485,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>我那个时候能收到小野乃同学的亲亲，\n真的超开心的！"
+          "Text": "我那个时候能收到小野乃同学的亲亲，\n真的超开心的！"
         },
         {
           "Name": "voice_29",
@@ -1523,7 +1523,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ユノさんちゃん！ ユノさんちゃんがオススメなのはどの子です？"
+          "Text": "小由乃同学！\n小由乃同学推荐哪一只啊？"
         },
         {
           "Name": "voice_3",
@@ -1757,7 +1757,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>我那个时候能收到小野乃同学的亲亲，\n真的超开心的！"
+          "Text": "我那个时候能收到小野乃同学的亲亲，\n真的超开心的！"
         },
         {
           "Name": "voice_29",

@@ -14,7 +14,7 @@
   "viewerex_runtime_verified": false,
   "policy_revision": 3,
   "files_sha256": {
-    "001_costume.model3.json": "97ed61a66ee74bba118fa9b017b9584c0cf815795bab19ac41702bb7c0ed81f9",
+    "001_costume.model3.json": "0fc8c07742f9efe7590b7d5c13d6df5d5d908acd6b956342e35ee148a676c4da",
     "00_integrated.model3.json": "ca5feb85d5373990e64dd3fc902306669d93bf16134d23c9770413e80dff0592",
     "assets/anchor/transparent.png": "43739c566e26fd7cb88f69d3864ea34740372f5ee99acac169e090beffbce5c6",
     "assets/models/c59f3faefc48470a4fc89e0271986137.moc3": "ae5c91f0a9abb62a819f29dd0e0d11f8ccb7f89a7defe318b58f4aa689290ac0",
@@ -57,7 +57,7 @@
     "assets/voices/curated_adv_voice_eventstory_8_05_137.wav": "c3b35f6e0ee05a9d24cc58ea708f34f67b1dc34a602262be4f5ef1cbc560630e",
     "assets/voices/curated_adv_voice_kadan_005_1_07_059.wav": "8e020f2b30f3d97c5921cd870e93a4a4c1be5123375c95a8e23e682a61fa0e6e",
     "assets/voices/curated_adv_voice_eventstory_8_03_122.wav": "f47e3c0ce0aebf0497b77124184d7972e647e460328e1c37b42b7328cf6525aa",
-    "assets/voices/voice-sources.json": "a149294271f3fad2ef5b8c6ca41b4c4d3832df745136fdb4b9887c01009e263c",
+    "assets/voices/voice-sources.json": "3e43444cc02cabbccfdfb61d5c336ad4b084b71ee7c15d6aef3e1d1ad373991e",
     "assets/voices/curated_adv_voice_eventstory_8_03_052.wav": "903924bee6275eeb7d38226c957acbd24128c2e108a03b4cbd5006fca0c670f7"
   },
   "interaction_repairs": true,
@@ -139,7 +139,7 @@
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
   "workshop_native_menu_revision": 11,
-  "voice_library_revision": 20261115,
+  "voice_library_revision": 2026111502,
   "voice_library_count": 19,
   "curated_voice_counts": {
     "primary": 19

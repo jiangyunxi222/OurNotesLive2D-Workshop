@@ -2329,7 +2329,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うん……CRYCHICのこと聞きたくて。これ"
+          "Text": "嗯……我想问问CRYCHIC的事。这个"
         },
         {
           "Name": "voice_3",
@@ -2401,7 +2401,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！"
+          "Text": "我知道这是我的任性。但我还是\n想复活Ave Mujica！"
         },
         {
           "Name": "voice_11",
@@ -2410,7 +2410,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "海鈴ちゃん、睦ちゃんのこと送っていってたね。 にゃむちゃんも、ちょっと変わったって言うか……"
+          "Text": "小海铃去送小睦回家了。\n小若麦也有点不一样了……"
         },
         {
           "Name": "voice_12",
@@ -2419,7 +2419,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ロフト、そのままにしてるんだ。 狭かったらもっと広いところに引越してもいいし、私——"
+          "Text": "阁楼我没动过。\n如果觉得局促，我们可以搬到更宽敞的地方去，我——"
         },
         {
           "Name": "voice_13",
@@ -2428,7 +2428,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "でも気持ちわかるな。こんな素敵な船、初めてだもん。 私たちもちょっと見て回らない？"
+          "Text": "不过我能理解她的心情。这么棒的游轮，我也是第一次坐。\n我们也稍微去逛逛吧？"
         },
         {
           "Name": "voice_14",
@@ -2437,7 +2437,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "Ave Mujicaを選んでくれて……受け止めてくれて…… 私、本当にしあわせ"
+          "Text": "谢谢你选择Ave Mujica……谢谢你接受了我……\n我真的好幸福"
         },
         {
           "Name": "voice_15",
@@ -2464,7 +2464,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "歌って伝わる気がするよね。 上手に言えないことも。言葉以上に気持ちが"
+          "Text": "我觉得歌可以传达心情呢。\n即使是无法用语言表达的事。歌比语言更能传达心情"
         },
         {
           "Name": "voice_18",
@@ -2473,7 +2473,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（さきちゃん……すごくしあわせそう…… こんな顔、Ave Mujicaの時は——）"
+          "Text": "（小祥……看起来好幸福……\n这种表情，在Ave Mujica的时候——）"
         },
         {
           "Name": "voice_19",
@@ -2482,7 +2482,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "睦ちゃんのギターは楽曲の要だから 私ひとりじゃカバーできない"
+          "Text": "小睦的吉他是乐曲的关键，\n我一个人填不上……"
         },
         {
           "Name": "voice_20",
@@ -2491,7 +2491,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "気にしなくてもいいよ。 sumimiのこと知っててくれて嬉しい"
+          "Text": "不用在意哦。\n你知道sumimi，我很开心"
         },
         {
           "Name": "voice_21",
@@ -2500,7 +2500,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ムジカは解散させない。 メンバーがやめるってそういうことだよ"
+          "Text": "我不会让Mujica解散的。\n成员退出就意味着解散"
         },
         {
           "Name": "voice_22",
@@ -2509,7 +2509,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "さきちゃん、Ave Mujicaやろう？ ずっといっしょにいよう……！"
+          "Text": "小祥，来组Ave Mujica吧？\n我们一直在一起吧……！"
         },
         {
           "Name": "voice_23",
@@ -2518,7 +2518,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『別荘に行ってはいけない』 どうして母は私にだけそう言ったのか"
+          "Text": "『不能去别墅』\n为什么母亲只对我如此叮嘱呢"
         },
         {
           "Name": "voice_24",
@@ -2536,7 +2536,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ゲストの皆様に素敵な夢を見ていただけるようがんばります"
+          "Text": "为了请各位来宾见证美妙的梦想，我们会努力的"
         },
         {
           "Name": "voice_26",
@@ -2545,7 +2545,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『大きくなったらアイドルになるの！ ぜったいに東京に出るから！』"
+          "Text": "『长大以后，我要当偶像！\n我一定要去东京发展！』"
         },
         {
           "Name": "voice_27",
@@ -2554,7 +2554,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "島で仲良くしてもらっていた初華、 それだけでわかってくれた"
+          "Text": "我说我是小祥在岛上交的朋友初华，\n他就立刻明白了"
         },
         {
           "Name": "voice_28",
@@ -2601,7 +2601,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うん……CRYCHICのこと聞きたくて。これ"
+          "Text": "嗯……我想问问CRYCHIC的事。这个"
         },
         {
           "Name": "voice_3",
@@ -2673,7 +2673,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！"
+          "Text": "我知道这是我的任性。但我还是\n想复活Ave Mujica！"
         },
         {
           "Name": "voice_11",
@@ -2682,7 +2682,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "海鈴ちゃん、睦ちゃんのこと送っていってたね。 にゃむちゃんも、ちょっと変わったって言うか……"
+          "Text": "小海铃去送小睦回家了。\n小若麦也有点不一样了……"
         },
         {
           "Name": "voice_12",
@@ -2691,7 +2691,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ロフト、そのままにしてるんだ。 狭かったらもっと広いところに引越してもいいし、私——"
+          "Text": "阁楼我没动过。\n如果觉得局促，我们可以搬到更宽敞的地方去，我——"
         },
         {
           "Name": "voice_13",
@@ -2700,7 +2700,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "でも気持ちわかるな。こんな素敵な船、初めてだもん。 私たちもちょっと見て回らない？"
+          "Text": "不过我能理解她的心情。这么棒的游轮，我也是第一次坐。\n我们也稍微去逛逛吧？"
         },
         {
           "Name": "voice_14",
@@ -2709,7 +2709,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "Ave Mujicaを選んでくれて……受け止めてくれて…… 私、本当にしあわせ"
+          "Text": "谢谢你选择Ave Mujica……谢谢你接受了我……\n我真的好幸福"
         },
         {
           "Name": "voice_15",
@@ -2736,7 +2736,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "歌って伝わる気がするよね。 上手に言えないことも。言葉以上に気持ちが"
+          "Text": "我觉得歌可以传达心情呢。\n即使是无法用语言表达的事。歌比语言更能传达心情"
         },
         {
           "Name": "voice_18",
@@ -2745,7 +2745,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（さきちゃん……すごくしあわせそう…… こんな顔、Ave Mujicaの時は——）"
+          "Text": "（小祥……看起来好幸福……\n这种表情，在Ave Mujica的时候——）"
         },
         {
           "Name": "voice_19",
@@ -2754,7 +2754,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "睦ちゃんのギターは楽曲の要だから 私ひとりじゃカバーできない"
+          "Text": "小睦的吉他是乐曲的关键，\n我一个人填不上……"
         },
         {
           "Name": "voice_20",
@@ -2763,7 +2763,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "気にしなくてもいいよ。 sumimiのこと知っててくれて嬉しい"
+          "Text": "不用在意哦。\n你知道sumimi，我很开心"
         },
         {
           "Name": "voice_21",
@@ -2772,7 +2772,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ムジカは解散させない。 メンバーがやめるってそういうことだよ"
+          "Text": "我不会让Mujica解散的。\n成员退出就意味着解散"
         },
         {
           "Name": "voice_22",
@@ -2781,7 +2781,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "さきちゃん、Ave Mujicaやろう？ ずっといっしょにいよう……！"
+          "Text": "小祥，来组Ave Mujica吧？\n我们一直在一起吧……！"
         },
         {
           "Name": "voice_23",
@@ -2790,7 +2790,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『別荘に行ってはいけない』 どうして母は私にだけそう言ったのか"
+          "Text": "『不能去别墅』\n为什么母亲只对我如此叮嘱呢"
         },
         {
           "Name": "voice_24",
@@ -2808,7 +2808,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ゲストの皆様に素敵な夢を見ていただけるようがんばります"
+          "Text": "为了请各位来宾见证美妙的梦想，我们会努力的"
         },
         {
           "Name": "voice_26",
@@ -2817,7 +2817,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "『大きくなったらアイドルになるの！ ぜったいに東京に出るから！』"
+          "Text": "『长大以后，我要当偶像！\n我一定要去东京发展！』"
         },
         {
           "Name": "voice_27",
@@ -2826,7 +2826,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "島で仲良くしてもらっていた初華、 それだけでわかってくれた"
+          "Text": "我说我是小祥在岛上交的朋友初华，\n他就立刻明白了"
         },
         {
           "Name": "voice_28",

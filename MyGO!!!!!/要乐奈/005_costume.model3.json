@@ -1283,7 +1283,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス気に入ったって"
+          "Text": "它说喜欢Mortis"
         },
         {
           "Name": "voice_1",
@@ -1301,7 +1301,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ともりのライブ、もう始まってる。 早くやろ"
+          "Text": "灯的演出，已经开始了。\n快点"
         },
         {
           "Name": "voice_3",
@@ -1310,7 +1310,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "毎日。おばあちゃんが鍵閉めるまで、ずっと"
+          "Text": "每天。直到奶奶落锁为止，一直"
         },
         {
           "Name": "voice_4",
@@ -1328,7 +1328,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "けど、ここには、 おもしれー女がいるから"
+          "Text": "可是，这里有一个\n有趣的女人"
         },
         {
           "Name": "voice_6",
@@ -1337,7 +1337,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "行かない。SPACEで一生ギター弾く"
+          "Text": "我不去。我要在SPACE弹一辈子吉他"
         },
         {
           "Name": "voice_7",
@@ -1355,7 +1355,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ギターも気持ちも、誰にも伝わらない"
+          "Text": "别人不懂吉他，也不懂我的心情"
         },
         {
           "Name": "voice_9",
@@ -1364,7 +1364,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "欠けてる。 それで弾かない方がいい"
+          "Text": "缺了一块。\n最好不要用那个弹了"
         },
         {
           "Name": "voice_10",
@@ -1373,7 +1373,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ライブハウスやってた。 『SPACE』"
+          "Text": "以前开过LIVEHOUSE。\n『SPACE』"
         },
         {
           "Name": "voice_11",
@@ -1382,7 +1382,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ちゃんとしなかったら、怒られるの？"
+          "Text": "如果不认真的话，会被人骂吗？"
         },
         {
           "Name": "voice_12",
@@ -1391,7 +1391,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この前の。楽しかった……ライブまだ？"
+          "Text": "之前的演出很开心……还不办演出吗？"
         },
         {
           "Name": "voice_13",
@@ -1400,7 +1400,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "息するのと、同じくらい当たり前"
+          "Text": "像呼吸一样平常"
         },
         {
           "Name": "voice_14",
@@ -1409,7 +1409,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……！ 部活のお菓子……うまいやつ。もらう"
+          "Text": "……！\n社团的点心……这个很好吃。我要"
         },
         {
           "Name": "voice_15",
@@ -1418,7 +1418,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "抹茶パフェ食べてたから平気"
+          "Text": "我吃了抹茶芭菲，所以没事"
         },
         {
           "Name": "voice_16",
@@ -1427,7 +1427,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お蕎麦。 コンビニで買ってきた"
+          "Text": "荞麦面。\n从便利店买来的"
         },
         {
           "Name": "voice_17",
@@ -1436,7 +1436,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ふん、ふふん、ふふん、ふふんふん……♪"
+          "Text": "哼、哼哼、哼哼、哼哼哼……♪"
         },
         {
           "Name": "voice_18",
@@ -1445,7 +1445,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ギター弾くから。 スコア、これ？"
+          "Text": "我弹吉他。\n乐谱是这个吗？"
         },
         {
           "Name": "voice_19",
@@ -1454,7 +1454,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "つまんねー女ばっかだった"
+          "Text": "都是些无聊的女人"
         },
         {
           "Name": "voice_20",
@@ -1463,7 +1463,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "抹茶のおかし、もっと食べる"
+          "Text": "我还想多吃点抹茶点心"
         },
         {
           "Name": "voice_21",
@@ -1472,7 +1472,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ライブないから行ってない"
+          "Text": "没有演出所以不去"
         },
         {
           "Name": "voice_22",
@@ -1490,7 +1490,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンドやる。スコア見せて"
+          "Text": "玩乐队。给我看乐谱"
         },
         {
           "Name": "voice_24",
@@ -1499,7 +1499,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "終わったら、それで終わり"
+          "Text": "结束了，就是结束了"
         },
         {
           "Name": "voice_25",
@@ -1517,7 +1517,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "りっきー、ドラムやって"
+          "Text": "Rikki，来敲鼓"
         },
         {
           "Name": "voice_27",
@@ -1526,7 +1526,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（あそこが、よかったのに）"
+          "Text": "（明明那里最好）"
         },
         {
           "Name": "voice_28",
@@ -1535,7 +1535,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンドの曲、全部弾ける"
+          "Text": "乐队的曲子都会弹了"
         },
         {
           "Name": "voice_29",
@@ -1544,7 +1544,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_manual_voice_finished_5#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "行かなきゃ、バイバイ"
+          "Text": "我得走了，拜拜"
         }
       ],
       "ws_voice_1_1#2": [
@@ -1555,7 +1555,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "モーティス気に入ったって"
+          "Text": "它说喜欢Mortis"
         },
         {
           "Name": "voice_1",
@@ -1573,7 +1573,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ともりのライブ、もう始まってる。 早くやろ"
+          "Text": "灯的演出，已经开始了。\n快点"
         },
         {
           "Name": "voice_3",
@@ -1582,7 +1582,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "毎日。おばあちゃんが鍵閉めるまで、ずっと"
+          "Text": "每天。直到奶奶落锁为止，一直"
         },
         {
           "Name": "voice_4",
@@ -1600,7 +1600,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "けど、ここには、 おもしれー女がいるから"
+          "Text": "可是，这里有一个\n有趣的女人"
         },
         {
           "Name": "voice_6",
@@ -1609,7 +1609,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "行かない。SPACEで一生ギター弾く"
+          "Text": "我不去。我要在SPACE弹一辈子吉他"
         },
         {
           "Name": "voice_7",
@@ -1627,7 +1627,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ギターも気持ちも、誰にも伝わらない"
+          "Text": "别人不懂吉他，也不懂我的心情"
         },
         {
           "Name": "voice_9",
@@ -1636,7 +1636,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "欠けてる。 それで弾かない方がいい"
+          "Text": "缺了一块。\n最好不要用那个弹了"
         },
         {
           "Name": "voice_10",
@@ -1645,7 +1645,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ライブハウスやってた。 『SPACE』"
+          "Text": "以前开过LIVEHOUSE。\n『SPACE』"
         },
         {
           "Name": "voice_11",
@@ -1654,7 +1654,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ちゃんとしなかったら、怒られるの？"
+          "Text": "如果不认真的话，会被人骂吗？"
         },
         {
           "Name": "voice_12",
@@ -1663,7 +1663,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この前の。楽しかった……ライブまだ？"
+          "Text": "之前的演出很开心……还不办演出吗？"
         },
         {
           "Name": "voice_13",
@@ -1672,7 +1672,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "息するのと、同じくらい当たり前"
+          "Text": "像呼吸一样平常"
         },
         {
           "Name": "voice_14",
@@ -1681,7 +1681,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……！ 部活のお菓子……うまいやつ。もらう"
+          "Text": "……！\n社团的点心……这个很好吃。我要"
         },
         {
           "Name": "voice_15",
@@ -1690,7 +1690,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "抹茶パフェ食べてたから平気"
+          "Text": "我吃了抹茶芭菲，所以没事"
         },
         {
           "Name": "voice_16",
@@ -1699,7 +1699,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "お蕎麦。 コンビニで買ってきた"
+          "Text": "荞麦面。\n从便利店买来的"
         },
         {
           "Name": "voice_17",
@@ -1708,7 +1708,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ふん、ふふん、ふふん、ふふんふん……♪"
+          "Text": "哼、哼哼、哼哼、哼哼哼……♪"
         },
         {
           "Name": "voice_18",
@@ -1717,7 +1717,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ギター弾くから。 スコア、これ？"
+          "Text": "我弹吉他。\n乐谱是这个吗？"
         },
         {
           "Name": "voice_19",
@@ -1726,7 +1726,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "つまんねー女ばっかだった"
+          "Text": "都是些无聊的女人"
         },
         {
           "Name": "voice_20",
@@ -1735,7 +1735,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "抹茶のおかし、もっと食べる"
+          "Text": "我还想多吃点抹茶点心"
         },
         {
           "Name": "voice_21",
@@ -1744,7 +1744,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ライブないから行ってない"
+          "Text": "没有演出所以不去"
         },
         {
           "Name": "voice_22",
@@ -1762,7 +1762,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンドやる。スコア見せて"
+          "Text": "玩乐队。给我看乐谱"
         },
         {
           "Name": "voice_24",
@@ -1771,7 +1771,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "終わったら、それで終わり"
+          "Text": "结束了，就是结束了"
         },
         {
           "Name": "voice_25",
@@ -1789,7 +1789,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "りっきー、ドラムやって"
+          "Text": "Rikki，来敲鼓"
         },
         {
           "Name": "voice_27",
@@ -1798,7 +1798,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "（あそこが、よかったのに）"
+          "Text": "（明明那里最好）"
         },
         {
           "Name": "voice_28",
@@ -1807,7 +1807,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンドの曲、全部弾ける"
+          "Text": "乐队的曲子都会弹了"
         },
         {
           "Name": "voice_29",
@@ -1816,7 +1816,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_rana ws_voice_finished_5#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "行かなきゃ、バイバイ"
+          "Text": "我得走了，拜拜"
         }
       ],
       "ws_voice_run#6": [

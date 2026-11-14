@@ -1526,7 +1526,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICもAve Mujicaも睦ちゃんも知らないって"
+          "Text": "她说她不知道CRYCHIC和Ave Mujica也不认识小睦"
         },
         {
           "Name": "voice_3",
@@ -1535,7 +1535,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……どうしてCRYCHICが解散したのって言ってたよね？"
+          "Text": "……你昨天问为什么CRYCHIC会解散对吧？"
         },
         {
           "Name": "voice_4",
@@ -1553,7 +1553,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……どうして？ この前のライブ、楽しかったじゃない。 またやりたいって話してたよね？"
+          "Text": "……为什么？\n之前的演出，不是很开心吗。\n你也说了还想再办的吧？"
         },
         {
           "Name": "voice_6",
@@ -1562,7 +1562,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そ、うだっけ……？ でも、CRYCHICを始めたのは祥ちゃんだよ？ 祥ちゃんがやめたら……"
+          "Text": "没说、吗……？\n但是，组建CRYCHIC的是小祥哦？\n如果小祥退出的话……"
         },
         {
           "Name": "voice_7",
@@ -1571,7 +1571,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "でもね、今度はみんなで話し合うから大丈夫だよ？ だから……ね？ ライブやってみよう？"
+          "Text": "但是，这次大家会好好沟通的，不用担心哦？\n所以……参加演出试试吧？"
         },
         {
           "Name": "voice_8",
@@ -1580,7 +1580,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ふふ……立希ちゃん、 Afterglowさんに応援してもらえてよかったね"
+          "Text": "呵呵……小立希，\n能听到Afterglow的应援，太好了呢"
         },
         {
           "Name": "voice_9",
@@ -1589,7 +1589,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "愛音ちゃんから聞いた。 『睦ちゃんのこと知らない』なんて本当に言ったの？"
+          "Text": "我听小爱音说了。\n『小睦是谁，我不认识』你真的这么说了？"
         },
         {
           "Name": "voice_10",
@@ -1598,7 +1598,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "燈ちゃんって、月ノ森の裏に住んでるんだね。 どこかですれ違ってたかも"
+          "Text": "小灯的家是在月之森的后面吧。\n我们也许曾经在哪擦肩而过呢"
         },
         {
           "Name": "voice_11",
@@ -1607,7 +1607,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "やってほしくないことばっかり…… お願いしたことはやってくれないのに"
+          "Text": "你总是做我不想让你做的事……\n明明我拜托你做的事你都不肯做的"
         },
         {
           "Name": "voice_12",
@@ -1616,7 +1616,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そんなこと言ってる場合じゃないよね。 早く行かないと間に合わないよ"
+          "Text": "现在不是说这种话的时候吧。\n不赶紧过去，就来不及了"
         },
         {
           "Name": "voice_13",
@@ -1625,7 +1625,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンドやめるって言ったのも、 私たちに言えない事情があったんだよ"
+          "Text": "她说要退出乐队，\n原来是有不能对我们说的苦衷啊"
         },
         {
           "Name": "voice_14",
@@ -1634,7 +1634,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "愛音ちゃんのおかげで、 久しぶりに燈ちゃんと話せたから……ありがとう"
+          "Text": "多亏了小爱音，\n我久违地和小灯说上话了……谢谢"
         },
         {
           "Name": "voice_15",
@@ -1643,7 +1643,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うん、祥ちゃんに相談されて、 燈ちゃんが緊張しない方法を考えたんだ～"
+          "Text": "嗯，小祥找我商量，\n我们就想了一个让小灯不紧张的方法~"
         },
         {
           "Name": "voice_16",
@@ -1652,7 +1652,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "次のライブのエントリー、間に合わなくなっちゃうから。 並んで並んで～"
+          "Text": "不然可能会赶不上下次演出的报名时间。\n大家都站好站好~"
         },
         {
           "Name": "voice_17",
@@ -1661,7 +1661,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この前はびっくりしちゃった。 急に祥ちゃんとライブに来るんだもん"
+          "Text": "前些天吓了我一跳。\n谁叫小祥突然来看我们的演出嘛"
         },
         {
           "Name": "voice_18",
@@ -1679,7 +1679,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CiRCLEは予約いっぱいだったんだ。 祥子ちゃん、残念だったね"
+          "Text": "CiRCLE的预约已经满了啊。\n小祥子，真是遗憾"
         },
         {
           "Name": "voice_20",
@@ -1688,7 +1688,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "他にも色んな照明があるよ。 ここ押すと、ピンクから黄色に変わって～"
+          "Text": "还有很多别的灯光哦。\n按这里的话，就会从粉色变成黄色~"
         },
         {
           "Name": "voice_21",
@@ -1697,7 +1697,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……みんなが揃ったら睦ちゃんも呼ぶから、 もうちょっとだけ待ってて？"
+          "Text": "……等大家都聚起来以后，我也会叫小睦的，\n再等一下吧？"
         },
         {
           "Name": "voice_22",
@@ -1706,7 +1706,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンド名もまた今度にしない？ そろそろみんな帰る時間だと思うし"
+          "Text": "乐队名也下次再想吧？\n大家也差不多该回家了"
         },
         {
           "Name": "voice_23",
@@ -1715,7 +1715,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "近くに用事があったから、 ふたりと一緒にスタジオ行こうかなって"
+          "Text": "我来附近有点事，\n所以就想，要不要和你们两个一起去录音棚呢"
         },
         {
           "Name": "voice_24",
@@ -1724,7 +1724,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "本番２時からだったよね。 お昼ごはん、今のうちに食べておかないと……"
+          "Text": "正式演出是2点开始对吧。\n要趁现在吃完午饭才行……"
         },
         {
           "Name": "voice_25",
@@ -1733,7 +1733,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ライブ……５人で、なんて。 私が断ったらどうするつもりだったんだろう"
+          "Text": "说什么……五个人一起演出。\n如果我拒绝的话，她打算怎么办呢"
         },
         {
           "Name": "voice_26",
@@ -1742,7 +1742,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "愛音ちゃんとバンドするんだけど、 立希ちゃんも一緒にやらない？"
+          "Text": "我要和小爱音组乐队，\n小立希也一起参加吧？"
         },
         {
           "Name": "voice_27",
@@ -1751,7 +1751,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それに、間違えたら撮り直せばいいから、 緊張しなくて大丈夫だよ～"
+          "Text": "而且，就算出错也可以重新拍摄的，\n不用紧张啦～"
         },
         {
           "Name": "voice_28",
@@ -1760,7 +1760,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それじゃあ私も楽屋に挨拶行こうかな。 立希ちゃんと燈ちゃんは？"
+          "Text": "那我也去休息室打声招呼吧。\n小立希和小灯呢？"
         },
         {
           "Name": "voice_29",
@@ -1769,7 +1769,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "睦ちゃんのせいじゃないよ。 あんまり自分のことを責めないで、ね？"
+          "Text": "也不是小睦的错哦。\n不要太自责了，好不好？"
         }
       ],
       "ws_voice_1_1#2": [
@@ -1798,7 +1798,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CRYCHICもAve Mujicaも睦ちゃんも知らないって"
+          "Text": "她说她不知道CRYCHIC和Ave Mujica也不认识小睦"
         },
         {
           "Name": "voice_3",
@@ -1807,7 +1807,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……どうしてCRYCHICが解散したのって言ってたよね？"
+          "Text": "……你昨天问为什么CRYCHIC会解散对吧？"
         },
         {
           "Name": "voice_4",
@@ -1825,7 +1825,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……どうして？ この前のライブ、楽しかったじゃない。 またやりたいって話してたよね？"
+          "Text": "……为什么？\n之前的演出，不是很开心吗。\n你也说了还想再办的吧？"
         },
         {
           "Name": "voice_6",
@@ -1834,7 +1834,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そ、うだっけ……？ でも、CRYCHICを始めたのは祥ちゃんだよ？ 祥ちゃんがやめたら……"
+          "Text": "没说、吗……？\n但是，组建CRYCHIC的是小祥哦？\n如果小祥退出的话……"
         },
         {
           "Name": "voice_7",
@@ -1843,7 +1843,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "でもね、今度はみんなで話し合うから大丈夫だよ？ だから……ね？ ライブやってみよう？"
+          "Text": "但是，这次大家会好好沟通的，不用担心哦？\n所以……参加演出试试吧？"
         },
         {
           "Name": "voice_8",
@@ -1852,7 +1852,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ふふ……立希ちゃん、 Afterglowさんに応援してもらえてよかったね"
+          "Text": "呵呵……小立希，\n能听到Afterglow的应援，太好了呢"
         },
         {
           "Name": "voice_9",
@@ -1861,7 +1861,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "愛音ちゃんから聞いた。 『睦ちゃんのこと知らない』なんて本当に言ったの？"
+          "Text": "我听小爱音说了。\n『小睦是谁，我不认识』你真的这么说了？"
         },
         {
           "Name": "voice_10",
@@ -1870,7 +1870,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "燈ちゃんって、月ノ森の裏に住んでるんだね。 どこかですれ違ってたかも"
+          "Text": "小灯的家是在月之森的后面吧。\n我们也许曾经在哪擦肩而过呢"
         },
         {
           "Name": "voice_11",
@@ -1879,7 +1879,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "やってほしくないことばっかり…… お願いしたことはやってくれないのに"
+          "Text": "你总是做我不想让你做的事……\n明明我拜托你做的事你都不肯做的"
         },
         {
           "Name": "voice_12",
@@ -1888,7 +1888,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "そんなこと言ってる場合じゃないよね。 早く行かないと間に合わないよ"
+          "Text": "现在不是说这种话的时候吧。\n不赶紧过去，就来不及了"
         },
         {
           "Name": "voice_13",
@@ -1897,7 +1897,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンドやめるって言ったのも、 私たちに言えない事情があったんだよ"
+          "Text": "她说要退出乐队，\n原来是有不能对我们说的苦衷啊"
         },
         {
           "Name": "voice_14",
@@ -1906,7 +1906,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "愛音ちゃんのおかげで、 久しぶりに燈ちゃんと話せたから……ありがとう"
+          "Text": "多亏了小爱音，\n我久违地和小灯说上话了……谢谢"
         },
         {
           "Name": "voice_15",
@@ -1915,7 +1915,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "うん、祥ちゃんに相談されて、 燈ちゃんが緊張しない方法を考えたんだ～"
+          "Text": "嗯，小祥找我商量，\n我们就想了一个让小灯不紧张的方法~"
         },
         {
           "Name": "voice_16",
@@ -1924,7 +1924,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "次のライブのエントリー、間に合わなくなっちゃうから。 並んで並んで～"
+          "Text": "不然可能会赶不上下次演出的报名时间。\n大家都站好站好~"
         },
         {
           "Name": "voice_17",
@@ -1933,7 +1933,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "この前はびっくりしちゃった。 急に祥ちゃんとライブに来るんだもん"
+          "Text": "前些天吓了我一跳。\n谁叫小祥突然来看我们的演出嘛"
         },
         {
           "Name": "voice_18",
@@ -1951,7 +1951,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "CiRCLEは予約いっぱいだったんだ。 祥子ちゃん、残念だったね"
+          "Text": "CiRCLE的预约已经满了啊。\n小祥子，真是遗憾"
         },
         {
           "Name": "voice_20",
@@ -1960,7 +1960,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "他にも色んな照明があるよ。 ここ押すと、ピンクから黄色に変わって～"
+          "Text": "还有很多别的灯光哦。\n按这里的话，就会从粉色变成黄色~"
         },
         {
           "Name": "voice_21",
@@ -1969,7 +1969,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "……みんなが揃ったら睦ちゃんも呼ぶから、 もうちょっとだけ待ってて？"
+          "Text": "……等大家都聚起来以后，我也会叫小睦的，\n再等一下吧？"
         },
         {
           "Name": "voice_22",
@@ -1978,7 +1978,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "バンド名もまた今度にしない？ そろそろみんな帰る時間だと思うし"
+          "Text": "乐队名也下次再想吧？\n大家也差不多该回家了"
         },
         {
           "Name": "voice_23",
@@ -1987,7 +1987,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "近くに用事があったから、 ふたりと一緒にスタジオ行こうかなって"
+          "Text": "我来附近有点事，\n所以就想，要不要和你们两个一起去录音棚呢"
         },
         {
           "Name": "voice_24",
@@ -1996,7 +1996,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "本番２時からだったよね。 お昼ごはん、今のうちに食べておかないと……"
+          "Text": "正式演出是2点开始对吧。\n要趁现在吃完午饭才行……"
         },
         {
           "Name": "voice_25",
@@ -2005,7 +2005,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "ライブ……５人で、なんて。 私が断ったらどうするつもりだったんだろう"
+          "Text": "说什么……五个人一起演出。\n如果我拒绝的话，她打算怎么办呢"
         },
         {
           "Name": "voice_26",
@@ -2014,7 +2014,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "愛音ちゃんとバンドするんだけど、 立希ちゃんも一緒にやらない？"
+          "Text": "我要和小爱音组乐队，\n小立希也一起参加吧？"
         },
         {
           "Name": "voice_27",
@@ -2023,7 +2023,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それに、間違えたら撮り直せばいいから、 緊張しなくて大丈夫だよ～"
+          "Text": "而且，就算出错也可以重新拍摄的，\n不用紧张啦～"
         },
         {
           "Name": "voice_28",
@@ -2032,7 +2032,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "それじゃあ私も楽屋に挨拶行こうかな。 立希ちゃんと燈ちゃんは？"
+          "Text": "那我也去休息室打声招呼吧。\n小立希和小灯呢？"
         },
         {
           "Name": "voice_29",
@@ -2041,7 +2041,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_soyo ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "睦ちゃんのせいじゃないよ。 あんまり自分のことを責めないで、ね？"
+          "Text": "也不是小睦的错哦。\n不要太自责了，好不好？"
         }
       ],
       "ws_voice_run#6": [

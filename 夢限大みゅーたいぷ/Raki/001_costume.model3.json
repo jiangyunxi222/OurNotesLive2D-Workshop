@@ -1056,7 +1056,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>『出大事了！』</size>"
+          "Text": "『出大事了！』"
         },
         {
           "Name": "voice_17",
@@ -1328,7 +1328,7 @@
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "Text": "<size=150%>『出大事了！』</size>"
+          "Text": "『出大事了！』"
         },
         {
           "Name": "voice_17",
