@@ -12692,7 +12692,7 @@
   "voice_management_revision": 1,
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
-  "workshop_native_menu_revision": 10,
+  "workshop_native_menu_revision": 11,
   "curated_voice_counts": {
     "primary": 30
   }

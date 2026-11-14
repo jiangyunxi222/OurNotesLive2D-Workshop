@@ -120,7 +120,7 @@
   "voice_management_revision": 1,
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
-  "workshop_native_menu_revision": 10,
+  "workshop_native_menu_revision": 11,
   "voice_library_revision": 20261115,
   "voice_library_count": 1,
   "curated_voice_counts": {

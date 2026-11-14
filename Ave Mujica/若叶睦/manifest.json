@@ -22835,7 +22835,7 @@
   "reference_models": {
     "900_original_carrier.model3.json": "莫提斯"
   },
-  "workshop_native_menu_revision": 10,
+  "workshop_native_menu_revision": 11,
   "curated_voice_counts": {
     "primary": 30,
     "Mortis": 30
