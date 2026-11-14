@@ -1236,137 +1236,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10444_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_010.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_06_009.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_006.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_015.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_004.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_111.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_115.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_117.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_016.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_005.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_013.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_020.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_015.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_182.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_208.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_022.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_194.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_235.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_161.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_011.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_227.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_06_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_018.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_113.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_232.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10444_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
-          "Text": "好，乐队的例行会议要开始啦～\n之前也说过，之后要开始忙全国巡演了！"
+          "Text": "毕竟你们已经是『梦限大MewType』了嘛"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_010.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_06_009.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
-          "Text": "哎呀～明知道是强人所难还是拜托你了，\n真的太感谢了"
+          "Text": "取り急ぎ、明日収録入れていいですか？ この番組、sumimiに出てもらうしかなくて"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_006.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_015.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
-          "Text": "诶，已经画好了！？\n而且还做了几种方案！？"
+          "Text": "不——对！合同上写得很清楚！\n我记得在接待室还特意划红线说明过！"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
-          "Text": "——那，确认一下进度吧。\n首先是千石同学，新歌的情况怎么样？"
+          "Text": "诶～真是的。你们根本不明白自己的价值啊～\n以这个阵容组乐队绝对是稳赢的吧？"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_004.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "除了藤同学之外，其他人的个人频道都有不少受众，\n宫永同学翻弹视频播放量还破亿了"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_091.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
-          "Text": "藤同学，巡演宣传用的插画怎么样了？\n昨天又追加了委托，真不好意思"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但这完全就是煽动造谣了。\n起因是藤同学的粉丝评论"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "有条评论是担心你能不能同时兼顾连载和乐队，\n然后宫永同学不是回了一句类似『就算倒下也没关系』的话吗？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_111.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "官方这边会发布相关的社区规范，\n但实时冒出来的过激评论防不胜防，\n我个人觉得直播最好还是先暂停一段时间"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_115.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "她以前在别的组合用『艾蕾亚』的名义活动过，\n那时候留下了点心理阴影"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_117.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为她自己有着『想改变』『不想再这样下去』的想法，\n所以才愿意和我们事务所签约的"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_016.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我刚才也简单提过，藤同学之后还要回去工作，\n所以我们先来说线上演出的事吧"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_005.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "说到底，在别人的活动上把人拐走，\n简直是闻所未闻……"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "本来就是因为对方强行把不是相关人员的\n仲町同学拉上舞台，才会变成这样的"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_013.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "话说回来，看你这样子，仲町同学也不知道啊。\n峰月同学的保密工作做得挺到位呀！"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_020.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "所以那边就把这事伪装成我们挖角，\n算是做了风险对冲"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为我们还在炎上，所以很多人应该是来看热闹的，\n但其中也有认真给出好评的人！"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_015.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "峰月同学也加入了，\n今后就以MewType2.0版的感觉，\n重新开始加油吧！"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_182.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "现在与其去乱刺激她，\n不如我们冷静下来等她回来吧"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_208.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "那我们这边也暂时解散吧。\n合作歌曲的详细资料我稍后发给你们，记得确认一下"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_022.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "按照之前说过的，先从个人视频开始。\n仲町同学有想要翻唱的歌曲吗？"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_194.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们要把这些流量转化成真正的粉丝，\n就抱着这种干劲去努力吧！"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_235.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "话虽这么说！风险防范还是很重要的。\n先让我确认一下你账号里的内容"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_161.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "还有，接下来准备签约的仲町同学。\n希望你们四个人能组一支乐队"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_011.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "被仲町同学和藤同学的热情推动，坚持办了演出，\n结果很好！"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_227.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "原来如此。\n你是想连同歌词一起，把那个上了锁的账号也公开出来"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_06_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あ、お疲れ様です。 東京に戻ったら、詳しい話を聞かせてもらいますね"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_018.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你看啊，成员退团不是会传出各种传言吗？\n比如违约啦、内讧啦之类的"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_113.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "敢动我们家重要的孩子们，\n我会让他们好看的！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_232.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "没问题。只要仲町同学你想把\n『此刻』的心情写成歌词的话！"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_manual_voice_finished_2#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我也希望能以不甘示弱的速度推出新歌，\n比如三个月一首？"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10444_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "好，乐队的例行会议要开始啦～\n之前也说过，之后要开始忙全国巡演了！"
+          "Text": "毕竟你们已经是『梦限大MewType』了嘛"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_010.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_06_009.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "哎呀～明知道是强人所难还是拜托你了，\n真的太感谢了"
+          "Text": "取り急ぎ、明日収録入れていいですか？ この番組、sumimiに出てもらうしかなくて"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_006.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_015.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "诶，已经画好了！？\n而且还做了几种方案！？"
+          "Text": "不——对！合同上写得很清楚！\n我记得在接待室还特意划红线说明过！"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "——那，确认一下进度吧。\n首先是千石同学，新歌的情况怎么样？"
+          "Text": "诶～真是的。你们根本不明白自己的价值啊～\n以这个阵容组乐队绝对是稳赢的吧？"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10448_004.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "除了藤同学之外，其他人的个人频道都有不少受众，\n宫永同学翻弹视频播放量还破亿了"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_091.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "藤同学，巡演宣传用的插画怎么样了？\n昨天又追加了委托，真不好意思"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但这完全就是煽动造谣了。\n起因是藤同学的粉丝评论"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "有条评论是担心你能不能同时兼顾连载和乐队，\n然后宫永同学不是回了一句类似『就算倒下也没关系』的话吗？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_111.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "官方这边会发布相关的社区规范，\n但实时冒出来的过激评论防不胜防，\n我个人觉得直播最好还是先暂停一段时间"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_115.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "她以前在别的组合用『艾蕾亚』的名义活动过，\n那时候留下了点心理阴影"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_117.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为她自己有着『想改变』『不想再这样下去』的想法，\n所以才愿意和我们事务所签约的"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_016.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我刚才也简单提过，藤同学之后还要回去工作，\n所以我们先来说线上演出的事吧"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_005.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "说到底，在别人的活动上把人拐走，\n简直是闻所未闻……"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "本来就是因为对方强行把不是相关人员的\n仲町同学拉上舞台，才会变成这样的"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_013.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "话说回来，看你这样子，仲町同学也不知道啊。\n峰月同学的保密工作做得挺到位呀！"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_020.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "所以那边就把这事伪装成我们挖角，\n算是做了风险对冲"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为我们还在炎上，所以很多人应该是来看热闹的，\n但其中也有认真给出好评的人！"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_015.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "峰月同学也加入了，\n今后就以MewType2.0版的感觉，\n重新开始加油吧！"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_182.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "现在与其去乱刺激她，\n不如我们冷静下来等她回来吧"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_208.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "那我们这边也暂时解散吧。\n合作歌曲的详细资料我稍后发给你们，记得确认一下"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_022.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "按照之前说过的，先从个人视频开始。\n仲町同学有想要翻唱的歌曲吗？"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_194.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们要把这些流量转化成真正的粉丝，\n就抱着这种干劲去努力吧！"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_235.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "话虽这么说！风险防范还是很重要的。\n先让我确认一下你账号里的内容"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_161.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "还有，接下来准备签约的仲町同学。\n希望你们四个人能组一支乐队"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_011.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "被仲町同学和藤同学的热情推动，坚持办了演出，\n结果很好！"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_227.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "原来如此。\n你是想连同歌词一起，把那个上了锁的账号也公开出来"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_06_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あ、お疲れ様です。 東京に戻ったら、詳しい話を聞かせてもらいますね"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_018.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你看啊，成员退团不是会传出各种传言吗？\n比如违约啦、内讧啦之类的"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_113.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "敢动我们家重要的孩子们，\n我会让他们好看的！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_232.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "没问题。只要仲町同学你想把\n『此刻』的心情写成歌词的话！"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_yumemita_manager ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我也希望能以不甘示弱的速度推出新歌，\n比如三个月一首？"
         }
       ],
       "ws_voice_run#6": [

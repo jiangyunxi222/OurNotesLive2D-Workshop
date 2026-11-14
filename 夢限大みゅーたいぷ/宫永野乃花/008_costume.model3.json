@@ -1074,709 +1074,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_17_058.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_070.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_01_059.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_049.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_009.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_063.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_14_103.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_157.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_12_128.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_170.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_14_105.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_203.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_01_043.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_17_238.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_173.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_07_021.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_173.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_08_067.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_020.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_19_137.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_221.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10445_035.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_107.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_05_031.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_153.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_092.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_079.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_038.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_042.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_089.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_172.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_181.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Winter_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_185.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Winter_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_069.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Xmas_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_052.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Nonoka_NewYear_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_222.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Valentine_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_013.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_128.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_264.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_17_058.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_070.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "我想让大家都绽放笑容"
+          "Text": "赤いリボンはユノちゃんスペシャルで、 こっちは都子ちゃんで、りっちゃんで～……"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_01_059.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_049.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "嗯！\n小野乃最——喜欢小阿拉蕾的歌啦～"
+          "Text": "小都子和小由乃最近工作都太多了，\n都累出特大号的熊猫眼了呢～"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_009.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_063.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "哇～有小野乃，有小阿拉蕾，有小由乃，\n有小律，还有小都子～！大家都好可爱～！"
+          "Text": "讨厌啦～小野乃也要和小都子、小由乃一起跑步～！"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_14_103.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_157.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "已经很好地传达到啦！"
+          "Text": "小野乃我呢，超喜欢小由乃，\n所以给她发送了好多"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_12_128.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_170.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "就是那首——谁都没有错，\n大家光是活着就很了不起！的歌哦！"
+          "Text": "不对哦～\n小由乃退出的是MewType 2.0版本～"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_14_105.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_203.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "小野乃，出发了！"
+          "Text": "一直通着电话呢！\n小由乃，我们这边可是午餐时间哦"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_01_043.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "是5岁的小野乃！"
+          "Text": "小由乃的曲子大家都很喜欢，\n所以我经常弹哦"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_17_238.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_173.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "这是留给演出的惊喜！"
+          "Text": "和小由乃、小都子、小阿拉蕾还有小律一起！"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_07_021.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_173.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "小野乃会努力练习的！"
+          "Text": "不是只顾钻到地下，\n而是会跟我们好好说出来的小由乃！"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_08_067.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_020.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "打起精神最重要！"
+          "Text": "小由乃今天来上免售课"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_19_137.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_221.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "小野乃\n能和大家一起组乐队，真的超级开心！"
+          "Text": "……小由乃，为什么会退出乐队呢……"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10445_035.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_107.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "MewType全餐，要上了哦～～～！！"
+          "Text": "咦？ 小由乃～\n小由——乃——！"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_05_031.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "小阿拉蕾的翻唱，\n由小野乃来弹吉他～！"
+          "Text": "用小由乃写的曲子！\n小野乃是老粉丝了！从乐队时期开始就是了！"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_153.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "小野乃的占卜！今天全员的运势都是，五颗星——"
+          "Text": "你们两个在外面见过小由乃吗？"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_092.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "喜欢大家笑起来的样子～"
+          "Text": "那，下次庆功会的领队就是小由乃～"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_079.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "没精神的时候，就到了小野乃的治愈时间！"
+          "Text": "好——！等我们哦～\n金枪鱼、小由——"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "好暖和呢～正是睡午觉的好天气～"
+          "Text": "小野乃是不会放开小由乃的～"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_038.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "百花盛放的季节到了！喜欢～"
+          "Text": "！不错嘛～\n用小由乃的曲子来联动吧～"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_042.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "今天的午饭时间，大家一起来打西瓜吧～"
+          "Text": "这是小由乃心灵的诗歌哦"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_089.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "太阳晒得好厉害呢～皮肤都火辣辣的"
+          "Text": "ユノちゃんは何持って来たの～？"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_172.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "今天的午饭是拔丝红薯！甜蜜蜜小野乃！"
+          "Text": "♪ 小由乃，糖糖～"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_181.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "把落叶堆成小山……然后跳进去！"
+          "Text": "小由乃天才！"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Winter_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_185.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "觉得冷吗？那就用小野乃牌热水袋！抱紧——"
+          "Text": "虽然小都子和小野乃都是二年级，\n但我们是最近才认识的呢～"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Winter_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_069.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "快看～！雪人小野乃！很大吧～"
+          "Text": "楽しかったからわかんない！ 見て見て、黄色のはあられちゃんスペシャル～"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Xmas_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_052.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "小野乃圣诞老人来给大家送笑容啦～！"
+          "Text": "小野乃呀，看了小阿拉蕾的翻唱视频，\n看起来唱得真的好～开心……"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Nonoka_NewYear_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_222.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "梦限大板羽球王争夺战，开幕～！"
+          "Text": "我觉得小都子一点精神都没有呢，\n小阿拉蕾一定能把她治好！"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Valentine_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_013.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "我去把小都子带过来！\n小阿拉蕾在这里等着哦！"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_128.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
-          "Text": "把小野乃的心意，倾注到巧克力里～！"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就是那首——谁都没有错，\n大家光是活着就很了不起！的歌哦！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我喜欢大家笑起来的样子。\n大家开开心心，就是我最开心的事"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_264.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『最终还是见面了。\n我没脸见她。\n明天起走不同的路吧』"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_17_058.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_070.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "我想让大家都绽放笑容"
+          "Text": "赤いリボンはユノちゃんスペシャルで、 こっちは都子ちゃんで、りっちゃんで～……"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_01_059.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_049.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "嗯！\n小野乃最——喜欢小阿拉蕾的歌啦～"
+          "Text": "小都子和小由乃最近工作都太多了，\n都累出特大号的熊猫眼了呢～"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_009.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_063.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "哇～有小野乃，有小阿拉蕾，有小由乃，\n有小律，还有小都子～！大家都好可爱～！"
+          "Text": "讨厌啦～小野乃也要和小都子、小由乃一起跑步～！"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_14_103.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_157.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "已经很好地传达到啦！"
+          "Text": "小野乃我呢，超喜欢小由乃，\n所以给她发送了好多"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_12_128.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_170.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "就是那首——谁都没有错，\n大家光是活着就很了不起！的歌哦！"
+          "Text": "不对哦～\n小由乃退出的是MewType 2.0版本～"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_14_105.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_203.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "小野乃，出发了！"
+          "Text": "一直通着电话呢！\n小由乃，我们这边可是午餐时间哦"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_01_043.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "是5岁的小野乃！"
+          "Text": "小由乃的曲子大家都很喜欢，\n所以我经常弹哦"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_17_238.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_173.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "这是留给演出的惊喜！"
+          "Text": "和小由乃、小都子、小阿拉蕾还有小律一起！"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_07_021.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_173.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "小野乃会努力练习的！"
+          "Text": "不是只顾钻到地下，\n而是会跟我们好好说出来的小由乃！"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_08_067.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_020.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "打起精神最重要！"
+          "Text": "小由乃今天来上免售课"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_19_137.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_221.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "小野乃\n能和大家一起组乐队，真的超级开心！"
+          "Text": "……小由乃，为什么会退出乐队呢……"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10445_035.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_107.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "MewType全餐，要上了哦～～～！！"
+          "Text": "咦？ 小由乃～\n小由——乃——！"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_05_031.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "小阿拉蕾的翻唱，\n由小野乃来弹吉他～！"
+          "Text": "用小由乃写的曲子！\n小野乃是老粉丝了！从乐队时期开始就是了！"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_153.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "小野乃的占卜！今天全员的运势都是，五颗星——"
+          "Text": "你们两个在外面见过小由乃吗？"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_092.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "喜欢大家笑起来的样子～"
+          "Text": "那，下次庆功会的领队就是小由乃～"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_079.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "没精神的时候，就到了小野乃的治愈时间！"
+          "Text": "好——！等我们哦～\n金枪鱼、小由——"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "好暖和呢～正是睡午觉的好天气～"
+          "Text": "小野乃是不会放开小由乃的～"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_038.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "百花盛放的季节到了！喜欢～"
+          "Text": "！不错嘛～\n用小由乃的曲子来联动吧～"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_042.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "今天的午饭时间，大家一起来打西瓜吧～"
+          "Text": "这是小由乃心灵的诗歌哦"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_089.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "太阳晒得好厉害呢～皮肤都火辣辣的"
+          "Text": "ユノちゃんは何持って来たの～？"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_172.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "今天的午饭是拔丝红薯！甜蜜蜜小野乃！"
+          "Text": "♪ 小由乃，糖糖～"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_181.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "把落叶堆成小山……然后跳进去！"
+          "Text": "小由乃天才！"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Winter_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_185.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "觉得冷吗？那就用小野乃牌热水袋！抱紧——"
+          "Text": "虽然小都子和小野乃都是二年级，\n但我们是最近才认识的呢～"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Winter_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_069.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "快看～！雪人小野乃！很大吧～"
+          "Text": "楽しかったからわかんない！ 見て見て、黄色のはあられちゃんスペシャル～"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Xmas_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_052.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "小野乃圣诞老人来给大家送笑容啦～！"
+          "Text": "小野乃呀，看了小阿拉蕾的翻唱视频，\n看起来唱得真的好～开心……"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Nonoka_NewYear_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_222.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "梦限大板羽球王争夺战，开幕～！"
+          "Text": "我觉得小都子一点精神都没有呢，\n小阿拉蕾一定能把她治好！"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Nonoka_Valentine_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_013.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "我去把小都子带过来！\n小阿拉蕾在这里等着哦！"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_128.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
-          "Text": "把小野乃的心意，倾注到巧克力里～！"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就是那首——谁都没有错，\n大家光是活着就很了不起！的歌哦！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我喜欢大家笑起来的样子。\n大家开开心心，就是我最开心的事"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_264.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nonoka ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『最终还是见面了。\n我没脸见她。\n明天起走不同的路吧』"
         }
       ],
       "ws_voice_run#6": [

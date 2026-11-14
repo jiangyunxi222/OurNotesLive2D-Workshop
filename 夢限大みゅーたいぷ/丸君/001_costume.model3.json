@@ -430,8 +430,8 @@
           "Priority": 9,
           "Interruptable": true,
           "MotionDuration": 1,
-          "Command": "start_mtn ournotes_l2d_carrier_sub_marukun ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_marukun ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds",
-          "NextMtn": "ui_close#4",
+          "Command": "start_mtn ournotes_l2d_carrier_sub_marukun ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_marukun ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_started_1#9",
+          "NextMtn": "ws_voice_1_0#2",
           "VarFloats": []
         }
       ],
@@ -1102,6 +1102,779 @@
           "MotionDuration": 1,
           "VarFloats": [],
           "Command": "start_mtn ournotes_l2d_carrier_sub_marukun ws_hide_text#5; start_mtn ws_menu_timeout#5"
+        }
+      ],
+      "ws_voice_0_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_125.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_249.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_156.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_153.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_128.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_136.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_247.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_116.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_163.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_117.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_154.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_130.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_151.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_253.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_061.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_131.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_120.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_135.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_161.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_152.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_032.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        }
+      ],
+      "ws_voice_1_0#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_125.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊，是说乐队？\n毕竟你当时满脑子都是接插画的工作，被蒙蔽了双眼嘛"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_249.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家可都是为了你好，\n才跟你说的啊"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_156.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我不喜欢别人靠太近啦～！\n放开我放开我～！"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_153.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=180%>（都子————————<voffset=-1.2em><pos=5.8em>—————！！！！！）</voffset>"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_128.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……总之，技多不压身嘛"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_136.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（喂，喂，都子！都子——！！！）"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_247.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你不是已经明白了吗？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_116.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "咚咚啪啦啪啦～！"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "完全上头了啊"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_163.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊——！住手～～～～～！！"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "都子，时间到了"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_117.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "所以，你的烦恼是？"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_154.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=150%>呀——————！！！"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_130.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=150%>（冷静点，都子——！）"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我很期待哦！"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_151.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "嗯，请多关照……"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_253.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是说都子吗！？"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_061.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "快住手——"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "丸！"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_131.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "犯病了！？"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_120.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哈？"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_135.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（都子……？）"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_161.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "放开我！"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_152.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊！？"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_032.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "何を隠そう、都子は今まであだ名で呼ばれたことなんてない！"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "だから嬉しいとか以前にピンときてないんだぜ！"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "はぁ〜……まったく、困ったヤツだな"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "それが手荒だって言ってんだ！"
+        }
+      ],
+      "ws_voice_1_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_125.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊，是说乐队？\n毕竟你当时满脑子都是接插画的工作，被蒙蔽了双眼嘛"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_249.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家可都是为了你好，\n才跟你说的啊"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_156.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我不喜欢别人靠太近啦～！\n放开我放开我～！"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_153.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=180%>（都子————————<voffset=-1.2em><pos=5.8em>—————！！！！！）</voffset>"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_128.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……总之，技多不压身嘛"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_136.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（喂，喂，都子！都子——！！！）"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_247.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你不是已经明白了吗？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_116.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "咚咚啪啦啪啦～！"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "完全上头了啊"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_163.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊——！住手～～～～～！！"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "都子，时间到了"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_117.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "所以，你的烦恼是？"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_154.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=150%>呀——————！！！"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_130.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=150%>（冷静点，都子——！）"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我很期待哦！"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_151.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "嗯，请多关照……"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_253.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是说都子吗！？"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_061.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "快住手——"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "丸！"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_131.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "犯病了！？"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_120.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哈？"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_135.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（都子……？）"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_161.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "放开我！"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_05_152.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊！？"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_032.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "何を隠そう、都子は今まであだ名で呼ばれたことなんてない！"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10534_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "だから嬉しいとか以前にピンときてないんだぜ！"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "はぁ〜……まったく、困ったヤツだな"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_nonoka_miyako_10536_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "それが手荒だって言ってんだ！"
+        }
+      ],
+      "ws_voice_run#6": [
+        {
+          "Name": "menu_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "NextMtn": "ws_voice_1_1#2"
+        },
+        {
+          "Name": "menu_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "NextMtn": "ws_voice_0_1#2"
+        }
+      ],
+      "ws_voice_gap#7": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 2500,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_marukun ws_voice_ready_1#9"
         }
       ]
     },

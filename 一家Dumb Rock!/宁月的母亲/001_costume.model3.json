@@ -172,8 +172,8 @@
           "Priority": 9,
           "Interruptable": true,
           "MotionDuration": 1,
-          "Command": "start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds",
-          "NextMtn": "ui_close#4",
+          "Command": "start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_started_1#9",
+          "NextMtn": "ws_voice_1_0#2",
           "VarFloats": []
         }
       ],
@@ -676,6 +676,597 @@
           "MotionDuration": 1,
           "VarFloats": [],
           "Command": "start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_hide_text#5; start_mtn ws_menu_timeout#5"
+        }
+      ],
+      "ws_voice_0_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_054.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_044.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_058.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_048.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_062.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_069.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_025.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_051.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_066.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_049.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_029.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_060.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_040.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        }
+      ],
+      "ws_voice_1_0#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『四宮寧月』が、あんなどこの馬の骨とも知らない\n下流の人間と同じものを選ぶなんて、あってはならないの"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_054.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "いい？　あなたはクラシック界の神童であり\n音楽家『四宮絃一郎』の娘なのよ"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ええ、そうなんです。\n自由時間はバルコニーで読書をしているんですのよ"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_044.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ズボンも素敵だけれど、\nお母さまはこれが寧月に似合うと思うわ"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_058.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ここから正解を選べるようになるまで\nレッスンです。いいわね"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不正解。もっとよく考えなさい。\n『四宮寧月』にふさわしいものよ"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_048.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ふふ、やっぱり。\nではこの形で。次は生地を選びましょう"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_062.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "このページの中で、あなたが選ぶ『好きなもの』はどれ？"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "まあ、どれも素敵ねえ。\n寧月はどれが好きかしら？"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_069.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "よかったわねえ。\n好きなものを選んでいいって"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ファッションカタログ、２０冊用意しました"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_025.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "――寧月。デザイナーさんにご挨拶なさい"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "寧月も、こういうのが好きだったわね？"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……ふふ、好奇心旺盛なところがあって"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_051.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "今日、何を間違えたかわかるかしら"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_066.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "まあ、こんなにたくさんお土産を？"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あっているけれど、半分不正解"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_049.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "――寧月。そこに座りなさい"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_029.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "寧月"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_060.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "返事"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_040.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……っ"
+        }
+      ],
+      "ws_voice_1_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『四宮寧月』が、あんなどこの馬の骨とも知らない\n下流の人間と同じものを選ぶなんて、あってはならないの"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_054.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "いい？　あなたはクラシック界の神童であり\n音楽家『四宮絃一郎』の娘なのよ"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ええ、そうなんです。\n自由時間はバルコニーで読書をしているんですのよ"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_044.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ズボンも素敵だけれど、\nお母さまはこれが寧月に似合うと思うわ"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_058.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ここから正解を選べるようになるまで\nレッスンです。いいわね"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不正解。もっとよく考えなさい。\n『四宮寧月』にふさわしいものよ"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_048.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ふふ、やっぱり。\nではこの形で。次は生地を選びましょう"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_062.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "このページの中で、あなたが選ぶ『好きなもの』はどれ？"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "まあ、どれも素敵ねえ。\n寧月はどれが好きかしら？"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_069.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "よかったわねえ。\n好きなものを選んでいいって"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ファッションカタログ、２０冊用意しました"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_025.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "――寧月。デザイナーさんにご挨拶なさい"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "寧月も、こういうのが好きだったわね？"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……ふふ、好奇心旺盛なところがあって"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_051.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "今日、何を間違えたかわかるかしら"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_066.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "まあ、こんなにたくさんお土産を？"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あっているけれど、半分不正解"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_049.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "――寧月。そこに座りなさい"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_029.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "寧月"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_060.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "返事"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_06_040.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……っ"
+        }
+      ],
+      "ws_voice_run#6": [
+        {
+          "Name": "menu_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "NextMtn": "ws_voice_1_1#2"
+        },
+        {
+          "Name": "menu_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "NextMtn": "ws_voice_0_1#2"
+        }
+      ],
+      "ws_voice_gap#7": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 2500,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_shizukus_mother ws_voice_ready_1#9"
         }
       ]
     },

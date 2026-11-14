@@ -168,8 +168,8 @@
           "Priority": 9,
           "Interruptable": true,
           "MotionDuration": 1,
-          "Command": "start_mtn ournotes_l2d_carrier_sub_raki ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_raki ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds",
-          "NextMtn": "ui_close#4",
+          "Command": "start_mtn ournotes_l2d_carrier_sub_raki ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_raki ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_started_1#9",
+          "NextMtn": "ws_voice_1_0#2",
           "VarFloats": []
         }
       ],
@@ -660,6 +660,831 @@
           "MotionDuration": 1,
           "VarFloats": [],
           "Command": "start_mtn ournotes_l2d_carrier_sub_raki ws_hide_text#5; start_mtn ws_menu_timeout#5"
+        }
+      ],
+      "ws_voice_0_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_198.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_084.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_090.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_137.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_016.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_011.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_097.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_132.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_194.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_121.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_232.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_078.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_176.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_040.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_129.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_174.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_006.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_004.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        }
+      ],
+      "ws_voice_1_0#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_198.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『就连我们这些知道你们关系好的人，\n看着都觉得有点不妙……』"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "上次见到的小阿拉蕾那些朋友，在搞组合啊"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你肯定会介绍给我们认识\n这位超级棒的朋友的，对吧？"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_084.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "嗯？\n哦哦，《卓柏卡布拉饱和》第一卷呀"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_090.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "看你这副样子，估计你把今天的小测验也忘了吧"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_137.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "克蕾玛琪丝不是王子人设吗？"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "好像是在铃鸣莱办。\n小阿拉蕾会去吗？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_016.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾也跟小波塔一样喜欢旧版人设吗？"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_011.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就是啊。\n不管怎么说……有点……对吧"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "诶～那个还出贴纸了？"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们也很喜欢呢。超可爱的对吧"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "去是去，不过之前电话里说的那事没问题吗？"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾的话倒是有可能呢～"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_097.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "真是的～你们两个也太淡定了吧～"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我看了哦！『前沿文化速递！』"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_132.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "算是好的那种换口味？"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_194.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=150%>『出大事了！』</size>"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我对着屏幕都喊出声了！"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_121.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾、小律"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_232.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家都来了哦"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_078.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾也是哦"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_176.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾——"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_040.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊！小阿拉蕾"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_129.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是巴鲁君肉包……！"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_174.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾！？"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_006.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小、小阿拉蕾——"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "原来是人设啊"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_004.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊！是《魔法露露》"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这个这个"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "确实！"
+        }
+      ],
+      "ws_voice_1_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_198.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『就连我们这些知道你们关系好的人，\n看着都觉得有点不妙……』"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "上次见到的小阿拉蕾那些朋友，在搞组合啊"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_123.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你肯定会介绍给我们认识\n这位超级棒的朋友的，对吧？"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_084.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "嗯？\n哦哦，《卓柏卡布拉饱和》第一卷呀"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_090.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "看你这副样子，估计你把今天的小测验也忘了吧"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_137.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "克蕾玛琪丝不是王子人设吗？"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "好像是在铃鸣莱办。\n小阿拉蕾会去吗？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_016.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾也跟小波塔一样喜欢旧版人设吗？"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_011.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就是啊。\n不管怎么说……有点……对吧"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "诶～那个还出贴纸了？"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们也很喜欢呢。超可爱的对吧"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "去是去，不过之前电话里说的那事没问题吗？"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾的话倒是有可能呢～"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_097.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "真是的～你们两个也太淡定了吧～"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我看了哦！『前沿文化速递！』"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_132.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "算是好的那种换口味？"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_194.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "<size=150%>『出大事了！』</size>"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我对着屏幕都喊出声了！"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_121.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾、小律"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_232.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家都来了哦"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_078.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾也是哦"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_176.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾——"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_040.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊！小阿拉蕾"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_129.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是巴鲁君肉包……！"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_174.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小阿拉蕾！？"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_006.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小、小阿拉蕾——"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "原来是人设啊"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_02_004.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊！是《魔法露露》"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这个这个"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_07_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raki ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "确实！"
+        }
+      ],
+      "ws_voice_run#6": [
+        {
+          "Name": "menu_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "NextMtn": "ws_voice_1_1#2"
+        },
+        {
+          "Name": "menu_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "NextMtn": "ws_voice_0_1#2"
+        }
+      ],
+      "ws_voice_gap#7": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 2500,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_raki ws_voice_ready_1#9"
         }
       ]
     }

@@ -2142,709 +2142,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_20_153.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10456_005.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_13_136.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_05_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_003.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10455_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_07_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_01_004.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_016.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10581_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_02_069.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_004.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_03_041.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_07_057.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_09_117.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10456_017.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10971_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_01_016.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_04_082.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Raika_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_07_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Raika_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_03_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Raika_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_07_183.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Raika_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_16_094.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Raika_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_058.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Raika_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_chieri_10587_008.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Raika_Winter_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10579_025.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Raika_Winter_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10580_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Raika_Xmas_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_013.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Raika_NewYear_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Raika_Valentine_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10971_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Self_2026_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10972_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Miku_2027_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_01_027.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Yomogi_2027_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_01_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_04_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_14_076.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_14_078.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_20_153.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10456_005.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "晚上好！我们是一家Dumb Rock！！"
+          "Text": "啊，心玖的话，已经先去帮忙卖票了！\n说是要去跟我们不一样的地方"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_13_136.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_05_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "……我真庆幸拥有这么好的Family啊……\n谢谢你们"
+          "Text": "迎えのバンが来てるから急いで着替えようっ。 漁に間に合わないって！"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_003.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "这就是『Family』"
+          "Text": "怎么说呢，感觉就像透过她的指尖和我的后背，\n感受到了外婆的爱一样"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10455_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "——『Family就该和睦』！！"
+          "Text": "啊哈哈，抱歉！我们三个一起吃掉啦！\n不过真的超级好吃！"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_07_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_01_004.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "因为这就是Family！"
+          "Text": "外婆曾经说过，\n只要有Family，人生就是最棒的"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_016.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10581_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "今晚也要尽情释放充满爱与和睦的旋律！！"
+          "Text": "楽しいっていうか嬉しい！ だって心玖のこともっと知りたいもん"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_02_069.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_004.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "这把吉他，满载着爱呢"
+          "Text": "宁月真厉害啊～\n不管什么都能马上学会"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_03_041.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "然后，我是吉他兼主唱须贺蕾叶！\n大家都是吉他手，请多关照啦"
+          "Text": "我才不喊了呢。\n毕竟现在，我每天和Family待在一起就很开心啦！"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_07_057.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "再次介绍一下，我是蕾叶，\n这位是我的Family，心玖"
+          "Text": "啊，不过Family旅行我还是很羡慕的！\n总有一天我们也要去一次～"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_09_117.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10456_017.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "各位，谢谢你们和我一起演出！"
+          "Text": "没错没错！\n蓬咲说了今天也会在网上帮我们宣传的"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10971_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "大家～～！吃饭的时间到了哦～！"
+          "Text": "だからああやってご飯の時に 話してくれると嬉しいんだよね"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_01_016.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "我拿棒棒冰来了哦～！今天吃哪种？"
+          "Text": "宁月～你想办演出对吧！？\n也想多做乐队练习对吧～？"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_04_082.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "来吧，今天也像Family一样玩乐队吧！"
+          "Text": "てか寧月、今日どうだった？ たくさん初めてのことしたんだよね？"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Raika_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_07_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "快看，樱花开了哦！大家一起去赏花吧！"
+          "Text": "うっ……わかったけど、でも、 そんなに怒んなくたっていいじゃんか〜！"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Raika_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_03_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "为了做散寿司，我准备了超——多的醋饭哦！"
+          "Text": "然后，我是吉他兼主唱须贺蕾叶！\n大家都是吉他手，请多关照啦"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Raika_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_07_183.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "各位——想去海边还是去游泳池？去河边也可以哦！"
+          "Text": "交给～？\n你刚才不还说要把Live House拆了吗！"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Raika_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_16_094.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "千梨～！和我一起分吃棒棒冰吧！"
+          "Text": "能把曲子理解到那个份上，\n也只有宁月才做得到"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Raika_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_058.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "大家送了我好多团子，说是让我们一起去赏月！"
+          "Text": "千梨说想跟你分橙子味的\n你咋说？"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Raika_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_chieri_10587_008.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "附近的小孩们邀请我去挖红薯了～"
+          "Text": "お〜、絶好調じゃん。 新しいバイト初日で緊張したかと思ったのに〜"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Raika_Winter_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10579_025.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "各位！积雪了！去院子里打雪仗吧！"
+          "Text": "だって心玖はこれから一生 おいしいご飯が食べられるんだよ！"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Raika_Winter_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10580_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "宁月在被炉里睡着了……！要小声一点……！"
+          "Text": "心玖が曲作ってるとこ見たい！ 本当に静かにするから、お願いっ"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Raika_Xmas_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_013.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "今天我要为了Family变成圣诞老人♪"
+          "Text": "明明用的是一样的洗发水，\n宁月的头发却感觉更蓬松柔软！"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Raika_NewYear_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "新年好～！好了，我们Family一起去新年参拜吧～！"
+          "Text": "快看快看，这块布好大，五颜六色的！\n蓬咲，很适合你，你看！"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Raika_Valentine_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10971_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "我要给Family做一个超大的心形巧克力～！"
+          "Text": "心玖の家はどんなこと話してたの？ ご飯の時とか寝る前とか"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Self_2026_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10972_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "谢谢～！收到Family的祝福最开心了！"
+          "Text": "寝ない、つーか寝れない！ だってファミリー初のおでかけだよ"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Miku_2027_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_01_027.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "心玖生日快乐～！哎呀呀，害羞了？很开心吗？"
+          "Text": "可大家都只顾着打工！\n只有吃饭时间才在一起"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Yomogi_2027_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_01_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "啊哈哈，抱歉！\n一不小心就想多聊聊大家的事嘛"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_04_047.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
-          "Text": "蓬咲，你今天是寿星所以坐到中间来！"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "从今天开始的四人Family生活，\n大家一起和睦相处，好好享受吧！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_14_076.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们虽然还是个菜鸟Family，\n但我们有满满的爱！"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_14_078.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_manual_voice_finished_6#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "然后，不够的部分，\n就用我们的Family之爱全力克服吧！！"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_20_153.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10456_005.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "晚上好！我们是一家Dumb Rock！！"
+          "Text": "啊，心玖的话，已经先去帮忙卖票了！\n说是要去跟我们不一样的地方"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_13_136.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_05_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "……我真庆幸拥有这么好的Family啊……\n谢谢你们"
+          "Text": "迎えのバンが来てるから急いで着替えようっ。 漁に間に合わないって！"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_003.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "这就是『Family』"
+          "Text": "怎么说呢，感觉就像透过她的指尖和我的后背，\n感受到了外婆的爱一样"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10455_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "——『Family就该和睦』！！"
+          "Text": "啊哈哈，抱歉！我们三个一起吃掉啦！\n不过真的超级好吃！"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_07_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_01_004.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "因为这就是Family！"
+          "Text": "外婆曾经说过，\n只要有Family，人生就是最棒的"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_01_016.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10581_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "今晚也要尽情释放充满爱与和睦的旋律！！"
+          "Text": "楽しいっていうか嬉しい！ だって心玖のこともっと知りたいもん"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_02_069.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_004.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "这把吉他，满载着爱呢"
+          "Text": "宁月真厉害啊～\n不管什么都能马上学会"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_03_041.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "然后，我是吉他兼主唱须贺蕾叶！\n大家都是吉他手，请多关照啦"
+          "Text": "我才不喊了呢。\n毕竟现在，我每天和Family待在一起就很开心啦！"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_07_057.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_036.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "再次介绍一下，我是蕾叶，\n这位是我的Family，心玖"
+          "Text": "啊，不过Family旅行我还是很羡慕的！\n总有一天我们也要去一次～"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_kadan_005_1_09_117.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10456_017.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "各位，谢谢你们和我一起演出！"
+          "Text": "没错没错！\n蓬咲说了今天也会在网上帮我们宣传的"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10971_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "大家～～！吃饭的时间到了哦～！"
+          "Text": "だからああやってご飯の時に 話してくれると嬉しいんだよね"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_01_016.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我拿棒棒冰来了哦～！今天吃哪种？"
+          "Text": "宁月～你想办演出对吧！？\n也想多做乐队练习对吧～？"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_BandTop_Raika_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_04_082.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "来吧，今天也像Family一样玩乐队吧！"
+          "Text": "てか寧月、今日どうだった？ たくさん初めてのことしたんだよね？"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Raika_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_07_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "快看，樱花开了哦！大家一起去赏花吧！"
+          "Text": "うっ……わかったけど、でも、 そんなに怒んなくたっていいじゃんか〜！"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Raika_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_03_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "为了做散寿司，我准备了超——多的醋饭哦！"
+          "Text": "然后，我是吉他兼主唱须贺蕾叶！\n大家都是吉他手，请多关照啦"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Raika_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_07_183.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "各位——想去海边还是去游泳池？去河边也可以哦！"
+          "Text": "交给～？\n你刚才不还说要把Live House拆了吗！"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Raika_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_16_094.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "千梨～！和我一起分吃棒棒冰吧！"
+          "Text": "能把曲子理解到那个份上，\n也只有宁月才做得到"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Raika_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_058.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "大家送了我好多团子，说是让我们一起去赏月！"
+          "Text": "千梨说想跟你分橙子味的\n你咋说？"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Raika_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_chieri_10587_008.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "附近的小孩们邀请我去挖红薯了～"
+          "Text": "お〜、絶好調じゃん。 新しいバイト初日で緊張したかと思ったのに〜"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Raika_Winter_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10579_025.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "各位！积雪了！去院子里打雪仗吧！"
+          "Text": "だって心玖はこれから一生 おいしいご飯が食べられるんだよ！"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Raika_Winter_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_miku_10580_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "宁月在被炉里睡着了……！要小声一点……！"
+          "Text": "心玖が曲作ってるとこ見たい！ 本当に静かにするから、お願いっ"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Raika_Xmas_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_linkstory_raika_shizuku_10590_013.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "今天我要为了Family变成圣诞老人♪"
+          "Text": "明明用的是一样的洗发水，\n宁月的头发却感觉更蓬松柔软！"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Raika_NewYear_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_021.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "新年好～！好了，我们Family一起去新年参拜吧～！"
+          "Text": "快看快看，这块布好大，五颜六色的！\n蓬咲，很适合你，你看！"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Raika_Valentine_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10971_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我要给Family做一个超大的心形巧克力～！"
+          "Text": "心玖の家はどんなこと話してたの？ ご飯の時とか寝る前とか"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Self_2026_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10972_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "谢谢～！收到Family的祝福最开心了！"
+          "Text": "寝ない、つーか寝れない！ だってファミリー初のおでかけだよ"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Miku_2027_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_eventstory_8_01_027.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "心玖生日快乐～！哎呀呀，害羞了？很开心吗？"
+          "Text": "可大家都只顾着打工！\n只有吃饭时间才在一起"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Raika_BD_Yomogi_2027_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_01_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "啊哈哈，抱歉！\n一不小心就想多聊聊大家的事嘛"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_04_047.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "蓬咲，你今天是寿星所以坐到中间来！"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "从今天开始的四人Family生活，\n大家一起和睦相处，好好享受吧！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_14_076.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们虽然还是个菜鸟Family，\n但我们有满满的爱！"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_14_078.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_raika ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "然后，不够的部分，\n就用我们的Family之爱全力克服吧！！"
         }
       ],
       "ws_voice_run#6": [

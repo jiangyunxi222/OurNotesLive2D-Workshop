@@ -789,8 +789,8 @@
           "Priority": 9,
           "Interruptable": true,
           "MotionDuration": 1,
-          "Command": "start_mtn ournotes_l2d_carrier_sub_koharu ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_koharu ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds",
-          "NextMtn": "ui_close#4",
+          "Command": "start_mtn ournotes_l2d_carrier_sub_koharu ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_sub_koharu ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_started_1#9",
+          "NextMtn": "ws_voice_1_0#2",
           "VarFloats": []
         }
       ],
@@ -1821,6 +1821,831 @@
           "MotionDuration": 1,
           "VarFloats": [],
           "Command": "start_mtn ournotes_l2d_carrier_sub_koharu ws_hide_text#5; start_mtn ws_menu_timeout#5"
+        }
+      ],
+      "ws_voice_0_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_150.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_115.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_136.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_144.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_094.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_073.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_112.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_086.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_172.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_160.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_085.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_162.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_080.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_104.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_141.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_134.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_088.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_105.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_114.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_138.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_003.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_077.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_083.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        }
+      ],
+      "ws_voice_1_0#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我也是啊，虽然工作很辛苦，\n但看到由乃那么活跃，就会觉得不能输，然后继续努力"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "在我眼里由乃你可一点都没变。\n还是像以前一样，是大家的目标"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但看着由乃，\n就觉得或许不是完全没有可能"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "——只要由乃跑在前面，\n我就觉得能一直追着梦想跑下去"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_150.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为努力了，和你一起作曲的梦想也实现了"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_115.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "由乃能做到的话，自己说不定也能做到"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "由乃，你果然实现梦想了呢"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "用彼此的梦想互相推动，\n大家一起朝梦想前进，是大家的歌"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_136.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但枫正为了当兽医拼命学习，\n柚衣奈也在锻炼身体，说想去宇宙"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_144.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "相信彼此的梦想，\n能成为迈向自己梦想的第一步，这不是很棒吗？"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_094.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "合作歌曲的歌词，\n是用我们当时最真实的心情写下的"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_073.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我猜你肯定会提前15分钟到，就提前20分钟来了，\n结果你还是这么认真～"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_112.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不，我们刚才可厉害了！\n最棒了！最亮眼了！"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_086.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『等我们进军主流肯定能火。\n也应该能走向世界』"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_172.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "下次再一起工作吧～！\n可以往事务所发邮件吗？"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_160.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "诶，你是为了工作叫我来的？\n不是因为想见我才叫我来的吗？"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_085.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "唔～！曲子有了，乐队名也定下来了，\n那首先应该是——"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_162.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "骗人～明明高兴得连日夜颠倒的作息\n都改过来见我了！"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_080.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "诶——不是挺好的嘛！很有必要啊，\n因为我们要组乐队了嘛！"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_104.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "——我们的快乐、耀眼、\n无法忘怀的时光"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_141.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "乐队解散的时候，你什么也没说，只在背后推了我一把，我很开心"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_134.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "嘿嘿，我们是最棒的乐队，对吧？"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你不是说过吗，\n想靠音乐吃饭"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_088.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哈哈哈哈！\n你这一点还真是完全没变"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_105.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你是觉得玩乐队的人都是些轻浮软弱的家伙吗？"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_114.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家都在别人的梦想里，找到了自己的梦想"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_138.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "以前只是没说出来而已。\n反正也觉得不可能实现"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_003.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们是最棒的乐队吧？"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_077.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "唔～给刚睡醒的脑子来一口碳酸饮料，爽到爆了～～～"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_083.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你写好曲子了对吧？"
+        }
+      ],
+      "ws_voice_1_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我也是啊，虽然工作很辛苦，\n但看到由乃那么活跃，就会觉得不能输，然后继续努力"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "在我眼里由乃你可一点都没变。\n还是像以前一样，是大家的目标"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_139.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但看着由乃，\n就觉得或许不是完全没有可能"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "——只要由乃跑在前面，\n我就觉得能一直追着梦想跑下去"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_150.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为努力了，和你一起作曲的梦想也实现了"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_115.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "由乃能做到的话，自己说不定也能做到"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "由乃，你果然实现梦想了呢"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "用彼此的梦想互相推动，\n大家一起朝梦想前进，是大家的歌"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_136.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但枫正为了当兽医拼命学习，\n柚衣奈也在锻炼身体，说想去宇宙"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_144.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "相信彼此的梦想，\n能成为迈向自己梦想的第一步，这不是很棒吗？"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_094.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "合作歌曲的歌词，\n是用我们当时最真实的心情写下的"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_073.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我猜你肯定会提前15分钟到，就提前20分钟来了，\n结果你还是这么认真～"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_112.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不，我们刚才可厉害了！\n最棒了！最亮眼了！"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_086.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『等我们进军主流肯定能火。\n也应该能走向世界』"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_172.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "下次再一起工作吧～！\n可以往事务所发邮件吗？"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_160.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "诶，你是为了工作叫我来的？\n不是因为想见我才叫我来的吗？"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_085.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "唔～！曲子有了，乐队名也定下来了，\n那首先应该是——"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_162.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "骗人～明明高兴得连日夜颠倒的作息\n都改过来见我了！"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_080.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "诶——不是挺好的嘛！很有必要啊，\n因为我们要组乐队了嘛！"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_104.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "——我们的快乐、耀眼、\n无法忘怀的时光"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_141.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "乐队解散的时候，你什么也没说，只在背后推了我一把，我很开心"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_134.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "嘿嘿，我们是最棒的乐队，对吧？"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_081.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你不是说过吗，\n想靠音乐吃饭"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_088.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哈哈哈哈！\n你这一点还真是完全没变"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_105.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你是觉得玩乐队的人都是些轻浮软弱的家伙吗？"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_114.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家都在别人的梦想里，找到了自己的梦想"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_138.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "以前只是没说出来而已。\n反正也觉得不可能实现"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_003.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们是最棒的乐队吧？"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_077.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "唔～给刚睡醒的脑子来一口碳酸饮料，爽到爆了～～～"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_083.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "你写好曲子了对吧？"
+        }
+      ],
+      "ws_voice_run#6": [
+        {
+          "Name": "menu_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "NextMtn": "ws_voice_1_1#2"
+        },
+        {
+          "Name": "menu_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "NextMtn": "ws_voice_0_1#2"
+        }
+      ],
+      "ws_voice_gap#7": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 2500,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_koharu ws_voice_ready_1#9"
         }
       ]
     },

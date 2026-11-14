@@ -1995,553 +1995,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_136.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_075.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_059.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_125.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_061.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_133.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_056.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_055.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_119.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_047.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_126.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_040.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_134.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_129.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_02_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_095.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_141.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_106.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_045.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_exstory_1_02_014.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_053.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Uika_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_214.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Uika_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_16_141.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Uika_Summer_01.wav",
+          "Sound": "assets/voices/curated_event235-31-037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Uika_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_066.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Uika_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_230.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Uika_Autumn_02.wav",
+          "Sound": "assets/voices/curated_event235-38-054.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_021.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_16_027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_158.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_16_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_120.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_136.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_075.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "对不起。\n我不小心看见了笔记本里的一点内容"
+          "Text": "这首歌不对。这不是CRYCHIC的歌。\n是小灯现在的乐队MyGO!!!!!的歌才对"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_059.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "你看起来都快哭了"
+          "Text": "我听说，小祥想复活CRYCHIC"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_125.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_061.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "在城里，也能看见北极星呢"
+          "Text": "うん……CRYCHICのこと聞きたくて。これ"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_133.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_056.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "？有什么从包里掉出来了哦？"
+          "Text": "等等！你们两个要组CRYCHIC吗？"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_055.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "这根本不算负担啦。\n不如说能帮我转换心情……不对"
-        },
-        {
-          "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_119.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "你前面就是楼梯。\n心不在焉的话，可能会踩空的哦"
-        },
-        {
-          "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_126.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "我之前还以为在东京看不见星星，\n当初找到时吓了一跳呢"
-        },
-        {
-          "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_134.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "这是笔记本……？"
-        },
-        {
-          "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_129.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "你找得真快呢"
-        },
-        {
-          "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_02_040.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "每次看到你发给我的信息，我总能获得勇气。\n出道刚定下来时你发给我的信息"
-        },
-        {
-          "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_141.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "感觉诗能传达心意呢。\n哪怕是难以说清楚的事，也能比话语更好地传达心意"
-        },
-        {
-          "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_045.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Text": "刚才的话让我好感动。\n这让我感觉到，你真的很在乎Ave Mujica"
         },
         {
-          "Name": "voice_12",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_01.wav",
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_047.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "才刚刚出道就有了这么高的人气，\n小祥果然很厉害"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_040.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "歌词我一般都是在手机上写的"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "每次看到你发给我的信息，我总能获得勇气。\n出道刚定下来时你发给我的信息"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小睦。好厉害啊！观众们也都很惊讶。\n没想到你能演得那么震撼——"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_039.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小祥也好厉害啊！立刻就做出了反应。\n多亏了你靠即兴表演接住，之后才没出岔子"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "对了，要不要一起吃甜甜圈？\n有好多种口味呢，巧克力味的、草莓味的"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_106.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_090.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "海鈴ちゃん、睦ちゃんのこと送っていってたね。 にゃむちゃんも、ちょっと変わったって言うか……"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ロフト、そのままにしてるんだ。 狭かったらもっと広いところに引越してもいいし、私——"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_exstory_1_02_014.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "我有星象馆的年票哦"
+          "Text": "でも気持ちわかるな。こんな素敵な船、初めてだもん。 私たちもちょっと見て回らない？"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_053.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "原来花女也有天文部啊。我太忙了，大概没法参加吧"
+          "Text": "Ave Mujicaを選んでくれて……受け止めてくれて…… 私、本当にしあわせ"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Uika_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_214.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "小真奈约我一起去赏花！"
+          "Text": "家太远的话，住我家不行吗？\n我家离这里很近，只要你家里人不担心"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Uika_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_16_141.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "春天到了嘛，我就新买了一个同款不同色的马克杯"
+          "Text": "感觉用歌就能传达出去呢。\n哪怕是难以说清楚的事。诗也比话语，更能传达心意"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Uika_Summer_01.wav",
+          "Sound": "assets/voices/curated_event235-31-037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "……掉在那边的是蝉吗？……绕路走吧"
+          "Text": "歌って伝わる気がするよね。 上手に言えないことも。言葉以上に気持ちが"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Uika_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_066.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "在家里喝冰咖啡，感觉很放松"
+          "Text": "（さきちゃん……すごくしあわせそう…… こんな顔、Ave Mujicaの時は——）"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Uika_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_230.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "中秋的明月啊。月光总让人觉得很安心呢"
+          "Text": "睦ちゃんのギターは楽曲の要だから 私ひとりじゃカバーできない"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Uika_Autumn_02.wav",
+          "Sound": "assets/voices/curated_event235-38-054.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "気にしなくてもいいよ。 sumimiのこと知っててくれて嬉しい"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_021.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
-          "Text": "新买的咖啡豆，不知道小祥会不会喜欢呢？"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ムジカは解散させない。 メンバーがやめるってそういうことだよ"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_16_027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "さきちゃん、Ave Mujicaやろう？ ずっといっしょにいよう……！"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_158.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『別荘に行ってはいけない』 どうして母は私にだけそう言ったのか"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_16_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我之前还以为在东京看不见星星，\n当初找到时吓了一跳呢"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_120.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ゲストの皆様に素敵な夢を見ていただけるようがんばります"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『大きくなったらアイドルになるの！ ぜったいに東京に出るから！』"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "島で仲良くしてもらっていた初華、 それだけでわかってくれた"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是啊。然后我们碰到了大蜘蛛，\n你吓得哇哇大叫"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_manual_voice_finished_9#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这根本不算负担啦。\n不如说能帮我转换心情……不对"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_136.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_075.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "对不起。\n我不小心看见了笔记本里的一点内容"
+          "Text": "这首歌不对。这不是CRYCHIC的歌。\n是小灯现在的乐队MyGO!!!!!的歌才对"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_059.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "你看起来都快哭了"
+          "Text": "我听说，小祥想复活CRYCHIC"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_125.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_061.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "在城里，也能看见北极星呢"
+          "Text": "うん……CRYCHICのこと聞きたくて。これ"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_133.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_056.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "？有什么从包里掉出来了哦？"
+          "Text": "等等！你们两个要组CRYCHIC吗？"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_055.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "这根本不算负担啦。\n不如说能帮我转换心情……不对"
-        },
-        {
-          "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_119.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "你前面就是楼梯。\n心不在焉的话，可能会踩空的哦"
-        },
-        {
-          "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_126.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "我之前还以为在东京看不见星星，\n当初找到时吓了一跳呢"
-        },
-        {
-          "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_134.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "这是笔记本……？"
-        },
-        {
-          "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_129.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "你找得真快呢"
-        },
-        {
-          "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_02_040.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "每次看到你发给我的信息，我总能获得勇气。\n出道刚定下来时你发给我的信息"
-        },
-        {
-          "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_16_141.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "感觉诗能传达心意呢。\n哪怕是难以说清楚的事，也能比话语更好地传达心意"
-        },
-        {
-          "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_045.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Text": "刚才的话让我好感动。\n这让我感觉到，你真的很在乎Ave Mujica"
         },
         {
-          "Name": "voice_12",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_01.wav",
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_047.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "才刚刚出道就有了这么高的人气，\n小祥果然很厉害"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_040.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "歌词我一般都是在手机上写的"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "每次看到你发给我的信息，我总能获得勇气。\n出道刚定下来时你发给我的信息"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小睦。好厉害啊！观众们也都很惊讶。\n没想到你能演得那么震撼——"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_039.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小祥也好厉害啊！立刻就做出了反应。\n多亏了你靠即兴表演接住，之后才没出岔子"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_095.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "对了，要不要一起吃甜甜圈？\n有好多种口味呢，巧克力味的、草莓味的"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_106.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_090.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "海鈴ちゃん、睦ちゃんのこと送っていってたね。 にゃむちゃんも、ちょっと変わったって言うか……"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ロフト、そのままにしてるんだ。 狭かったらもっと広いところに引越してもいいし、私——"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_exstory_1_02_014.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "我有星象馆的年票哦"
+          "Text": "でも気持ちわかるな。こんな素敵な船、初めてだもん。 私たちもちょっと見て回らない？"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_BandTop_Uika_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_17_053.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "原来花女也有天文部啊。我太忙了，大概没法参加吧"
+          "Text": "Ave Mujicaを選んでくれて……受け止めてくれて…… 私、本当にしあわせ"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Uika_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_214.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "小真奈约我一起去赏花！"
+          "Text": "家太远的话，住我家不行吗？\n我家离这里很近，只要你家里人不担心"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Uika_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_16_141.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "春天到了嘛，我就新买了一个同款不同色的马克杯"
+          "Text": "感觉用歌就能传达出去呢。\n哪怕是难以说清楚的事。诗也比话语，更能传达心意"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Uika_Summer_01.wav",
+          "Sound": "assets/voices/curated_event235-31-037.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "……掉在那边的是蝉吗？……绕路走吧"
+          "Text": "歌って伝わる気がするよね。 上手に言えないことも。言葉以上に気持ちが"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Uika_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_14_066.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "在家里喝冰咖啡，感觉很放松"
+          "Text": "（さきちゃん……すごくしあわせそう…… こんな顔、Ave Mujicaの時は——）"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Uika_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_230.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "中秋的明月啊。月光总让人觉得很安心呢"
+          "Text": "睦ちゃんのギターは楽曲の要だから 私ひとりじゃカバーできない"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Uika_Autumn_02.wav",
+          "Sound": "assets/voices/curated_event235-38-054.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "気にしなくてもいいよ。 sumimiのこと知っててくれて嬉しい"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_021.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
-          "Text": "新买的咖啡豆，不知道小祥会不会喜欢呢？"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ムジカは解散させない。 メンバーがやめるってそういうことだよ"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_16_027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "さきちゃん、Ave Mujicaやろう？ ずっといっしょにいよう……！"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_158.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『別荘に行ってはいけない』 どうして母は私にだけそう言ったのか"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_16_126.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我之前还以为在东京看不见星星，\n当初找到时吓了一跳呢"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_120.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ゲストの皆様に素敵な夢を見ていただけるようがんばります"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『大きくなったらアイドルになるの！ ぜったいに東京に出るから！』"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_18_149.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "島で仲良くしてもらっていた初華、 それだけでわかってくれた"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是啊。然后我们碰到了大蜘蛛，\n你吓得哇哇大叫"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_uika ws_voice_finished_9#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这根本不算负担啦。\n不如说能帮我转换心情……不对"
         }
       ],
       "ws_voice_run#6": [

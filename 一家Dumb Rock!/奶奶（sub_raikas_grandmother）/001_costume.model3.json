@@ -447,189 +447,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_012.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_030.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_024.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_061.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_063.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_028.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_028.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_015.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_030.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_059.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_036.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_050.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_076.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_041.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_034.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_051.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_038.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_046.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_018.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_023.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_066.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_072.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_067.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_012.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_030.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "嗯，早上好！\n懂得规规矩矩地打招呼，这才算得上是优秀的Family嘛！"
+          "Text": "是啊，那家旅馆很不错～还有人还在睡懒觉，\n也有人抓紧最后一刻还在泡温泉"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_024.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_061.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "啊哈哈，还有好多别的！\n大家要和睦地分一分哦！"
+          "Text": "你从小一哭就肯定是自己一个人躲起来。\n躲在窗帘后面，蜷着小小的背"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_063.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "哎呀，看到你们笑得这么开心，\n下一趟旅行我也能放心出发了"
+          "Text": "你能遇到这么棒的Family。\n有了可以和你一起分担这份难过的人"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_028.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "喂～～～！！\n小鬼们都起床啦～～～～～～！！！"
+          "Text": "『其实，铃木直接给我打了电话。\n说想谈关于Live House的生意』"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_028.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "嗯。今天傍晚的飞机。\n『Nest』合约那边的事情也都谈完了"
+          "Text": "『我从蕾叶那儿听说了，所以我也拒绝了这件事。\n让蕾叶坚持自己决定的事，是家长的责任啊』"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_015.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "啊，突然过来不好意思啊！\n上次来的时候没来得及给你们"
+          "Text": "『今日は絶対テントで寝る！ って言うから 慌ててペグなしのテントを買ったんだからな？』"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_030.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_059.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "『ファミリーの先輩として……蕾叶の親として、 私は蕾叶が決めたことを全力で応援するよ』"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_027.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
-          "Text": "是啊，那家旅馆很不错～还有人还在睡懒觉，\n也有人抓紧最后一刻还在泡温泉"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就算是为了夺回Family，\n你也不能去把别人家的演出搅得一团糟啊！！"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_036.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哎呀，你们几位就是蕾叶的Family吧。\n平时多谢你们照顾我们家蕾叶啦～"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_050.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……不过呢，铃木小姐您对几个孩子也没少下狠手，\n就当我们扯平了吧"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "蕾叶，你身边有你的Family，也有我们这些奶奶。\n这件事你可不能忘了哦"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_076.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "那，你回你的Family那边去吧。\n送到这里就可以了"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哎呀，看到你们笑得这么开心，\n下一趟旅行我也能放心出发了"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_041.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家都攒了一肚子话要说。\n那就开饭吧！两边的Family见个面！！"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "——所以，这事儿就翻篇了。\n不管你怎么联系我，我都不会让步的"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『今まであんたのやりたいようにやらせてきたけど…… もう充分頑張ったよ』"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_034.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "咦，我还以为你会更羡慕的。\n会像以前那样喊着『我也好想去啊～！』"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_051.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『Live House的事现在不用担心。\n交给奶奶就好』"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『……そこまで言えるようになるなんて、 いいファミリーに出会ったな、蕾叶』"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『蕾叶は自分のファミリーのことに集中しな。 まだ解決してないんだろ？』"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_038.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哦，你就是传说中的心玖啊！！\n听说你面对大人非但没怂，反倒把人家给威胁了～？"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "铃木那家伙跟我抱怨说\n『简直跟被威胁了一样』"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_046.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是我对孙女的管教不周，\n给您添了这么大麻烦，非常抱歉"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_018.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『哦，蕾叶的Family也在一起吗？\n让我见见你们吧！』"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_023.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『啊哈哈！\n跟听说的一样，是群有活力的Family，多好啊！』"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_066.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『はーい、任されました！ いや〜、久々に日本に帰るのも楽しみだよ！』"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『え？ ああ…… 蕾叶がどうしても行くって大泣きしたからなあ』"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_072.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "コラッ！！ 私の愛孫にそんな重いヤツ背負わせないよ！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "お〜、おかえり！ 今日も学校は楽しかったか？"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_067.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "これからさ。 ほら、さっさと動くよ！"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_012.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_030.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "嗯，早上好！\n懂得规规矩矩地打招呼，这才算得上是优秀的Family嘛！"
+          "Text": "是啊，那家旅馆很不错～还有人还在睡懒觉，\n也有人抓紧最后一刻还在泡温泉"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_024.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_061.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "啊哈哈，还有好多别的！\n大家要和睦地分一分哦！"
+          "Text": "你从小一哭就肯定是自己一个人躲起来。\n躲在窗帘后面，蜷着小小的背"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_063.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "哎呀，看到你们笑得这么开心，\n下一趟旅行我也能放心出发了"
+          "Text": "你能遇到这么棒的Family。\n有了可以和你一起分担这份难过的人"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_001.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_028.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "喂～～～！！\n小鬼们都起床啦～～～～～～！！！"
+          "Text": "『其实，铃木直接给我打了电话。\n说想谈关于Live House的生意』"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_028.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "嗯。今天傍晚的飞机。\n『Nest』合约那边的事情也都谈完了"
+          "Text": "『我从蕾叶那儿听说了，所以我也拒绝了这件事。\n让蕾叶坚持自己决定的事，是家长的责任啊』"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_015.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "啊，突然过来不好意思啊！\n上次来的时候没来得及给你们"
+          "Text": "『今日は絶対テントで寝る！ って言うから 慌ててペグなしのテントを買ったんだからな？』"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10454_030.wav",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_059.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "『ファミリーの先輩として……蕾叶の親として、 私は蕾叶が決めたことを全力で応援するよ』"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_027.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "是啊，那家旅馆很不错～还有人还在睡懒觉，\n也有人抓紧最后一刻还在泡温泉"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就算是为了夺回Family，\n你也不能去把别人家的演出搅得一团糟啊！！"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_036.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哎呀，你们几位就是蕾叶的Family吧。\n平时多谢你们照顾我们家蕾叶啦～"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_050.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……不过呢，铃木小姐您对几个孩子也没少下狠手，\n就当我们扯平了吧"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "蕾叶，你身边有你的Family，也有我们这些奶奶。\n这件事你可不能忘了哦"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_076.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "那，你回你的Family那边去吧。\n送到这里就可以了"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哎呀，看到你们笑得这么开心，\n下一趟旅行我也能放心出发了"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_041.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家都攒了一肚子话要说。\n那就开饭吧！两边的Family见个面！！"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_033.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "——所以，这事儿就翻篇了。\n不管你怎么联系我，我都不会让步的"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『今まであんたのやりたいようにやらせてきたけど…… もう充分頑張ったよ』"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_anotherstory_10454_034.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "咦，我还以为你会更羡慕的。\n会像以前那样喊着『我也好想去啊～！』"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_051.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『Live House的事现在不用担心。\n交给奶奶就好』"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_057.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『……そこまで言えるようになるなんて、 いいファミリーに出会ったな、蕾叶』"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_064.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『蕾叶は自分のファミリーのことに集中しな。 まだ解決してないんだろ？』"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_038.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "哦，你就是传说中的心玖啊！！\n听说你面对大人非但没怂，反倒把人家给威胁了～？"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "铃木那家伙跟我抱怨说\n『简直跟被威胁了一样』"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_20_046.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是我对孙女的管教不周，\n给您添了这么大麻烦，非常抱歉"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_018.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『哦，蕾叶的Family也在一起吗？\n让我见见你们吧！』"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_17_023.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『啊哈哈！\n跟听说的一样，是群有活力的Family，多好啊！』"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_066.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『はーい、任されました！ いや〜、久々に日本に帰るのも楽しみだよ！』"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_18_042.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『え？ ああ…… 蕾叶がどうしても行くって大泣きしたからなあ』"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_072.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "コラッ！！ 私の愛孫にそんな重いヤツ背負わせないよ！"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "お〜、おかえり！ 今日も学校は楽しかったか？"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_kadan_005_1_08_067.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sub_raikas_grandmother ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "これからさ。 ほら、さっさと動くよ！"
         }
       ],
       "ws_voice_run#6": [

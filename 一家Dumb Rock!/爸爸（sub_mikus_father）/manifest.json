@@ -9,13 +9,13 @@
   "entry": "00_integrated.model3.json",
   "costumes": 1,
   "models": 2,
-  "assets": 9,
+  "assets": 24,
   "archive_members": 11,
   "viewerex_runtime_verified": false,
   "policy_revision": 3,
   "files_sha256": {
-    "001_costume.model3.json": "eedd3d65733dadb6ae434499e07e05c4f9a426ba956a210ddeca8bedf701ef3b",
-    "00_integrated.model3.json": "7fe3426e55e712ab6c714d82a9f45b35227076ad93c89e36a9325a0115e7960c",
+    "001_costume.model3.json": "cb876874d6002ce1da74de17637e6b9d8f21ca497b07015dde2f44f344bdb49b",
+    "00_integrated.model3.json": "0ca6affb545a06b02aa584778e7f87cbed8ed8a6c9a12396c2d24303a698338b",
     "assets/anchor/transparent.png": "43739c566e26fd7cb88f69d3864ea34740372f5ee99acac169e090beffbce5c6",
     "assets/models/d81b12bcc1bf2c1122d605dee92c016b.moc3": "170c5f8cee851acd5a4f9f10fa9148fc33358d45b4ea536113685e23e00c5b56",
     "assets/models/def973ec258a846d06f02ded84e37712.moc3": "170c5f8cee851acd5a4f9f10fa9148fc33358d45b4ea536113685e23e00c5b56",
@@ -38,7 +38,12 @@
     "assets/menu/state_110.png": "b6aba76063688fd4f7bfa6087a1c8f356982b544534ce053f197c1982358c9a9",
     "assets/menu/state_111.png": "dc0433d6d6ea5ce62004b0a76297c09de97cef60bce62eaab70bae79deec48fc",
     "001_hitareas.model.json": "c4379399092a4f3609136359552ece6da76ad61d1090ba20d98fc8ae26b7f92f",
-    "001_menu.model.json": "8e4b5f7491f7199e72ff2ad9436e0cb7bf89c4cefe36ba128248e0456bac5d64"
+    "001_menu.model.json": "8e4b5f7491f7199e72ff2ad9436e0cb7bf89c4cefe36ba128248e0456bac5d64",
+    "assets/voices/curated_adv_voice_kadan_005_1_05_061.wav": "95f29923d26412d48a94a3e72339cb958ee0233966c1591d7f1b3774c9fc85d9",
+    "assets/voices/curated_adv_voice_kadan_005_1_05_135.wav": "0b069cff2747c7c8d12175d14936830b1533be5352e512d51c257008aceded13",
+    "assets/voices/curated_adv_voice_kadan_005_1_05_139.wav": "50f04136ce20a4ef9d7a8e080dfe7dcead41bd07dc4633484f69e3d79815362c",
+    "assets/voices/curated_adv_voice_kadan_005_1_05_137.wav": "d0279b2e8c7159b4cba186093b1a78a14da9d557ebe3b13dfa880d587bd800b7",
+    "assets/voices/voice-sources.json": "cf3e546530793a1b21945c0a8ca1f74f7b1ef5ca46c08841940e47a765ddc5ec"
   },
   "interaction_repairs": true,
   "menu_version": 2,
@@ -118,5 +123,10 @@
   "voice_management_revision": 1,
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
-  "workshop_native_menu_revision": 9
+  "workshop_native_menu_revision": 10,
+  "voice_library_revision": 20261115,
+  "voice_library_count": 4,
+  "curated_voice_counts": {
+    "primary": 4
+  }
 }

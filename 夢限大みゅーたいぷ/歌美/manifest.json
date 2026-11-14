@@ -9,13 +9,13 @@
   "entry": "00_integrated.model3.json",
   "costumes": 1,
   "models": 2,
-  "assets": 9,
+  "assets": 34,
   "archive_members": 11,
   "viewerex_runtime_verified": false,
   "policy_revision": 3,
   "files_sha256": {
-    "001_costume.model3.json": "b055d054e42e5149b65d8da25e2f6c26e9bcc61e3edc8c95777219d610d3bcf9",
-    "00_integrated.model3.json": "764732091bdbc8821d2f1e3f15e26008b027662b8c4d28d092a78c756f0074ec",
+    "001_costume.model3.json": "dee9a69d4dda2866a649b156196aabf92d7a7ca760c99a7647c45ce797b2c0a4",
+    "00_integrated.model3.json": "158d1282b46f53c932f47bbac7c7958061a32dff71ad0e05313c382aa804c0e3",
     "assets/anchor/transparent.png": "43739c566e26fd7cb88f69d3864ea34740372f5ee99acac169e090beffbce5c6",
     "assets/models/3d0b497a4f1c8170b3075b22c6bc9d91.moc3": "5de05ebac71d9738e312a0f42fcceb40f2e4384a48fae12c30f313f853c442cf",
     "assets/models/b7b597e12ddad167d6614ddd1b9c8f93.moc3": "5de05ebac71d9738e312a0f42fcceb40f2e4384a48fae12c30f313f853c442cf",
@@ -38,7 +38,22 @@
     "assets/menu/state_110.png": "b6aba76063688fd4f7bfa6087a1c8f356982b544534ce053f197c1982358c9a9",
     "assets/menu/state_111.png": "dc0433d6d6ea5ce62004b0a76297c09de97cef60bce62eaab70bae79deec48fc",
     "001_hitareas.model.json": "1264f7cf7e07ff4b85e84a2bdc9f9cca5b99bbd7364d8a3fb333c79bd50bcc24",
-    "001_menu.model.json": "a5fdd2bd3ae078655c30594f51704b8b68e8a90f167952baed51257c973c9501"
+    "001_menu.model.json": "a5fdd2bd3ae078655c30594f51704b8b68e8a90f167952baed51257c973c9501",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_072.wav": "22db240a6cb0a265a43a191eb4c764f323388553ccf29d326c183ef8d2f2c53c",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_068.wav": "c01c2a006adf679b5c54cf710daf36c8f26dbcb95422021c7f3b401d7afff680",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_062.wav": "02cc9bc12d714d919de41447f7ffd2afc7fa35b68d26734b39437b67ed63ddb3",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_011.wav": "7dbfce42f09e66d263244560fc9116262d0ab787606e25a6cb7bdc181ca18fe3",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_067.wav": "a116a5630197e10b00eca90dca79bdcf6b8c179b1a762949f5b47514b264d2e6",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_044.wav": "ece44b34a70d75ee0d737c34de579d21f46056d8032e323f40f9454e88eee42e",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_043.wav": "5b30563b760066ac2dc9d263f0eda2d3452cceda88dd9b0dd65f0de6c43d43e2",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_066.wav": "a07400c35754396bf6bf10ef7dc5789a9e7793c609d5fb5c973791202f1e9992",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_049.wav": "839b8ebcd46960f243a27f97eea0bedd474512f1de5f55169d7dcc36894cfc09",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_058.wav": "a20be77bfbd7dfd02e4a49af2028f59691b6ed384ffabf68db01120d4e4cf858",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_021.wav": "1d76d6de66d8c32afcb9433112a4420324cf8cbaf5ef64091232e7ec7c7084be",
+    "assets/voices/voice-sources.json": "b82873a1896a46f135de74cf84d32abb14a2d10f6d156785f243268dc58bdb09",
+    "assets/voices/curated_adv_voice_yumemita_003_1_19_237.wav": "5f2f4e0a8b6ef6cfc87189fc3b95788d0c80f80f0d9b58c3f104929c6f8a8fff",
+    "assets/voices/curated_adv_voice_yumemita_003_1_19_242.wav": "3518cbcbe740354b0fae1aa02ddf66cf2bdea182535870bbf2063f14674d58b5",
+    "assets/voices/curated_adv_voice_yumemita_003_1_06_015.wav": "8b79f66ff756307629c45e9da7118046ae069f8c5f8599fef368c1d830fb312d"
   },
   "interaction_repairs": true,
   "menu_version": 2,
@@ -118,5 +133,10 @@
   "voice_management_revision": 1,
   "panel_connection_revision": 1,
   "panel_native_bridge_revision": 1,
-  "workshop_native_menu_revision": 9
+  "workshop_native_menu_revision": 10,
+  "voice_library_revision": 20261115,
+  "voice_library_count": 14,
+  "curated_voice_counts": {
+    "primary": 14
+  }
 }

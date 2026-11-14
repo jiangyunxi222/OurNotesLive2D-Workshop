@@ -1946,761 +1946,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_02_053.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_19_119.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_linkstory_natsume_nagi_10561_031.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_15_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_19_225.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_097.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_022.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_14_047.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_088.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_145.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_102.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_024.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_04_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_129.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_104.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_168.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_071.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_016.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_117.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_14_030.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_14_103.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_107.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_091.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_071.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_135.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_12_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_032.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_15_048.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_07_032.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_034.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_093.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_03_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_110.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_117.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_044.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_06_077.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_109.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_11_044.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_adv_voice_linkstory_nagi_mahoro_10570_034.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_17_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_05_041.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_17_040.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_05_139.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_109.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_adv_voice_linkstory_hotaru_nagi_10552_037.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_15_024.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_12_147.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_27",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_11_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_28",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_03_091.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_06_079.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_02_053.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_19_119.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "我回来了——"
+          "Text": "啊哈……总之，就是这么回事。\n天才大人什么的，我们在奏多那儿就习惯得差不多了"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_linkstory_natsume_nagi_10561_031.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "抱歉，回头见"
+          "Text": "等等等等，作词也归茉幌？\n那不是比以前担子更重了吗"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_15_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "啊哈，抱歉啦抱歉啦"
+          "Text": "话是这么说……诶，对了？\n贝斯那部分最后怎么样了"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_19_225.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "啊哈，抱歉啦抱歉啦"
+          "Text": "就算加了钢琴，\n茉幌的负担也跟现在没两样吧"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_097.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_022.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "抱歉，你能再说一次名字……吗？"
+          "Text": "什么今后……我们又不是，\n奔着职业乐队去的"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_14_047.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "抱歉，没什么"
+          "Text": "……抱歉，我没听懂。\n让这孩子来弹钢琴，能顶什么用？"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_088.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_145.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "我说，那边那个女生。\n这里非工作人员禁止入内哦"
+          "Text": "……まほろさ。奏多が亡くなってから、 今まで泣いてなかったよね"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_102.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_024.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "……朋花。你这就要回去了？"
+          "Text": "可你……好好想想。\n钢琴可是奏多的位置啊？真的好吗？"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_04_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_129.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "我，成了一个不努力的人"
+          "Text": "说什么『奏多不在就没意义了』『不想再弹了』……"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_104.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_168.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "这样啊。\n对了……联系上枣学姐了吗？"
+          "Text": "奏多がどう思ってたかは……奏多にしかわかんないし"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_071.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_016.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "这次再怎么说都是奏多的错吧？"
+          "Text": "啊……\n你之前说是奏多的粉丝来着……你的幻想破灭了？"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_117.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_14_030.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "嗯。以前是我姐练篮球用的……\n现在没人用了"
+          "Text": "（奏多还在的时候，明明不是这样的）"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_14_103.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_107.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "听完刚才那段，\n再不让汐见同学唱就太浪费了吧"
+          "Text": "……奏多は、特別だよ。無敵のヒーローだったもん"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_091.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_071.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "……你是茉幌的麻烦粉丝？\n如果是这样的话，我可不能让你见她呢"
+          "Text": "这次再怎么说都是奏多的错吧？"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_135.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "……啊，想起来了。\n她就是传闻里那个霸占着天台、谁都不让靠近的学姐"
+          "Text": "奏多说她想到正式的乐队名了"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_12_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_032.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "完美啦"
+          "Text": "嗯，先把形式做足，我觉得挺重要"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_15_048.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "……就是明天了呢，演出"
+          "Text": "萤的这身，也是你那位朋友做的？"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_07_032.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_034.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "来练习吧"
+          "Text": "你这也未免太心急了吧"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_093.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_03_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Text": "好好好，大家都这么说。\n不过抱歉，演出时间之外都属于私人时间"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_110.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_117.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "她……是汐见萤同学"
+          "Text": "嗯。以前是我姐练篮球用的……\n现在没人用了"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_044.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_06_077.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "……茉幌。要我来说吗？"
+          "Text": "……那能不能请这位姐姐，\n差不多也该学会早上自己起床了呢？"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_109.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_11_044.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "唉……我知道了啦。\n加入是可以，但乐队的事我可不懂哦"
+          "Text": "……是茉幌负责的部分。\n能不能麻烦改得再简单一点"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_adv_voice_linkstory_nagi_mahoro_10570_034.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_17_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "啊哈哈。玩乐队就是花钱"
+          "Text": "蛍をバンドに入れようって言ったのも、 ボーカルやらせようって言い出したのもきみじゃんか……！"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_05_041.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_17_040.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "奏多说她想到正式的乐队名了"
+          "Text": "最初からこうなるように企んでたんじゃないの！？ じゃないときみは、バンドのことなんか――"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_05_139.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_109.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "乐队……能留住的话，我当然想留住"
+          "Text": "唉……我知道了啦。\n加入是可以，但乐队的事我可不懂哦"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_adv_voice_linkstory_hotaru_nagi_10552_037.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_15_024.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "……谢谢你。话说，抱歉啊。\n打扰你练习了"
+          "Text": "就是。不然可要像之前的茉幌那样，\n当天睡过头了"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_12_147.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "我的吉他，原本是爸爸的。好像是把好吉他"
+          "Text": "学姐啊，夸人就直接点呗。\n说一句『刚才弹得真好』"
         },
         {
           "Name": "voice_27",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_11_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "早上去叫茉幌起床，对我来说就像是例行公事一样"
+          "Text": "她现在还兼任主唱，要边唱边弹的话，\n精力多少有点——"
         },
         {
           "Name": "voice_28",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_03_091.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "……你是茉幌的麻烦粉丝？\n如果是这样的话，我可不能让你见她呢"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_06_079.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_manual_voice_finished_2#9",
-          "Text": "糟了，棒棒糖没库存了"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "晚上还很凉，不许绕路。\n有什么事就联系我"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_02_053.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_19_119.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "我回来了——"
+          "Text": "啊哈……总之，就是这么回事。\n天才大人什么的，我们在奏多那儿就习惯得差不多了"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_linkstory_natsume_nagi_10561_031.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "抱歉，回头见"
+          "Text": "等等等等，作词也归茉幌？\n那不是比以前担子更重了吗"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_15_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "啊哈，抱歉啦抱歉啦"
+          "Text": "话是这么说……诶，对了？\n贝斯那部分最后怎么样了"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_19_225.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_011.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "啊哈，抱歉啦抱歉啦"
+          "Text": "就算加了钢琴，\n茉幌的负担也跟现在没两样吧"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_097.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_13_022.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "抱歉，你能再说一次名字……吗？"
+          "Text": "什么今后……我们又不是，\n奔着职业乐队去的"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_14_047.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "抱歉，没什么"
+          "Text": "……抱歉，我没听懂。\n让这孩子来弹钢琴，能顶什么用？"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_088.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_145.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "我说，那边那个女生。\n这里非工作人员禁止入内哦"
+          "Text": "……まほろさ。奏多が亡くなってから、 今まで泣いてなかったよね"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_102.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_08_024.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "……朋花。你这就要回去了？"
+          "Text": "可你……好好想想。\n钢琴可是奏多的位置啊？真的好吗？"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_04_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_129.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "我，成了一个不努力的人"
+          "Text": "说什么『奏多不在就没意义了』『不想再弹了』……"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_104.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_168.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "这样啊。\n对了……联系上枣学姐了吗？"
+          "Text": "奏多がどう思ってたかは……奏多にしかわかんないし"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_071.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_016.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "这次再怎么说都是奏多的错吧？"
+          "Text": "啊……\n你之前说是奏多的粉丝来着……你的幻想破灭了？"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_117.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_14_030.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "嗯。以前是我姐练篮球用的……\n现在没人用了"
+          "Text": "（奏多还在的时候，明明不是这样的）"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_14_103.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_18_107.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "听完刚才那段，\n再不让汐见同学唱就太浪费了吧"
+          "Text": "……奏多は、特別だよ。無敵のヒーローだったもん"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_091.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_071.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "……你是茉幌的麻烦粉丝？\n如果是这样的话，我可不能让你见她呢"
+          "Text": "这次再怎么说都是奏多的错吧？"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_135.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_05_041.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "……啊，想起来了。\n她就是传闻里那个霸占着天台、谁都不让靠近的学姐"
+          "Text": "奏多说她想到正式的乐队名了"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_12_026.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_032.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "完美啦"
+          "Text": "嗯，先把形式做足，我觉得挺重要"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_15_048.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "……就是明天了呢，演出"
+          "Text": "萤的这身，也是你那位朋友做的？"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_adv_voice_eventstory_7_07_032.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_20_034.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "来练习吧"
+          "Text": "你这也未免太心急了吧"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_093.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_03_093.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Text": "好好好，大家都这么说。\n不过抱歉，演出时间之外都属于私人时间"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_03_110.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_117.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "她……是汐见萤同学"
+          "Text": "嗯。以前是我姐练篮球用的……\n现在没人用了"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_044.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_06_077.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "……茉幌。要我来说吗？"
+          "Text": "……那能不能请这位姐姐，\n差不多也该学会早上自己起床了呢？"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_04_109.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_11_044.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "唉……我知道了啦。\n加入是可以，但乐队的事我可不懂哦"
+          "Text": "……是茉幌负责的部分。\n能不能麻烦改得再简单一点"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_adv_voice_linkstory_nagi_mahoro_10570_034.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_17_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "啊哈哈。玩乐队就是花钱"
+          "Text": "蛍をバンドに入れようって言ったのも、 ボーカルやらせようって言い出したのもきみじゃんか……！"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_05_041.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_17_040.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "奏多说她想到正式的乐队名了"
+          "Text": "最初からこうなるように企んでたんじゃないの！？ じゃないときみは、バンドのことなんか――"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_adv_voice_millsage_004_1_05_139.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_04_109.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "乐队……能留住的话，我当然想留住"
+          "Text": "唉……我知道了啦。\n加入是可以，但乐队的事我可不懂哦"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_adv_voice_linkstory_hotaru_nagi_10552_037.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_15_024.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "……谢谢你。话说，抱歉啊。\n打扰你练习了"
+          "Text": "就是。不然可要像之前的茉幌那样，\n当天睡过头了"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_12_147.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "我的吉他，原本是爸爸的。好像是把好吉他"
+          "Text": "学姐啊，夸人就直接点呗。\n说一句『刚才弹得真好』"
         },
         {
           "Name": "voice_27",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_11_045.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "早上去叫茉幌起床，对我来说就像是例行公事一样"
+          "Text": "她现在还兼任主唱，要边唱边弹的话，\n精力多少有点——"
         },
         {
           "Name": "voice_28",
-          "Sound": "assets/voices/source_BandTop_Nagi_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_03_091.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "……你是茉幌的麻烦粉丝？\n如果是这样的话，我可不能让你见她呢"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_millsage_004_1_06_079.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_nagi ws_voice_finished_2#9; start_mtn ws_voice_gap#7",
-          "Text": "糟了，棒棒糖没库存了"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "晚上还很凉，不许绕路。\n有什么事就联系我"
         }
       ],
       "ws_voice_run#6": [

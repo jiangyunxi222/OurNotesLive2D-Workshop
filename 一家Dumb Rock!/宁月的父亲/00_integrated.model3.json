@@ -1186,6 +1186,61 @@
       ],
       "ws_voice_gate#8": [
         {
+          "Name": "start_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "NextMtn": "ws_tick#8",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_costume_due",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_switching",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_shizukus_father_costume_001 ws_voice_run#6"
+        },
+        {
           "Name": "skip_page_loop_voice",
           "Priority": 9,
           "Interruptable": true,
@@ -1268,20 +1323,6 @@
               "Code": "equal 1"
             }
           ]
-        },
-        {
-          "Name": "unavailable_1",
-          "Priority": 9,
-          "Interruptable": true,
-          "MotionDuration": 1,
-          "VarFloats": [
-            {
-              "Name": "selected_costume",
-              "Type": 1,
-              "Code": "equal 1"
-            }
-          ],
-          "NextMtn": "ws_tick#8"
         }
       ],
       "ws_costume_wait#7": [
@@ -1457,6 +1498,106 @@
           "Interruptable": true,
           "MotionDuration": 1,
           "Command": "hide_text"
+        }
+      ],
+      "ws_voice_finished_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_voice_ready_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_manual_voice_started_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_manual_voice_finished_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
         }
       ]
     }

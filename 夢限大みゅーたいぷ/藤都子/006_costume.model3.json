@@ -2124,709 +2124,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_03_079.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_073.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_151.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_071.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_245.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_05_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_03_155.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_189.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_linkstory_arale_miyako_10525_002.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_008.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_025.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_20_044.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_02_006.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_050.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_05_037.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_140.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10447_014.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_119.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_04_055.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_001.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_09_112.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_117.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_220.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_252.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_20_038.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_051.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_035.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_084.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_089.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_113.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10447_032.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_120.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_088.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_110.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Miyako_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_012.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Miyako_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_106.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Miyako_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_109.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Miyako_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_122.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Miyako_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_022.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Miyako_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_049.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_075.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_147.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_022.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_03_079.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "非常感谢……"
+          "Text": "薇欧拉同学你读我的作品所感受到的，\n并没有错"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_073.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_151.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "我喜欢写故事。\n只有这一点是真实的"
+          "Text": "『妖精花束也太可怜了吧』……？\n『好担心小薇欧拉』……"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_071.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_245.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "我喜欢画画"
+          "Text": "……这是只有薇欧拉同学你才拍得出来的视频……\n薇欧拉同学……"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_05_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "为了赶上截止日，能做的全都做……\n这就是凭自己的真本事吃饭"
+          "Text": "所以，要是没有薇欧拉同学的话我……"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_03_155.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_189.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "早上，好……"
+          "Text": "『梦限大MewType』……"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_linkstory_arale_miyako_10525_002.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "今后也请多多支持"
+          "Text": "那个……『秋叶原演出庆功慰问郊游\n～关于减轻身心负担及提升作业效率的相关计划～』"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_008.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_025.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "可以……接下来也就剩调色了"
+          "Text": "希望你们不要以为，\n一个从出生起就宅到骨子里的人，体力能轻易变好"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_20_044.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "呵，我只是去面对现实而已"
+          "Text": "我一直都是这样活过来的。\n为了在自己选择的世界里生存下去"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_02_006.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_050.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "那个，是《魔法露露》×猫加镇联动推出的\n便当盒吧……！？"
+          "Text": "出发前我就说过了，\n庆功会的话，线上办不也可以吗？"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_05_037.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_140.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "是的……现在大概是在桌上堆满能量饮料，\n咬紧牙关硬撑的阶段"
+          "Text": "好了……\n零点前把分镜稿发过去，天亮前画出五张Q版角色草图！"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10447_014.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_119.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "不，也不是完全不会被问到……？\n峰月同学那时候，都被问了些什么样的问题？"
+          "Text": "像我这样的阴角\n居然给各位阳角大人添了麻烦"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_04_055.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_001.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "我有点懂。就像是把对那个作品的解读\n用音乐表现出来，才会变成那样……"
+          "Text": "回去后要修立绘，在晚饭前赶原稿\n之后还要练习键盘……"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_09_112.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_117.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "举办一场演出，怎么样呢"
+          "Text": "而且经纪人小姐之前也说过，\n想办演出"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_220.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_252.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "我就是我"
+          "Text": "……我还以为，自己第一次遇到了\n能真正理解我内心的人……"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_20_038.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_051.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "看来必须得拼命排练了呢"
+          "Text": "那样还不会累，\n而且路上的时间也能用来工作"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_035.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_084.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "她说想等练习结束后再好好看个够，\n所以我打算把数据发给她……"
+          "Text": "不用担心。\n我藤都子，既然决定两者兼顾，就有坚持到底的决心！"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_089.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_113.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "我！要成为MewType！！"
+          "Text": "（这话被我听到真的没关系吗！？\n感觉是相当私人的事吧？）"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10447_032.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_120.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "……遇见MewType之后，\n确实有什么改变了"
+          "Text": "（对着正在烦恼的阿拉蕾同学，\n我连一句安慰的话都说不出来，太可悲了！）"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_088.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "好想被治愈一下……\n好想被治愈……"
+          "Text": "她是真正理解我的，\n最棒的粉丝！"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "好，这周需要提交的内容已经交上去了。接下来画宣传插画"
+          "Text": "我倾注在作品里的东西，\n她都能完全理解……"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_110.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "丸君是我朋友"
+          "Text": "每个成员的角色塑造\n和关系设定也都非常出色……"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Miyako_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_012.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "呼……春日温暖的阳光让人好困……！"
+          "Text": "坐摩天轮不会太累，\n回去之后应该也能继续工作呢"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Miyako_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_106.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "打着赏花的旗号吵吵闹闹的人，我不太喜欢……"
+          "Text": "虽然试错很辛苦，\n可是得奖的时候我真的特别开心"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Miyako_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_109.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "如果去海边的话……是不是就能收集到穿泳装的女孩子的作画资料了……？"
+          "Text": "你那种把粉丝放在第一位的态度，\n让我由衷地感动了！"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Miyako_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_122.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "外向阳光的人和蝉，为什么能在夏天这么精神呢……"
+          "Text": "我明白她充满热情，\n做什么事都全力以赴……"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Miyako_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_022.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "在秋天的长夜里工作……进度很快呢"
+          "Text": "……即便如此，\n如果周围的人需要你这样做，不也挺好的吗？"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Miyako_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_049.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "是我自己太差劲了。\n因为我这个人，空洞又空虚"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_075.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
-          "Text": "我感觉，夏天减退的食欲总算恢复过来了"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "完全没有。\n仲町同学的感想让我有很深的感触"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_147.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "特典的工作我也很努力了，\n要是大家能喜欢就好了……"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_022.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_manual_voice_finished_6#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "那个，我之所以找你，\n是因为有好多事情想问……"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_03_079.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "非常感谢……"
+          "Text": "薇欧拉同学你读我的作品所感受到的，\n并没有错"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_073.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_151.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我喜欢写故事。\n只有这一点是真实的"
+          "Text": "『妖精花束也太可怜了吧』……？\n『好担心小薇欧拉』……"
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_071.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_245.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我喜欢画画"
+          "Text": "……这是只有薇欧拉同学你才拍得出来的视频……\n薇欧拉同学……"
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_05_040.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_010.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "为了赶上截止日，能做的全都做……\n这就是凭自己的真本事吃饭"
+          "Text": "所以，要是没有薇欧拉同学的话我……"
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_03_155.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_189.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "早上，好……"
+          "Text": "『梦限大MewType』……"
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_linkstory_arale_miyako_10525_002.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_039.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "今后也请多多支持"
+          "Text": "那个……『秋叶原演出庆功慰问郊游\n～关于减轻身心负担及提升作业效率的相关计划～』"
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_008.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_025.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "可以……接下来也就剩调色了"
+          "Text": "希望你们不要以为，\n一个从出生起就宅到骨子里的人，体力能轻易变好"
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_20_044.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "呵，我只是去面对现实而已"
+          "Text": "我一直都是这样活过来的。\n为了在自己选择的世界里生存下去"
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_02_006.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_050.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "那个，是《魔法露露》×猫加镇联动推出的\n便当盒吧……！？"
+          "Text": "出发前我就说过了，\n庆功会的话，线上办不也可以吗？"
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_05_037.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_140.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "是的……现在大概是在桌上堆满能量饮料，\n咬紧牙关硬撑的阶段"
+          "Text": "好了……\n零点前把分镜稿发过去，天亮前画出五张Q版角色草图！"
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10447_014.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_03_119.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "不，也不是完全不会被问到……？\n峰月同学那时候，都被问了些什么样的问题？"
+          "Text": "像我这样的阴角\n居然给各位阳角大人添了麻烦"
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_04_055.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_001.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我有点懂。就像是把对那个作品的解读\n用音乐表现出来，才会变成那样……"
+          "Text": "回去后要修立绘，在晚饭前赶原稿\n之后还要练习键盘……"
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_09_112.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_117.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "举办一场演出，怎么样呢"
+          "Text": "而且经纪人小姐之前也说过，\n想办演出"
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_220.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_252.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我就是我"
+          "Text": "……我还以为，自己第一次遇到了\n能真正理解我内心的人……"
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_20_038.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_051.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "看来必须得拼命排练了呢"
+          "Text": "那样还不会累，\n而且路上的时间也能用来工作"
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_adv_voice_eventstory_6_01_035.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_084.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "她说想等练习结束后再好好看个够，\n所以我打算把数据发给她……"
+          "Text": "不用担心。\n我藤都子，既然决定两者兼顾，就有坚持到底的决心！"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_adv_voice_yumemita_003_1_18_089.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_113.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我！要成为MewType！！"
+          "Text": "（这话被我听到真的没关系吗！？\n感觉是相当私人的事吧？）"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_adv_voice_anotherstory_10447_032.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_120.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "……遇见MewType之后，\n确实有什么改变了"
+          "Text": "（对着正在烦恼的阿拉蕾同学，\n我连一句安慰的话都说不出来，太可悲了！）"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_088.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "好想被治愈一下……\n好想被治愈……"
+          "Text": "她是真正理解我的，\n最棒的粉丝！"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_090.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "好，这周需要提交的内容已经交上去了。接下来画宣传插画"
+          "Text": "我倾注在作品里的东西，\n她都能完全理解……"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Miyako_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_110.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "丸君是我朋友"
+          "Text": "每个成员的角色塑造\n和关系设定也都非常出色……"
         },
         {
           "Name": "voice_21",
-          "Sound": "assets/voices/source_BandTop_Miyako_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_012.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "呼……春日温暖的阳光让人好困……！"
+          "Text": "坐摩天轮不会太累，\n回去之后应该也能继续工作呢"
         },
         {
           "Name": "voice_22",
-          "Sound": "assets/voices/source_BandTop_Miyako_Spring_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_106.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "打着赏花的旗号吵吵闹闹的人，我不太喜欢……"
+          "Text": "虽然试错很辛苦，\n可是得奖的时候我真的特别开心"
         },
         {
           "Name": "voice_23",
-          "Sound": "assets/voices/source_BandTop_Miyako_Summer_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_109.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "如果去海边的话……是不是就能收集到穿泳装的女孩子的作画资料了……？"
+          "Text": "你那种把粉丝放在第一位的态度，\n让我由衷地感动了！"
         },
         {
           "Name": "voice_24",
-          "Sound": "assets/voices/source_BandTop_Miyako_Summer_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_122.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "外向阳光的人和蝉，为什么能在夏天这么精神呢……"
+          "Text": "我明白她充满热情，\n做什么事都全力以赴……"
         },
         {
           "Name": "voice_25",
-          "Sound": "assets/voices/source_BandTop_Miyako_Autumn_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_022.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "在秋天的长夜里工作……进度很快呢"
+          "Text": "……即便如此，\n如果周围的人需要你这样做，不也挺好的吗？"
         },
         {
           "Name": "voice_26",
-          "Sound": "assets/voices/source_BandTop_Miyako_Autumn_02.wav",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_049.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "是我自己太差劲了。\n因为我这个人，空洞又空虚"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_04_075.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
-          "Text": "我感觉，夏天减退的食欲总算恢复过来了"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "完全没有。\n仲町同学的感想让我有很深的感触"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_147.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "特典的工作我也很努力了，\n要是大家能喜欢就好了……"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_022.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_miyako ws_voice_finished_6#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "那个，我之所以找你，\n是因为有好多事情想问……"
         }
       ],
       "ws_voice_run#6": [

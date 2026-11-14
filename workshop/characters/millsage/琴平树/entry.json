@@ -13,7 +13,7 @@
   "coverSha256": "8c26c7af59f5b13087c00193ca869f8579cdc2041bfd06f9ee7c0b8ee425ad71",
   "counts": {
     "costumes": 3,
-    "voices": 0,
+    "voices": 30,
     "actions": 84,
     "expressions": 70
   },

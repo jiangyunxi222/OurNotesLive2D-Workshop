@@ -2002,553 +2002,787 @@
       "ws_voice_0_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_005.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_104.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_137.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_096.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_149.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_02_095.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_101.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_152.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_077.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_135.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_007.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_03_003.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_16_009.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_127.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_026.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_013.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_028.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_007.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_163.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_024.wav",
+          "Sound": "assets/voices/curated_event235-12-019.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_026.wav",
+          "Sound": "assets/voices/curated_event235-21-053.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_028.wav",
+          "Sound": "assets/voices/curated_event235-27-052.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_125.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_127.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_137.wav",
+          "Sound": "assets/voices/curated_event235-09-035.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_01.wav",
+          "Sound": "assets/voices/curated_event235-22-007.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_02.wav",
+          "Sound": "assets/voices/curated_event235-01-023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_203.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Spring_02.wav",
+          "Sound": "assets/voices/curated_event235-09-014.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Summer_01.wav",
+          "Sound": "assets/voices/curated_event235-09-027.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7"
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_event235-11-073.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_085.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_008.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_046.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_107.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_event235-07-012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_038.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_111.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
         }
       ],
       "ws_voice_1_0#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_005.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_104.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "我今天是来说一件事的"
+          "Text": "Mortis是为了帮助痛苦的睦而诞生的。\n所以她希望复活Ave Mujica，\n这样睦就会一直痛苦下去"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_137.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "别假装为大家着想了"
-        },
-        {
-          "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_096.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "啊，不对……\n花也是有生命的……"
-        },
-        {
-          "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_02_095.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "——你愿意，将剩余的人生交给我吗？"
-        },
-        {
-          "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_152.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "这是最后通牒。\n今后不准再跟我扯上关系"
-        },
-        {
-          "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_135.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "我哪里误会了？\n你说的话和做的事互相矛盾"
-        },
-        {
-          "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_03_003.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "你究竟怎么想的？\n为什么要做那样下作的事？"
-        },
-        {
-          "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_127.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "到现在还执着于过去，真不像话。\n你也该忘记了吧？"
-        },
-        {
-          "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_013.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "……是我自己的问题"
-        },
-        {
-          "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_007.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "……我要退出CRYCHIC"
-        },
-        {
-          "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_024.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "……就算我不在你们也能练习吧？"
-        },
-        {
-          "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_026.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "想练习的话自己练不就好了。\n又没有规定练习必须全员到齐。\n……不要怪到别人身上"
-        },
-        {
-          "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_028.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "不要讲这种撒娇的话！\n灯，你是最需要练习的人，\n但你至今都在做什么？"
-        },
-        {
-          "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_125.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "想演奏是你们的自由。\n你们就请便吧"
-        },
-        {
-          "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_137.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Text": "CRYCHIC已经毁了。\n绝对不可能再复活"
         },
         {
-          "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_01.wav",
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_149.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "她是Mortis。您说的南小姐是哪一位呢？"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_101.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "读书的时间让人很放松呢。如果还有红茶的话就更好了"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "Mortis……\n你的心愿是让睦受苦"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_077.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我要，退出CRYCHIC"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……我要退出CRYCHIC"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_16_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "睦？ 睦はどうしたんですの？ モーティス、睦は？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "想练习的话自己练不就好了。\n又没有规定练习必须全员到齐。\n……不要怪到别人身上"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_028.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不要讲这种撒娇的话！\n灯，你是最需要练习的人，\n但你至今都在做什么？"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_163.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『什么都愿意做』，就是这么沉重的话。\n做不到的事就别随便说出口"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_event235-12-019.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あなたは私たちの記念すべき日を…… CRYCHICの初ライブを、大成功へと導いてくれましたわ！"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_event235-21-053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "他にも気になることがあれば、何でもおっしゃってくださいね。 これは曲を書いた私の責務ですわ"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_event235-27-052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『なんでもする』とは、それほど重い言葉ですのよ。 できもしないことを口になさらないで"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_127.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "到现在还执着于过去，真不像话。\n你也该忘记了吧？"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_event235-09-035.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "珍しい動植物の写真が表紙を飾っているので、 とても気に入っていましたの"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_event235-22-007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "はぁ……避ければ避けるほど、 追いかけてくるということですわね。 困りましたわ"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_02.wav",
+          "Sound": "assets/voices/curated_event235-01-023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "作曲、剧本、导演……时间再多都不够用"
+          "Text": "全員揃わないとできないルールなんてありませんわ。 人のせいにしないで"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "我一定会将乐队守护到底，这就是我的决心"
+          "Text": "总算是说服了工作人员。\n为什么要做那种事？"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_203.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "睦，头发上沾到樱花花瓣了哦。好了，拿下来了"
+          "Text": "灯，你是最需要练习的人，\n但你至今都在做什么？"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Spring_02.wav",
+          "Sound": "assets/voices/curated_event235-09-014.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "初华说因为春天来了所以想改变一下房间布置，感觉很忙的样子"
+          "Text": "あなた、橋から飛び降りようとしていたでしょう！？ 何を考えていますの！？"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Summer_01.wav",
+          "Sound": "assets/voices/curated_event235-09-027.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "大丈夫ですわ。このくらい問題ありませんから。 それでは、ごきげんよう"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_event235-11-073.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
-          "Text": "好漂亮的积雨云……好怀念在岛上的那段时光"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ええ、洗練された心の叫びを、 たくさんの人に聴いていただきましょう"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_085.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "当然，还是得请你\n继续磨练鼓技"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_008.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我明白你的意思。\n但前提是，乐队必须坚如磐石——"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_046.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あまつさえツアー中なのに ろくに練習もできていないんですのよ？"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_107.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我绝对不会选择让睦痛苦。\n我必须让她幸福"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_event235-07-012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "私はもう行きます。 睦、伝書鳩になってはいけませんわ。 ごきげんよう"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_038.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "对不起，明明是我找你来的。\n但是我马上就得回去了"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_111.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "非常感谢您今天邀请我们"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_manual_voice_finished_1#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "なぁなぁにするおつもり？ わたくしの話はまだ終わってませんわ"
         }
       ],
       "ws_voice_1_1#2": [
         {
           "Name": "voice_0",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_005.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_104.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "我今天是来说一件事的"
+          "Text": "Mortis是为了帮助痛苦的睦而诞生的。\n所以她希望复活Ave Mujica，\n这样睦就会一直痛苦下去"
         },
         {
           "Name": "voice_1",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_123.wav",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_137.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "别假装为大家着想了"
-        },
-        {
-          "Name": "voice_2",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_01_096.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "啊，不对……\n花也是有生命的……"
-        },
-        {
-          "Name": "voice_3",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_02_095.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "——你愿意，将剩余的人生交给我吗？"
-        },
-        {
-          "Name": "voice_4",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_152.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "这是最后通牒。\n今后不准再跟我扯上关系"
-        },
-        {
-          "Name": "voice_5",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_135.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "我哪里误会了？\n你说的话和做的事互相矛盾"
-        },
-        {
-          "Name": "voice_6",
-          "Sound": "assets/voices/source_adv_voice_mujica_002_1_03_003.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "你究竟怎么想的？\n为什么要做那样下作的事？"
-        },
-        {
-          "Name": "voice_7",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_127.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "到现在还执着于过去，真不像话。\n你也该忘记了吧？"
-        },
-        {
-          "Name": "voice_8",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_013.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "……是我自己的问题"
-        },
-        {
-          "Name": "voice_9",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_007.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "……我要退出CRYCHIC"
-        },
-        {
-          "Name": "voice_10",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_024.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "……就算我不在你们也能练习吧？"
-        },
-        {
-          "Name": "voice_11",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_026.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "想练习的话自己练不就好了。\n又没有规定练习必须全员到齐。\n……不要怪到别人身上"
-        },
-        {
-          "Name": "voice_12",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_01_028.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "不要讲这种撒娇的话！\n灯，你是最需要练习的人，\n但你至今都在做什么？"
-        },
-        {
-          "Name": "voice_13",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_125.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "想演奏是你们的自由。\n你们就请便吧"
-        },
-        {
-          "Name": "voice_14",
-          "Sound": "assets/voices/source_adv_voice_mygo_001_1_14_137.wav",
-          "Command": "lip_sync enforce",
-          "Priority": 9,
-          "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Text": "CRYCHIC已经毁了。\n绝对不可能再复活"
         },
         {
-          "Name": "voice_15",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_01.wav",
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_149.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "她是Mortis。您说的南小姐是哪一位呢？"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_101.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "读书的时间让人很放松呢。如果还有红茶的话就更好了"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "Mortis……\n你的心愿是让睦受苦"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_077.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我要，退出CRYCHIC"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……我要退出CRYCHIC"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_16_009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "睦？ 睦はどうしたんですの？ モーティス、睦は？"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "想练习的话自己练不就好了。\n又没有规定练习必须全员到齐。\n……不要怪到别人身上"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_01_028.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不要讲这种撒娇的话！\n灯，你是最需要练习的人，\n但你至今都在做什么？"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_163.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『什么都愿意做』，就是这么沉重的话。\n做不到的事就别随便说出口"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_event235-12-019.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あなたは私たちの記念すべき日を…… CRYCHICの初ライブを、大成功へと導いてくれましたわ！"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_event235-21-053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "他にも気になることがあれば、何でもおっしゃってくださいね。 これは曲を書いた私の責務ですわ"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_event235-27-052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『なんでもする』とは、それほど重い言葉ですのよ。 できもしないことを口になさらないで"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_127.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "到现在还执着于过去，真不像话。\n你也该忘记了吧？"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_event235-09-035.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "珍しい動植物の写真が表紙を飾っているので、 とても気に入っていましたの"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_event235-22-007.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "はぁ……避ければ避けるほど、 追いかけてくるということですわね。 困りましたわ"
         },
         {
           "Name": "voice_16",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_02.wav",
+          "Sound": "assets/voices/curated_event235-01-023.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "作曲、剧本、导演……时间再多都不够用"
+          "Text": "全員揃わないとできないルールなんてありませんわ。 人のせいにしないで"
         },
         {
           "Name": "voice_17",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Common_03.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_031.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "我一定会将乐队守护到底，这就是我的决心"
+          "Text": "总算是说服了工作人员。\n为什么要做那种事？"
         },
         {
           "Name": "voice_18",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Spring_01.wav",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_04_203.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "睦，头发上沾到樱花花瓣了哦。好了，拿下来了"
+          "Text": "灯，你是最需要练习的人，\n但你至今都在做什么？"
         },
         {
           "Name": "voice_19",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Spring_02.wav",
+          "Sound": "assets/voices/curated_event235-09-014.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
-          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "初华说因为春天来了所以想改变一下房间布置，感觉很忙的样子"
+          "Text": "あなた、橋から飛び降りようとしていたでしょう！？ 何を考えていますの！？"
         },
         {
           "Name": "voice_20",
-          "Sound": "assets/voices/source_BandTop_Sakiko_Summer_01.wav",
+          "Sound": "assets/voices/curated_event235-09-027.wav",
           "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
           "Priority": 9,
           "Interruptable": true,
+          "Text": "大丈夫ですわ。このくらい問題ありませんから。 それでは、ごきげんよう"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_event235-11-073.wav",
+          "Command": "lip_sync enforce",
           "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
-          "Text": "好漂亮的积雨云……好怀念在岛上的那段时光"
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "ええ、洗練された心の叫びを、 たくさんの人に聴いていただきましょう"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_085.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "当然，还是得请你\n继续磨练鼓技"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_008.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我明白你的意思。\n但前提是，乐队必须坚如磐石——"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_046.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "あまつさえツアー中なのに ろくに練習もできていないんですのよ？"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_107.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我绝对不会选择让睦痛苦。\n我必须让她幸福"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_event235-07-012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "私はもう行きます。 睦、伝書鳩になってはいけませんわ。 ごきげんよう"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_02_038.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "对不起，明明是我找你来的。\n但是我马上就得回去了"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_03_111.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "非常感谢您今天邀请我们"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_05_043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_sakiko ws_voice_finished_1#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "なぁなぁにするおつもり？ わたくしの話はまだ終わってませんわ"
         }
       ],
       "ws_voice_run#6": [
