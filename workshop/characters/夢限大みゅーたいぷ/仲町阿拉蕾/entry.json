@@ -12,10 +12,10 @@
   "coverCostume": 1,
   "coverSha256": "47b3fcdaa7928a12c5dfefce38dfd3abae2390c47b70668bbcdc4eb775c5b8a3",
   "counts": {
-    "costumes": 11,
+    "costumes": 12,
     "voices": 30,
-    "actions": 507,
-    "expressions": 501
+    "actions": 621,
+    "expressions": 545
   },
   "release": {
     "state": "published",

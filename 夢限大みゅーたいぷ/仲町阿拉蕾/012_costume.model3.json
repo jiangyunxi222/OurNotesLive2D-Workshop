@@ -1,0 +1,4539 @@
+{
+  "Version": 3,
+  "ConfVer": 0,
+  "Type": 0,
+  "Bounds": {
+    "Width": 2.6244,
+    "Height": 4.2651,
+    "CenterX": 0.0,
+    "CenterY": 2.7072
+  },
+  "FileReferences": {
+    "Moc": "assets/models/upstream_32ef30271c1db62364bae70d.moc3",
+    "Textures": [
+      "assets/textures/upstream_a86544a5462daab3eb9314dc.png",
+      "assets/textures/upstream_0d59e57d7f34334c66bece50.png"
+    ],
+    "Physics": "assets/physics/upstream_41385f6df5f25691783e4061.physics3.json",
+    "PhysicsV2": {
+      "File": "assets/physics/upstream_41385f6df5f25691783e4061.physics3.json"
+    },
+    "Motions": {
+      "Idle": [
+        {
+          "Name": "idle",
+          "File": "assets/motions/upstream_5f624847d01b4b82b0a403ce.motion3.json",
+          "Priority": 2,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000
+        }
+      ],
+      "ui_motion_body": [
+        {
+          "Name": "motion_000",
+          "File": "assets/motions/upstream_9808b35bbfd8310c845fed3b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_001",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_002",
+          "File": "assets/motions/upstream_9eadae0e39409a6d54b7da5e.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_003",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_004",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_005",
+          "File": "assets/motions/upstream_5f624847d01b4b82b0a403ce.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_006",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_007",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_008",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_009",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_010",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_011",
+          "File": "assets/motions/upstream_dc7854aa761f8af97a9bb4c6.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_012",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_013",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_014",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_015",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_016",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_017",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_018",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_019",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_bb6af4a991f7c2b5",
+          "File": "assets/motions/upstream_053a2431e644c0da5e8498d8.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_76b57693df794314",
+          "File": "assets/motions/upstream_d1b7c63896e0cf3effec917b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_646dcba9b26d0de2",
+          "File": "assets/motions/upstream_cf022ada6c8f697ff591ef5a.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_1fdbda02b18a9cd2",
+          "File": "assets/motions/upstream_2bf62123bc594cdf5c662423.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_f0442582514d772b",
+          "File": "assets/motions/upstream_a877961cfd587ed7030ebb39.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_1de7a7fc91b5def0",
+          "File": "assets/motions/upstream_cf18dcd2f65f15eea33d5724.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_0a53c6efeee70ede",
+          "File": "assets/motions/upstream_105c8d18a194fc094b5b34d9.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_b1b2f34325dddb57",
+          "File": "assets/motions/upstream_50f21c752e5fdd38e42ab877.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_2e7a384de23a58d8",
+          "File": "assets/motions/upstream_c607855d0e2c62c01e074f95.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_ff8fc6f9f384b722",
+          "File": "assets/motions/upstream_0d1822bf59f3fe05698dabde.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_64090d596e18ab76",
+          "File": "assets/motions/upstream_8071183171e22a6af22c9394.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_60134c434e4c9987",
+          "File": "assets/motions/upstream_a6feb38c8714a96265a36afd.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_bb546616e47af618",
+          "File": "assets/motions/upstream_b9939463318bf484ea2ae696.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_90f95c95dbddca5d",
+          "File": "assets/motions/upstream_2875e9c858ac6dbde28e53e8.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_e55e0f47bcc1b279",
+          "File": "assets/motions/upstream_aa42ec31aaf1eef1f67e378b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_60174378762310d6",
+          "File": "assets/motions/upstream_375de45d57ebdf43c46e90f6.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_7691334c4486c85c",
+          "File": "assets/motions/upstream_cb6c22687e1ff334bdad66ac.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_b4462d5c52bdb0bb",
+          "File": "assets/motions/upstream_ec4ee8e9a4fc24ae3b583f5f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_e9f3f53b5c19ad31",
+          "File": "assets/motions/upstream_2a3f6bf02e0b5d218b4de8d7.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_7b4e564cde9f53e0",
+          "File": "assets/motions/upstream_61e2119ef3106e4706e1072f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_1e7b8923aeec048a",
+          "File": "assets/motions/upstream_eb64bcf27f121c0fdd8d256c.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_354df874040ab95e",
+          "File": "assets/motions/upstream_5fc7034e378348b5f3e4a372.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_dab8eb6dcada285d",
+          "File": "assets/motions/upstream_ea5b9f7d7ef6b630822a7629.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_c1a597e59fbf9b01",
+          "File": "assets/motions/upstream_4a1332cb3d8461b88d2f2c59.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_43dac5786341cc5f",
+          "File": "assets/motions/upstream_7ed87ea725816a995c0d0eab.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_b2fbedd336e6bb2c",
+          "File": "assets/motions/upstream_cccbe8c6a8a70bc476b0105d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_d65f6c7c75bb64b9",
+          "File": "assets/motions/upstream_d64058ba0fbba106cf483b46.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_bd384b379d2a51b4",
+          "File": "assets/motions/upstream_53d0fc1b34672c4fcd4aa170.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_ba89bc717cb4fa00",
+          "File": "assets/motions/upstream_6f72b232b0ecc30441f9eb4f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_49f73baf41030d41",
+          "File": "assets/motions/upstream_5ca4ed4fbabca4307b9c1c35.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_cf8eaf6d0251af90",
+          "File": "assets/motions/upstream_272aad0d2d56523c7b9c897f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_97614e117d3c6749",
+          "File": "assets/motions/upstream_f6f395189ef2adb4b6c67991.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_df3a64821d7bf85a",
+          "File": "assets/motions/upstream_b846e4773d1e043c61f439b3.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_cde5131990c89b7d",
+          "File": "assets/motions/upstream_3973a3f3f18c839ff272c582.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_ae377c88f4245fda",
+          "File": "assets/motions/upstream_e5fcc03194b958491be39390.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_d449a7b6b0056d76",
+          "File": "assets/motions/upstream_fe5624841fa9890db9a14bf1.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_3e6436d49b093fa3",
+          "File": "assets/motions/upstream_418099a9ef91d13b584639a2.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_15772c248a2f1362",
+          "File": "assets/motions/upstream_b60e436757686214edc01a9c.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_4c7bd5380bcbd5d6",
+          "File": "assets/motions/upstream_c9f264af10a7a7260f60a540.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_1c6994f0516bdcf3",
+          "File": "assets/motions/upstream_95ce7ac6e409737d23f7676e.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_e12b3f09eca852c6",
+          "File": "assets/motions/upstream_0ee288e0b83c20199d88598b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_b662ef7c3244c50c",
+          "File": "assets/motions/upstream_517d7c8b89379e404382a8aa.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_94cb1637137c4567",
+          "File": "assets/motions/upstream_f7e7c61852e707099f4110ab.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_c79a6c18d435e9da",
+          "File": "assets/motions/upstream_eee1e4059a7a3e1daadc2312.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_c9d28eb8d05d4790",
+          "File": "assets/motions/upstream_a564aaed9ae69a57e5e3df14.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_2a6e47e7d5976d13",
+          "File": "assets/motions/upstream_2741d2b778814003e892da49.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_ddea3d643c64a152",
+          "File": "assets/motions/upstream_312799dbbc4d13c220cc4b1d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_6e4de305cc9463dc",
+          "File": "assets/motions/upstream_ea2b1dbec4bb27197c5ee3c2.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_7804173a524656b3",
+          "File": "assets/motions/upstream_6594bdaeff9c3aec4d9d757a.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_a6d799e30de56e27",
+          "File": "assets/motions/upstream_8f5687f02c9ad5a45bdbaa12.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_1909d31fb1fff240",
+          "File": "assets/motions/upstream_625754a2c56d1b6706305e0d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_89f01e33352b6271",
+          "File": "assets/motions/upstream_f7fe048c0e8c9e9c884d61b8.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_67b523ff1ea72a77",
+          "File": "assets/motions/upstream_bd5ac5bd4208f2deeabdba1d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "source_252d9c41fe9391ee",
+          "File": "assets/motions/upstream_ac0c63199bcc9402059a7b53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        }
+      ],
+      "ui_motion_left": [
+        {
+          "Name": "motion_000",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_001",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_002",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_003",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_004",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_005",
+          "File": "assets/motions/upstream_5155024b51f1932e40a35939.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_006",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_007",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_008",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_009",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_010",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_011",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_012",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_013",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_014",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_015",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_016",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_017",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_018",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_019",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        }
+      ],
+      "ui_motion_right": [
+        {
+          "Name": "motion_000",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_001",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_002",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_003",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_004",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_005",
+          "File": "assets/motions/upstream_5fc571617b6bdd1e0f0a24a7.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_006",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_007",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_008",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_009",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_010",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_011",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_012",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_013",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_014",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_015",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_016",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_017",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_018",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        },
+        {
+          "Name": "motion_019",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_manual_action_finished_12#9"
+        }
+      ],
+      "ui_expression#3": [
+        {
+          "Name": "exp_000",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_2704d713d46630ca1af8708a.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_001",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_42f759ce94b7beb9d5d503ff.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_002",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_8a9dd3c93d85a453cf787ebc.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_003",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_20363953b0e5e635de923bf1.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_004",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_0294efb8c1c578f90ed9e7ce.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_005",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_7408f2b7721b995329a474e2.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_006",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_4059ee8c3986bab6a0f624d3.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_007",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_5452cedc701ec947d4f87d36.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_008",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_8a70d3c1d5c5a6206a6e46cd.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_009",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_101f0a979284243716b79408.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_010",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_88a94c0169de4252cff4c112.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_011",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_1a22e59ff5d5e8207eae1962.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_012",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_43b30f5b746c1982457ccc3b.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_013",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_dd9ce3f0ad66c9d15094248b.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_014",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_f3aa3fd1d11536f7e2909eaf.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_015",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_04cc75e81dbfd60fc8518119.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_016",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_4c80dc188dee7ebbf674f641.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_017",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_444b048224d9610a9ac8abab.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_018",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_d32a470f75a7f33f2f1f58b7.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_019",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_2e6302e8cbc81216e1c3d673.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_020",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_83ec8b479837ddb8f9791a52.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_021",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_13d49b9bf54bb9d5dc8e231f.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_022",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_e81b9f1257aa3f437ecc96d7.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_023",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_ece64165d404e828a5f6b6e3.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_024",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_9638c84dcd2e3bce45d90176.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_025",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_40aa8bc29e9e2a2e60621e62.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_026",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_f2a728b86d2b8f63c8493cfc.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_027",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_62fabde8972f43c834becc60.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_028",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_2e220a662bebf05166ebeff0.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_029",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_b45c97a750dbfc2b7efd38d4.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_030",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_11fbb580681ba8bcadd5bce5.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_031",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_c7d103a86916645f0cfeddc7.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_032",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_97d9992811dbbc04f02423aa.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_033",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_ec89ec5c6d680c3b947ed1ad.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_034",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_d091906741dc120743ed7e6f.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_035",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_6da8fb2f8847f801b6be0b3e.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_036",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_5ce469f8461ef9f989ce2b7f.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_037",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_b238501bfe9b83b6c718ccc3.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_038",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_880dc079bc0d028fb49326e0.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_039",
+          "Command": "clear_exp; set_exp assets/expressions/upstream_3385c421bba7c4a3ae4cbd77.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "source_606f377005d5d8fe",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "clear_exp; set_exp assets/expressions/upstream_4a748abe2e6a0b0713fbd5cb.exp3.json"
+        },
+        {
+          "Name": "source_3e574f5dcb09f912",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "clear_exp; set_exp assets/expressions/upstream_e9e312048f9a211ccb187bb8.exp3.json"
+        },
+        {
+          "Name": "source_81ba181dc4d0e200",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "clear_exp; set_exp assets/expressions/upstream_f255dc972840de85d8561b7b.exp3.json"
+        },
+        {
+          "Name": "source_fa66a38ab2c67c22",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "clear_exp; set_exp assets/expressions/upstream_97b08e990e3a9f6ee02fa038.exp3.json"
+        }
+      ],
+      "Start": [
+        {
+          "Name": "initialize_visible_costume",
+          "MotionDuration": 150,
+          "Priority": 9,
+          "Interruptable": false,
+          "Command": "stop_all_sounds; parameters unlock; parts unlock; animations unlock; clear_exp",
+          "PostCommand": "replace_tex 0 assets/textures/upstream_a86544a5462daab3eb9314dc.png; replace_tex 1 assets/textures/upstream_0d59e57d7f34334c66bece50.png; start_mtn ui_heart_boot#6",
+          "File": "assets/motions/upstream_5f624847d01b4b82b0a403ce.motion3.json",
+          "FileLoop": true,
+          "NextMtn": "Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000
+        }
+      ],
+      "ui_tap_body#6": [
+        {
+          "Name": "all",
+          "Command": "stop_mtn 8; stop_mtn 1; stop_mtn 0; animations unlock; parameters unlock; start_mtn ournotes_l2d_carrier_arale ws_manual_action_started_12#9",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "NextMtn": "ui_motion_body",
+          "VarFloats": []
+        }
+      ],
+      "ui_tap_left#6": [
+        {
+          "Name": "all",
+          "Command": "stop_mtn 8; stop_mtn 1; stop_mtn 0; animations unlock; parameters unlock; start_mtn ournotes_l2d_carrier_arale ws_manual_action_started_12#9",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "NextMtn": "ui_motion_left",
+          "VarFloats": []
+        }
+      ],
+      "ui_tap_right#6": [
+        {
+          "Name": "all",
+          "Command": "stop_mtn 8; stop_mtn 1; stop_mtn 0; animations unlock; parameters unlock; start_mtn ournotes_l2d_carrier_arale ws_manual_action_started_12#9",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "NextMtn": "ui_motion_right",
+          "VarFloats": []
+        }
+      ],
+      "ui_tap_voice#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale carrier_tap_voice"
+        }
+      ],
+      "ui_captions_on#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": []
+        }
+      ],
+      "ui_prepare_voice_caption#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_arale ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_started_12#9",
+          "NextMtn": "ws_voice_1_0#2",
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ui_heart_expression#6": [
+        {
+          "Name": "all",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "NextMtn": "ui_expression#3",
+          "VarFloats": []
+        }
+      ],
+      "ui_heart_boot#6": [
+        {
+          "Name": "initialize",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "heart_ready_8166795d7985a942",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "heart_ready_8166795d7985a942",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale carrier_finish_costume"
+        },
+        {
+          "Name": "ready",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "heart_ready_8166795d7985a942",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale carrier_finish_costume"
+        }
+      ],
+      "web_reset#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_close_menu#6; stop_mtn 5; stop_mtn 8; stop_mtn 4; start_mtn ournotes_l2d_carrier_arale ws_hide_text#5; stop_mtn 7; stop_mtn 0; stop_mtn 1; animations unlock; parameters unlock; stop_mtn 2; stop_mtn 3; stop_all_sounds; clear_exp; parts unlock; lip_sync enable; start_mtn Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_show_page_loop_action_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_action_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 8; stop_mtn 0; stop_mtn 1; animations unlock; parameters unlock; start_mtn Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_action_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 8; stop_mtn 0; stop_mtn 1; animations unlock; parameters unlock; start_mtn Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_show_page_loop_voice_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_voice_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 7; stop_mtn 2; stop_all_sounds; lip_sync enable",
+          "VarFloats": [
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_voice_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 7; stop_mtn 2; stop_all_sounds; lip_sync enable",
+          "VarFloats": [
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_costume_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "",
+          "VarFloats": [
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_costume_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "",
+          "VarFloats": [
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_action_run": [
+        {
+          "Name": "action_0",
+          "File": "assets/motions/upstream_9808b35bbfd8310c845fed3b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_1",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_2",
+          "File": "assets/motions/upstream_9eadae0e39409a6d54b7da5e.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_3",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_4",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_5",
+          "File": "assets/motions/upstream_5f624847d01b4b82b0a403ce.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_6",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_7",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_8",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_9",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_10",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_11",
+          "File": "assets/motions/upstream_dc7854aa761f8af97a9bb4c6.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_12",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_13",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_14",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_15",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_16",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_17",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_18",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_19",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_20",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_21",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_22",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_23",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_24",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_25",
+          "File": "assets/motions/upstream_5155024b51f1932e40a35939.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_26",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_27",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_28",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_29",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_30",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_31",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_32",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_33",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_34",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_35",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_36",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_37",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_38",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_39",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_40",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_41",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_42",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_43",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_44",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_45",
+          "File": "assets/motions/upstream_5fc571617b6bdd1e0f0a24a7.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_46",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_47",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_48",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_49",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_50",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_51",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_52",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_53",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_54",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_55",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_56",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_57",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_58",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_59",
+          "File": "assets/motions/upstream_2644719242513e06ff4b572d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_60",
+          "File": "assets/motions/upstream_053a2431e644c0da5e8498d8.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_61",
+          "File": "assets/motions/upstream_d1b7c63896e0cf3effec917b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_62",
+          "File": "assets/motions/upstream_cf022ada6c8f697ff591ef5a.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_63",
+          "File": "assets/motions/upstream_2bf62123bc594cdf5c662423.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_64",
+          "File": "assets/motions/upstream_a877961cfd587ed7030ebb39.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_65",
+          "File": "assets/motions/upstream_cf18dcd2f65f15eea33d5724.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_66",
+          "File": "assets/motions/upstream_105c8d18a194fc094b5b34d9.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_67",
+          "File": "assets/motions/upstream_50f21c752e5fdd38e42ab877.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_68",
+          "File": "assets/motions/upstream_c607855d0e2c62c01e074f95.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_69",
+          "File": "assets/motions/upstream_0d1822bf59f3fe05698dabde.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_70",
+          "File": "assets/motions/upstream_8071183171e22a6af22c9394.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_71",
+          "File": "assets/motions/upstream_a6feb38c8714a96265a36afd.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_72",
+          "File": "assets/motions/upstream_b9939463318bf484ea2ae696.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_73",
+          "File": "assets/motions/upstream_2875e9c858ac6dbde28e53e8.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_74",
+          "File": "assets/motions/upstream_aa42ec31aaf1eef1f67e378b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_75",
+          "File": "assets/motions/upstream_375de45d57ebdf43c46e90f6.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_76",
+          "File": "assets/motions/upstream_cb6c22687e1ff334bdad66ac.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_77",
+          "File": "assets/motions/upstream_ec4ee8e9a4fc24ae3b583f5f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_78",
+          "File": "assets/motions/upstream_2a3f6bf02e0b5d218b4de8d7.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_79",
+          "File": "assets/motions/upstream_61e2119ef3106e4706e1072f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_80",
+          "File": "assets/motions/upstream_eb64bcf27f121c0fdd8d256c.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_81",
+          "File": "assets/motions/upstream_5fc7034e378348b5f3e4a372.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_82",
+          "File": "assets/motions/upstream_ea5b9f7d7ef6b630822a7629.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_83",
+          "File": "assets/motions/upstream_4a1332cb3d8461b88d2f2c59.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_84",
+          "File": "assets/motions/upstream_7ed87ea725816a995c0d0eab.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_85",
+          "File": "assets/motions/upstream_cccbe8c6a8a70bc476b0105d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_86",
+          "File": "assets/motions/upstream_d64058ba0fbba106cf483b46.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_87",
+          "File": "assets/motions/upstream_53d0fc1b34672c4fcd4aa170.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_88",
+          "File": "assets/motions/upstream_6f72b232b0ecc30441f9eb4f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_89",
+          "File": "assets/motions/upstream_5ca4ed4fbabca4307b9c1c35.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_90",
+          "File": "assets/motions/upstream_272aad0d2d56523c7b9c897f.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_91",
+          "File": "assets/motions/upstream_f6f395189ef2adb4b6c67991.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_92",
+          "File": "assets/motions/upstream_b846e4773d1e043c61f439b3.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_93",
+          "File": "assets/motions/upstream_3973a3f3f18c839ff272c582.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_94",
+          "File": "assets/motions/upstream_e5fcc03194b958491be39390.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_95",
+          "File": "assets/motions/upstream_fe5624841fa9890db9a14bf1.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_96",
+          "File": "assets/motions/upstream_418099a9ef91d13b584639a2.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_97",
+          "File": "assets/motions/upstream_b60e436757686214edc01a9c.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_98",
+          "File": "assets/motions/upstream_c9f264af10a7a7260f60a540.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_99",
+          "File": "assets/motions/upstream_95ce7ac6e409737d23f7676e.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_100",
+          "File": "assets/motions/upstream_0ee288e0b83c20199d88598b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_101",
+          "File": "assets/motions/upstream_517d7c8b89379e404382a8aa.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_102",
+          "File": "assets/motions/upstream_f7e7c61852e707099f4110ab.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_103",
+          "File": "assets/motions/upstream_eee1e4059a7a3e1daadc2312.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_104",
+          "File": "assets/motions/upstream_a564aaed9ae69a57e5e3df14.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_105",
+          "File": "assets/motions/upstream_2741d2b778814003e892da49.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_106",
+          "File": "assets/motions/upstream_312799dbbc4d13c220cc4b1d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_107",
+          "File": "assets/motions/upstream_ea2b1dbec4bb27197c5ee3c2.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_108",
+          "File": "assets/motions/upstream_6594bdaeff9c3aec4d9d757a.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_109",
+          "File": "assets/motions/upstream_8f5687f02c9ad5a45bdbaa12.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_110",
+          "File": "assets/motions/upstream_625754a2c56d1b6706305e0d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_111",
+          "File": "assets/motions/upstream_f7fe048c0e8c9e9c884d61b8.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_112",
+          "File": "assets/motions/upstream_bd5ac5bd4208f2deeabdba1d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_source_113",
+          "File": "assets/motions/upstream_ac0c63199bcc9402059a7b53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeIn": 1000,
+          "FadeOut": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_finished_12#9; start_mtn ws_action_gap#8",
+          "FileLoop": false,
+          "WrapMode": 0
+        }
+      ],
+      "ws_action_gap#8": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 12000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_action_ready_12#9"
+        }
+      ],
+      "ws_voice_0_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_122.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_020.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_108.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_001.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_119.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_092.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_158.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_084.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_253.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_108.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_086.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_218.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_195.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_058.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_122.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_030.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_004.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_025.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_109.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_089.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_094.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_028.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        }
+      ],
+      "ws_voice_1_0#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_122.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小律你见过吧？\nAI的小由乃同学是什么样的感觉？"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这是小由乃同学的肖像画！\n我想，找人果然还是得靠这个！"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_020.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学！\n小由乃同学推荐哪一只啊？"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊——肖像画也画好了！\n我们去找小由乃同学吧！"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_108.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这、这是……！\n小由乃同学的心灵卷帘门放下来了！！！"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_001.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学的曲子，\n客户那边火速通过了呢"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_119.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "唔——小由乃同学在催了，可是……"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "重录！\n这个要配合小薇欧拉你的音轨重录一遍！"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_092.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学和小律，你们认识吗？"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_158.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "刚、刚才小由乃同学说要退出乐队了！？？"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_084.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（要不然，等薇欧拉有什么小动作的时候，就察觉不到）"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_253.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家好！\n我们是『梦限大MewType』！"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_108.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学的位置！\n到底在哪里啊～～～～？？？"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_086.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不、不行……！\n不可以啊！你别被她骗了！"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_218.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为都子同学当时对薇欧拉深信不疑"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_195.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这就是『梦限大MewType』！"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我懂！到外面去尽情呼吸新鲜空气，\n脑袋和心都会感觉唰地一下，特别舒服对吧！"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小野乃同学，在电车上\n说『等你们看到篮子里的东西，一定会大吃一惊的～』"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_058.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊，在现实中见面的话\n我有件事一定要告诉你"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "想和大家一起做很多新的事，\n不断地拓宽世界！"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_122.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但是糟糕的程度是一样的！\n虽然可能会失败，但危机也是转机！"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_030.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家的演奏也是最棒of最棒！\n我也从心底尽情地唱了出来……"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小律变成\n饥饿狂战士啦————！！"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_004.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "以上就是『in my words』。\n感谢大家的聆听"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_025.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "最后副歌和弦变化的地方，想让你给个音我听一下下～"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我想要多聊聊天！\n想要更多地了解大家！"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_109.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我是仲町阿拉蕾！\n梦想是和大家用歌声聊天！"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_089.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啦～噜～啦～呜啦啦啦啦～\n啦～啦～啦～啦～啦～啦～啦～♪"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_094.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我那个时候能收到小野乃同学的亲亲，\n真的超开心的！"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_028.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_manual_voice_finished_12#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小律一旦变成那样\n就谁都拦不住了啊！！！"
+        }
+      ],
+      "ws_voice_1_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_122.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小律你见过吧？\nAI的小由乃同学是什么样的感觉？"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_047.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这是小由乃同学的肖像画！\n我想，找人果然还是得靠这个！"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_02_020.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学！\n小由乃同学推荐哪一只啊？"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊——肖像画也画好了！\n我们去找小由乃同学吧！"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_108.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这、这是……！\n小由乃同学的心灵卷帘门放下来了！！！"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_17_001.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学的曲子，\n客户那边火速通过了呢"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_119.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "唔——小由乃同学在催了，可是……"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_010.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "重录！\n这个要配合小薇欧拉你的音轨重录一遍！"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_092.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学和小律，你们认识吗？"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_158.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "刚、刚才小由乃同学说要退出乐队了！？？"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_08_084.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（要不然，等薇欧拉有什么小动作的时候，就察觉不到）"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_253.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家好！\n我们是『梦限大MewType』！"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_108.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小由乃同学的位置！\n到底在哪里啊～～～～？？？"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_11_086.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不、不行……！\n不可以啊！你别被她骗了！"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_218.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为都子同学当时对薇欧拉深信不疑"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_19_195.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这就是『梦限大MewType』！"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_053.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我懂！到外面去尽情呼吸新鲜空气，\n脑袋和心都会感觉唰地一下，特别舒服对吧！"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_01_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小野乃同学，在电车上\n说『等你们看到篮子里的东西，一定会大吃一惊的～』"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_15_058.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啊，在现实中见面的话\n我有件事一定要告诉你"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_exstory_1_03_091.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "想和大家一起做很多新的事，\n不断地拓宽世界！"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_09_122.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "但是糟糕的程度是一样的！\n虽然可能会失败，但危机也是转机！"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_10_030.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家的演奏也是最棒of最棒！\n我也从心底尽情地唱了出来……"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小律变成\n饥饿狂战士啦————！！"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_20_004.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "以上就是『in my words』。\n感谢大家的聆听"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_12_025.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "最后副歌和弦变化的地方，想让你给个音我听一下下～"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_13_012.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我想要多聊聊天！\n想要更多地了解大家！"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_18_109.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我是仲町阿拉蕾！\n梦想是和大家用歌声聊天！"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_01_089.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "啦～噜～啦～呜啦啦啦啦～\n啦～啦～啦～啦～啦～啦～啦～♪"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_14_094.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我那个时候能收到小野乃同学的亲亲，\n真的超开心的！"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_yumemita_003_1_16_028.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_arale ws_voice_finished_12#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小律一旦变成那样\n就谁都拦不住了啊！！！"
+        }
+      ],
+      "ws_voice_run#6": [
+        {
+          "Name": "captions_1_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "NextMtn": "ws_voice_1_1#2"
+        },
+        {
+          "Name": "captions_1_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "NextMtn": "ws_voice_0_1#2"
+        }
+      ],
+      "ws_voice_gap#7": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 2500,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_arale ws_voice_ready_12#9"
+        }
+      ],
+      "web_cycle_action#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_toggle_action#9"
+        }
+      ],
+      "web_cycle_voice#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_toggle_voice#9"
+        }
+      ],
+      "web_cycle_costume#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_toggle_costume#9"
+        }
+      ],
+      "ui_close#4": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_arale ws_hide_text#5",
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_menu_timeout#5": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 60000,
+          "NextMtn": "ws_menu_close#6"
+        }
+      ],
+      "ws_menu_close#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_arale ws_hide_text#5",
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_refresh_menu#9": [
+        {
+          "Name": "000",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_000#9"
+        },
+        {
+          "Name": "001",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_001#9"
+        },
+        {
+          "Name": "010",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_010#9"
+        },
+        {
+          "Name": "011",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_011#9"
+        },
+        {
+          "Name": "100",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_100#9"
+        },
+        {
+          "Name": "101",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_101#9"
+        },
+        {
+          "Name": "110",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_110#9"
+        },
+        {
+          "Name": "111",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale_costume_012_menu state_111#9"
+        }
+      ],
+      "ws_menu_mark_open#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_arale ws_hide_text#5; start_mtn ws_menu_timeout#5"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "exp_angry01",
+        "File": "assets/expressions/upstream_2704d713d46630ca1af8708a.exp3.json"
+      },
+      {
+        "Name": "exp_angry02",
+        "File": "assets/expressions/upstream_42f759ce94b7beb9d5d503ff.exp3.json"
+      },
+      {
+        "Name": "exp_angry03",
+        "File": "assets/expressions/upstream_8a9dd3c93d85a453cf787ebc.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile01",
+        "File": "assets/expressions/upstream_20363953b0e5e635de923bf1.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile02",
+        "File": "assets/expressions/upstream_0294efb8c1c578f90ed9e7ce.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile03",
+        "File": "assets/expressions/upstream_7408f2b7721b995329a474e2.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile04",
+        "File": "assets/expressions/upstream_4059ee8c3986bab6a0f624d3.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile05",
+        "File": "assets/expressions/upstream_5452cedc701ec947d4f87d36.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile06",
+        "File": "assets/expressions/upstream_8a70d3c1d5c5a6206a6e46cd.exp3.json"
+      },
+      {
+        "Name": "exp_cry01",
+        "File": "assets/expressions/upstream_101f0a979284243716b79408.exp3.json"
+      },
+      {
+        "Name": "exp_dispair01",
+        "File": "assets/expressions/upstream_88a94c0169de4252cff4c112.exp3.json"
+      },
+      {
+        "Name": "exp_heart01",
+        "File": "assets/expressions/upstream_1a22e59ff5d5e8207eae1962.exp3.json"
+      },
+      {
+        "Name": "exp_idle01",
+        "File": "assets/expressions/upstream_43b30f5b746c1982457ccc3b.exp3.json"
+      },
+      {
+        "Name": "exp_idle02",
+        "File": "assets/expressions/upstream_dd9ce3f0ad66c9d15094248b.exp3.json"
+      },
+      {
+        "Name": "exp_idle03",
+        "File": "assets/expressions/upstream_f3aa3fd1d11536f7e2909eaf.exp3.json"
+      },
+      {
+        "Name": "exp_jitome01",
+        "File": "assets/expressions/upstream_04cc75e81dbfd60fc8518119.exp3.json"
+      },
+      {
+        "Name": "exp_kime01",
+        "File": "assets/expressions/upstream_4c80dc188dee7ebbf674f641.exp3.json"
+      },
+      {
+        "Name": "exp_kime02",
+        "File": "assets/expressions/upstream_444b048224d9610a9ac8abab.exp3.json"
+      },
+      {
+        "Name": "exp_kime03",
+        "File": "assets/expressions/upstream_d32a470f75a7f33f2f1f58b7.exp3.json"
+      },
+      {
+        "Name": "exp_kirakira01",
+        "File": "assets/expressions/upstream_2e6302e8cbc81216e1c3d673.exp3.json"
+      },
+      {
+        "Name": "exp_pale01",
+        "File": "assets/expressions/upstream_83ec8b479837ddb8f9791a52.exp3.json"
+      },
+      {
+        "Name": "exp_pale02",
+        "File": "assets/expressions/upstream_4a748abe2e6a0b0713fbd5cb.exp3.json"
+      },
+      {
+        "Name": "exp_panic01",
+        "File": "assets/expressions/upstream_13d49b9bf54bb9d5dc8e231f.exp3.json"
+      },
+      {
+        "Name": "exp_question01",
+        "File": "assets/expressions/upstream_e81b9f1257aa3f437ecc96d7.exp3.json"
+      },
+      {
+        "Name": "exp_sad01",
+        "File": "assets/expressions/upstream_ece64165d404e828a5f6b6e3.exp3.json"
+      },
+      {
+        "Name": "exp_sad02",
+        "File": "assets/expressions/upstream_9638c84dcd2e3bce45d90176.exp3.json"
+      },
+      {
+        "Name": "exp_sad03",
+        "File": "assets/expressions/upstream_40aa8bc29e9e2a2e60621e62.exp3.json"
+      },
+      {
+        "Name": "exp_sad04",
+        "File": "assets/expressions/upstream_e9e312048f9a211ccb187bb8.exp3.json"
+      },
+      {
+        "Name": "exp_serious01",
+        "File": "assets/expressions/upstream_f2a728b86d2b8f63c8493cfc.exp3.json"
+      },
+      {
+        "Name": "exp_serious02",
+        "File": "assets/expressions/upstream_62fabde8972f43c834becc60.exp3.json"
+      },
+      {
+        "Name": "exp_shadow01",
+        "File": "assets/expressions/upstream_f255dc972840de85d8561b7b.exp3.json"
+      },
+      {
+        "Name": "exp_shy01",
+        "File": "assets/expressions/upstream_2e220a662bebf05166ebeff0.exp3.json"
+      },
+      {
+        "Name": "exp_shy02",
+        "File": "assets/expressions/upstream_b45c97a750dbfc2b7efd38d4.exp3.json"
+      },
+      {
+        "Name": "exp_shy03",
+        "File": "assets/expressions/upstream_11fbb580681ba8bcadd5bce5.exp3.json"
+      },
+      {
+        "Name": "exp_smile01",
+        "File": "assets/expressions/upstream_c7d103a86916645f0cfeddc7.exp3.json"
+      },
+      {
+        "Name": "exp_smile02",
+        "File": "assets/expressions/upstream_97d9992811dbbc04f02423aa.exp3.json"
+      },
+      {
+        "Name": "exp_smile03",
+        "File": "assets/expressions/upstream_ec89ec5c6d680c3b947ed1ad.exp3.json"
+      },
+      {
+        "Name": "exp_smile04",
+        "File": "assets/expressions/upstream_d091906741dc120743ed7e6f.exp3.json"
+      },
+      {
+        "Name": "exp_smile05",
+        "File": "assets/expressions/upstream_97b08e990e3a9f6ee02fa038.exp3.json"
+      },
+      {
+        "Name": "exp_surprised01",
+        "File": "assets/expressions/upstream_6da8fb2f8847f801b6be0b3e.exp3.json"
+      },
+      {
+        "Name": "exp_surprised02",
+        "File": "assets/expressions/upstream_5ce469f8461ef9f989ce2b7f.exp3.json"
+      },
+      {
+        "Name": "exp_surprised03",
+        "File": "assets/expressions/upstream_b238501bfe9b83b6c718ccc3.exp3.json"
+      },
+      {
+        "Name": "exp_surprised04",
+        "File": "assets/expressions/upstream_880dc079bc0d028fb49326e0.exp3.json"
+      },
+      {
+        "Name": "exp_thinking01",
+        "File": "assets/expressions/upstream_3385c421bba7c4a3ae4cbd77.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {
+      "Items": [],
+      "Enabled": true
+    },
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 10.0,
+      "SmoothTime": 0.1,
+      "Items": [
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {},
+    "Accelerometer": {},
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {},
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {},
+    "Battery": {}
+  },
+  "HitAreas": [],
+  "Options": {
+    "Id": "ournotes_l2d_carrier_arale_costume_012",
+    "Name": "仲町阿拉蕾 · 训练服",
+    "TexFixed": true,
+    "TexType": 0
+  }
+}

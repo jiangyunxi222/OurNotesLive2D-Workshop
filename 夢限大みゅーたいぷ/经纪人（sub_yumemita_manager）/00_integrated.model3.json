@@ -50,6 +50,40 @@
               "Code": "assign 1"
             }
           ]
+        },
+        {
+          "Name": "from_003",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "hide_text; remove_submodel 003_costume.model3.json; remove_submodel 003_hitareas.model.json; remove_submodel 003_menu.model.json; add_submodel 001_costume.model3.json 1; add_submodel 001_hitareas.model.json 2",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "not_equal 1"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
         }
       ],
       "carrier_switch_001": [
@@ -64,6 +98,40 @@
               "Name": "selected_costume",
               "Type": 1,
               "Code": "equal 1"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "not_equal 2"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 2,
+              "Code": "assign 2"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        },
+        {
+          "Name": "from_003",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "hide_text; remove_submodel 003_costume.model3.json; remove_submodel 003_hitareas.model.json; remove_submodel 003_menu.model.json; add_submodel 002_costume.model3.json 1; add_submodel 002_hitareas.model.json 2",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
             },
             {
               "Name": "selected_costume",
@@ -168,6 +236,46 @@
           ],
           "NextMtn": "carrier_switch_001",
           "Command": "stop_mtn 7"
+        },
+        {
+          "Name": "random_003",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "not_equal 3"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "quiet_costume_switch",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_costume_due",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_switching",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "NextMtn": "carrier_switch_002",
+          "Command": "stop_mtn 7"
         }
       ],
       "restore_costume": [
@@ -196,6 +304,20 @@
               "Name": "selected_costume",
               "Type": 1,
               "Code": "equal 2"
+            }
+          ]
+        },
+        {
+          "Name": "restore_003",
+          "Command": "add_submodel 001_costume.model3.json 1; add_submodel 003_hitareas.model.json 2",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
             }
           ]
         }
@@ -300,6 +422,20 @@
               "Code": "equal 2"
             }
           ]
+        },
+        {
+          "Name": "voice_3_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "hide_text; start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ui_prepare_voice_caption#6",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            }
+          ]
         }
       ],
       "carrier_restore_safe": [
@@ -317,7 +453,7 @@
             {
               "Name": "selected_costume",
               "Type": 1,
-              "Code": "lower_equal 2"
+              "Code": "lower_equal 3"
             }
           ],
           "NextMtn": "restore_costume",
@@ -352,7 +488,7 @@
             {
               "Name": "selected_costume",
               "Type": 1,
-              "Code": "greater 2"
+              "Code": "greater 3"
             },
             {
               "Name": "selected_costume",
@@ -464,6 +600,56 @@
             }
           ],
           "PostCommand": "start_mtn web_sync_frontend#9"
+        },
+        {
+          "Name": "finish_3_1_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ui_captions_on#6",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "quiet_costume_switch",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "PostCommand": "start_mtn web_sync_frontend#9"
+        },
+        {
+          "Name": "finish_3_1_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ui_captions_on#6",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "quiet_costume_switch",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "PostCommand": "start_mtn web_sync_frontend#9"
         }
       ],
       "web_sync_frontend#9": [
@@ -555,6 +741,46 @@
               "Code": "equal 1"
             }
           ]
+        },
+        {
+          "Name": "3_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_action_0#9",
+          "NextMtn": "ws_sync_page_loop_voice#9",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ]
+        },
+        {
+          "Name": "3_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_action_1#9",
+          "NextMtn": "ws_sync_page_loop_voice#9",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ]
         }
       ],
       "ws_set_page_loop_action_0#9": [
@@ -617,6 +843,36 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_set_page_loop_action_0#9",
           "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_refresh_menu#9; start_mtn ws_tick#8"
+        },
+        {
+          "Name": "costume_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_action_0#9",
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_refresh_menu#9; start_mtn ws_tick#8"
         }
       ],
       "ws_set_page_loop_action_1#9": [
@@ -679,6 +935,36 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_set_page_loop_action_1#9",
           "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_refresh_menu#9; start_mtn ws_tick#8"
+        },
+        {
+          "Name": "costume_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_action_1#9",
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_refresh_menu#9; start_mtn ws_tick#8"
         }
       ],
       "ws_sync_page_loop_voice#9": [
@@ -761,6 +1047,46 @@
               "Code": "equal 1"
             }
           ]
+        },
+        {
+          "Name": "3_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_voice_0#9",
+          "NextMtn": "ws_sync_page_loop_costume#9",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ]
+        },
+        {
+          "Name": "3_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_voice_1#9",
+          "NextMtn": "ws_sync_page_loop_costume#9",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ]
         }
       ],
       "ws_set_page_loop_voice_0#9": [
@@ -823,6 +1149,36 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_set_page_loop_voice_0#9",
           "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_refresh_menu#9; start_mtn ws_tick#8"
+        },
+        {
+          "Name": "costume_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_voice_0#9",
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_refresh_menu#9; start_mtn ws_tick#8"
         }
       ],
       "ws_set_page_loop_voice_1#9": [
@@ -885,6 +1241,36 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_set_page_loop_voice_1#9",
           "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_refresh_menu#9; start_mtn ws_tick#8"
+        },
+        {
+          "Name": "costume_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_voice_1#9",
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_refresh_menu#9; start_mtn ws_tick#8"
         }
       ],
       "ws_sync_page_loop_costume#9": [
@@ -967,6 +1353,46 @@
               "Code": "equal 1"
             }
           ]
+        },
+        {
+          "Name": "3_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_costume_0#9",
+          "NextMtn": "ws_after_sync#9",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ]
+        },
+        {
+          "Name": "3_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_costume_1#9",
+          "NextMtn": "ws_after_sync#9",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ]
         }
       ],
       "ws_set_page_loop_costume_0#9": [
@@ -1019,6 +1445,31 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_set_page_loop_costume_0#9; stop_mtn 7",
           "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_refresh_menu#9; start_mtn ws_tick#8"
+        },
+        {
+          "Name": "costume_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_costume_due",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_costume_0#9; stop_mtn 7",
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_refresh_menu#9; start_mtn ws_tick#8"
         }
       ],
       "ws_set_page_loop_costume_1#9": [
@@ -1071,6 +1522,31 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_set_page_loop_costume_1#9; start_mtn ws_costume_wait#7",
           "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 ws_refresh_menu#9; start_mtn ws_tick#8"
+        },
+        {
+          "Name": "costume_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "ws_costume_due",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_set_page_loop_costume_1#9; start_mtn ws_costume_wait#7",
+          "PostCommand": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_refresh_menu#9; start_mtn ws_tick#8"
         }
       ],
       "ws_after_sync#9": [
@@ -1590,6 +2066,61 @@
               "Code": "equal 1"
             }
           ]
+        },
+        {
+          "Name": "start_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "NextMtn": "ws_voice_gate#8",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_costume_due",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_switching",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_action_run"
         }
       ],
       "ws_action_finished_1#9": [
@@ -1988,6 +2519,61 @@
               "Code": "equal 1"
             }
           ]
+        },
+        {
+          "Name": "start_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "NextMtn": "ws_tick#8",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_costume_due",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_switching",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_voice_run#6"
         }
       ],
       "ws_voice_finished_1#9": [
@@ -2278,6 +2864,31 @@
           ],
           "NextMtn": "carrier_switch_001",
           "Command": ""
+        },
+        {
+          "Name": "random_003",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "not_equal 3"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "quiet_costume_switch",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "NextMtn": "carrier_switch_002",
+          "Command": ""
         }
       ],
       "ws_reset#9": [
@@ -2375,6 +2986,25 @@
             }
           ],
           "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_002 web_reset#6"
+        },
+        {
+          "Name": "reset_3",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 web_reset#6"
         }
       ],
       "ws_open_menu_1#9": [
@@ -2423,6 +3053,20 @@
             }
           ],
           "Command": "remove_submodel 002_menu.model.json; add_submodel 002_hitareas.model.json 2"
+        },
+        {
+          "Name": "003",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            }
+          ],
+          "Command": "remove_submodel 003_menu.model.json; add_submodel 003_hitareas.model.json 2"
         }
       ],
       "ws_hide_text#5": [
@@ -2432,6 +3076,287 @@
           "Interruptable": true,
           "MotionDuration": 1,
           "Command": "hide_text"
+        }
+      ],
+      "carrier_switch_002": [
+        {
+          "Name": "from_002",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "hide_text; remove_submodel 002_costume.model3.json; remove_submodel 002_hitareas.model.json; remove_submodel 002_menu.model.json; add_submodel 003_costume.model3.json 1; add_submodel 003_hitareas.model.json 2",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 2"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "not_equal 3"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 2,
+              "Code": "assign 3"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        },
+        {
+          "Name": "from_001",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "hide_text; remove_submodel 001_costume.model3.json; remove_submodel 001_hitareas.model.json; remove_submodel 001_menu.model.json; add_submodel 003_costume.model3.json 1; add_submodel 003_hitareas.model.json 2",
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "not_equal 3"
+            },
+            {
+              "Name": "selected_costume",
+              "Type": 2,
+              "Code": "assign 3"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "costume_loading",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_action_finished_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_action_ready_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_manual_action_started_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_show_page_loop_action_0#9"
+        }
+      ],
+      "ws_manual_action_finished_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "ws_action_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_action_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_voice_finished_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_voice_ready_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_manual_voice_started_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 1"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_show_page_loop_voice_0#9"
+        }
+      ],
+      "ws_manual_voice_finished_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "selected_costume",
+              "Type": 1,
+              "Code": "equal 3"
+            },
+            {
+              "Name": "ws_voice_busy",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_voice_ready",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_open_menu_3#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_sub_yumemita_manager_costume_003 ws_menu_mark_open#6; remove_submodel 003_hitareas.model.json; remove_submodel 003_menu.model.json; add_submodel 003_menu.model.json 2"
         }
       ]
     }
