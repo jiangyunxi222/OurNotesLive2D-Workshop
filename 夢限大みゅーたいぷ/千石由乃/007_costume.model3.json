@@ -43,9 +43,6 @@
           "PostCommand": "start_mtn ournotes_l2d_carrier_yuno ws_manual_action_finished_7#9"
         }
       ],
-      "ui_motion_left": [],
-      "ui_motion_right": [],
-      "ui_expression#3": [],
       "Start": [
         {
           "Name": "initialize_visible_costume",
