@@ -1,6 +1,6 @@
 # OurNotes Live2D 创意工坊版
 
-分支为 `workshop/live2dviewerex`。角色目录包含模型、衣装、动作、表情、语音和区域触发配置。
+本仓库维护 OurNotes 的 Live2DViewerEX 创意工坊版本。角色目录包含模型、衣装、动作、表情、语音和区域触发配置。
 
 ## 交互
 

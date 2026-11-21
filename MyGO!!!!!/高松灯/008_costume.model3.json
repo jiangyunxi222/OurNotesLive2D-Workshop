@@ -1,0 +1,1976 @@
+{
+  "Version": 3,
+  "ConfVer": 0,
+  "Type": 0,
+  "Bounds": {
+    "Width": 2.6388,
+    "Height": 4.2876,
+    "CenterX": 0.0,
+    "CenterY": 3.393
+  },
+  "FileReferences": {
+    "Moc": "assets/models/upstream_9480e07833cdfa5da1be7137.moc3",
+    "Textures": [
+      "assets/textures/upstream_6ff09e99fc7bc53d3a148039.png",
+      "assets/textures/upstream_49b146862a5a95db0c573de7.png",
+      "assets/textures/upstream_9e8488f2a68a0d25095ba827.png"
+    ],
+    "PhysicsV2": {
+      "File": "assets/physics/upstream_3c4e1249412ea60c0c08b0fd.physics3.json"
+    },
+    "Motions": {
+      "Idle": [
+        {
+          "Name": "idle",
+          "File": "assets/motions/upstream_e31f1ec9bc55a09b26d991ca.motion3.json",
+          "Priority": 2,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000
+        }
+      ],
+      "ui_motion_body": [
+        {
+          "Name": "motion_000",
+          "File": "assets/motions/upstream_c9cab5246552000e2d0847d0.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_001",
+          "File": "assets/motions/upstream_dd8c5f85e4f144ce03281e53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_002",
+          "File": "assets/motions/upstream_862bf0179297fbba0255f39b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_003",
+          "File": "assets/motions/upstream_40cb62753233e84dbc07ac88.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_004",
+          "File": "assets/motions/upstream_0c7dba7b0a690fd4a2ad190b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_005",
+          "File": "assets/motions/upstream_41cb998c28cc217f8cd2bd3d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        }
+      ],
+      "ui_motion_left": [
+        {
+          "Name": "motion_000",
+          "File": "assets/motions/upstream_c9cab5246552000e2d0847d0.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_001",
+          "File": "assets/motions/upstream_dd8c5f85e4f144ce03281e53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_002",
+          "File": "assets/motions/upstream_862bf0179297fbba0255f39b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_003",
+          "File": "assets/motions/upstream_40cb62753233e84dbc07ac88.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_004",
+          "File": "assets/motions/upstream_0c7dba7b0a690fd4a2ad190b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_005",
+          "File": "assets/motions/upstream_41cb998c28cc217f8cd2bd3d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        }
+      ],
+      "ui_motion_right": [
+        {
+          "Name": "motion_000",
+          "File": "assets/motions/upstream_c9cab5246552000e2d0847d0.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_001",
+          "File": "assets/motions/upstream_dd8c5f85e4f144ce03281e53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_002",
+          "File": "assets/motions/upstream_862bf0179297fbba0255f39b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_003",
+          "File": "assets/motions/upstream_40cb62753233e84dbc07ac88.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_004",
+          "File": "assets/motions/upstream_0c7dba7b0a690fd4a2ad190b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        },
+        {
+          "Name": "motion_005",
+          "File": "assets/motions/upstream_41cb998c28cc217f8cd2bd3d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "NextMtn": "Idle",
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_manual_action_finished_8#9"
+        }
+      ],
+      "Start": [
+        {
+          "Name": "initialize_visible_costume",
+          "MotionDuration": 150,
+          "Priority": 9,
+          "Interruptable": false,
+          "Command": "stop_all_sounds; parameters unlock; parts unlock; animations unlock; clear_exp",
+          "PostCommand": "replace_tex 0 assets/textures/upstream_6ff09e99fc7bc53d3a148039.png; replace_tex 1 assets/textures/upstream_49b146862a5a95db0c573de7.png; replace_tex 2 assets/textures/upstream_9e8488f2a68a0d25095ba827.png; start_mtn ui_heart_boot#6",
+          "File": "assets/motions/upstream_e31f1ec9bc55a09b26d991ca.motion3.json",
+          "FileLoop": true,
+          "NextMtn": "Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ],
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000
+        }
+      ],
+      "ui_tap_body#6": [
+        {
+          "Name": "all",
+          "Command": "stop_mtn 8; stop_mtn 1; stop_mtn 0; animations unlock; parameters unlock; start_mtn ournotes_l2d_carrier_tomori ws_manual_action_started_8#9",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "NextMtn": "ui_motion_body",
+          "VarFloats": []
+        }
+      ],
+      "ui_tap_left#6": [
+        {
+          "Name": "all",
+          "Command": "stop_mtn 8; stop_mtn 1; stop_mtn 0; animations unlock; parameters unlock; start_mtn ournotes_l2d_carrier_tomori ws_manual_action_started_8#9",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "NextMtn": "ui_motion_left",
+          "VarFloats": []
+        }
+      ],
+      "ui_tap_right#6": [
+        {
+          "Name": "all",
+          "Command": "stop_mtn 8; stop_mtn 1; stop_mtn 0; animations unlock; parameters unlock; start_mtn ournotes_l2d_carrier_tomori ws_manual_action_started_8#9",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true,
+          "NextMtn": "ui_motion_right",
+          "VarFloats": []
+        }
+      ],
+      "ui_tap_voice#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori carrier_tap_voice"
+        }
+      ],
+      "ui_captions_on#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": []
+        }
+      ],
+      "ui_prepare_voice_caption#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_tomori ws_hide_text#5; stop_mtn 7; stop_mtn 2; stop_all_sounds; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_started_8#9",
+          "NextMtn": "ws_voice_1_0#2",
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ui_heart_expression#6": [
+        {
+          "Name": "all",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": []
+        }
+      ],
+      "ui_heart_boot#6": [
+        {
+          "Name": "initialize",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "heart_ready_056915ac3d7fde34",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "heart_ready_056915ac3d7fde34",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori carrier_finish_costume"
+        },
+        {
+          "Name": "ready",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "heart_ready_056915ac3d7fde34",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori carrier_finish_costume"
+        }
+      ],
+      "web_reset#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_close_menu#6; stop_mtn 5; stop_mtn 8; stop_mtn 4; start_mtn ournotes_l2d_carrier_tomori ws_hide_text#5; stop_mtn 7; stop_mtn 0; stop_mtn 1; animations unlock; parameters unlock; stop_mtn 2; stop_mtn 3; stop_all_sounds; clear_exp; parts unlock; lip_sync enable; start_mtn Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            },
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_show_page_loop_action_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_action_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 8; stop_mtn 0; stop_mtn 1; animations unlock; parameters unlock; start_mtn Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_action_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 8; stop_mtn 0; stop_mtn 1; animations unlock; parameters unlock; start_mtn Idle",
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_show_page_loop_voice_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_voice_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 7; stop_mtn 2; stop_all_sounds; lip_sync enable",
+          "VarFloats": [
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_voice_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "stop_mtn 7; stop_mtn 2; stop_all_sounds; lip_sync enable",
+          "VarFloats": [
+            {
+              "Name": "page_loop_voice",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_costume_0#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "",
+          "VarFloats": [
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_set_page_loop_costume_1#9": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "",
+          "VarFloats": [
+            {
+              "Name": "page_loop_costume",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ],
+      "ws_action_run": [
+        {
+          "Name": "action_0",
+          "File": "assets/motions/upstream_c9cab5246552000e2d0847d0.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_1",
+          "File": "assets/motions/upstream_dd8c5f85e4f144ce03281e53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_2",
+          "File": "assets/motions/upstream_862bf0179297fbba0255f39b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_3",
+          "File": "assets/motions/upstream_40cb62753233e84dbc07ac88.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_4",
+          "File": "assets/motions/upstream_0c7dba7b0a690fd4a2ad190b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_5",
+          "File": "assets/motions/upstream_41cb998c28cc217f8cd2bd3d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_6",
+          "File": "assets/motions/upstream_c9cab5246552000e2d0847d0.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_7",
+          "File": "assets/motions/upstream_dd8c5f85e4f144ce03281e53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_8",
+          "File": "assets/motions/upstream_862bf0179297fbba0255f39b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_9",
+          "File": "assets/motions/upstream_40cb62753233e84dbc07ac88.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_10",
+          "File": "assets/motions/upstream_0c7dba7b0a690fd4a2ad190b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_11",
+          "File": "assets/motions/upstream_41cb998c28cc217f8cd2bd3d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_12",
+          "File": "assets/motions/upstream_c9cab5246552000e2d0847d0.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_13",
+          "File": "assets/motions/upstream_dd8c5f85e4f144ce03281e53.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_14",
+          "File": "assets/motions/upstream_862bf0179297fbba0255f39b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_15",
+          "File": "assets/motions/upstream_40cb62753233e84dbc07ac88.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_16",
+          "File": "assets/motions/upstream_0c7dba7b0a690fd4a2ad190b.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_17",
+          "File": "assets/motions/upstream_41cb998c28cc217f8cd2bd3d.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_18",
+          "File": "assets/motions/upstream_7c42f49cdbfd6fc49dc3ae83.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        },
+        {
+          "Name": "action_19",
+          "File": "assets/motions/upstream_99ba7b489b333f5abb29b5a9.motion3.json",
+          "Priority": 3,
+          "Interruptable": true,
+          "FadeOut": 1000,
+          "FadeIn": 1000,
+          "FadeInLoop": 1000,
+          "FileLoop": false,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_finished_8#9; start_mtn ws_action_gap#8",
+          "WrapMode": 0
+        }
+      ],
+      "ws_action_gap#8": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 12000,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_action_ready_8#9"
+        }
+      ],
+      "ws_voice_0_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_19_069.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_09_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_19_067.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_049.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_04_071.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_04_092.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_13_032.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_037.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_event235-15-065.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_event235-12-043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_13_034.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_event235-02-026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_event235-09-006.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_event235-23-043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_event235-08-056.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_event235-09-003.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_event235-23-044.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_event235-41-017.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_05_002.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_17_015.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_event235-02-024.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_event235-38-009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_event235-12-045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_event235-30-027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_event235-38-008.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true
+        }
+      ],
+      "ws_voice_1_0#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_19_069.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……即使如此，我还是想和大家组一辈子乐队。\n无论跌倒几次，多么迷茫……"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_09_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小睦说，因为CRYCHIC已经毁了，\n所以这次想好好坚持……"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_19_067.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我，害怕受伤，\n想组……一辈子乐队。\n但是……"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我还不知道……该怎么办……\nCRYCHIC的事"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_049.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "组成CRYCHIC后……我感觉充满了温暖……"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_04_071.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们是CRYCHIC。\n请听『春日影』"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_04_092.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是我害CRYCHIC解散了……"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_13_032.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我好难受，好难受，\n我已经不想再经历这种事了……\n还觉得以后……再也不想组乐队了……"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_037.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "向小爽世道歉……虽然我不知道该不该道歉，\n但是，我确实伤害了她……"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_event235-15-065.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我没想到能回来……\n多亏小爱音，我又能组乐队了……"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "上一任部长好像很喜欢，\n笔记本上也写了很多关于她们的事情"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_event235-12-043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家觉得毕业很寂寞，\n还因为再也不能来到这里而感到悲伤"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我还有南非企鹅、马可罗尼企鹅和王企鹅的哦！"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_13_034.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "今天我也，一直觉得很害怕，\n但我仿佛感到你对我说了……加油"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_event235-02-026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小嘴乌鸦的尾羽……\n灰椋鸟和山斑鸠的飞羽也不知道去哪里了……"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_event235-09-006.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "虽然像大家一样交到了朋友，\n但和大家在一起，却觉得很孤独"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_event235-23-043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "有珊瑚礁蝠鲼、翻车鲀、儒氏皇带鱼、\n鲸鲨……啊！"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_event235-08-056.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（很久很久以前，从小时候开始，\n我就有很多事情都做不好——）"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_event235-09-003.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "好像只有我缺了点什么，\n我为自己的格格不入感到难过"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_event235-23-044.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这是蓝鲸和长须鲸！\n尺寸比较大……！"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_event235-41-017.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小乐奈也是吉他手。\n我还不太了解小乐奈……"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_05_002.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "先攒好泪水，到悲伤时再尽情流淌，该有多好啊"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_17_015.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『世界对我来说好遥远』\n『将孤单的星星转个不停』"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_event235-02-024.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "对、对不起！\n我一打开包，羽毛全飞出来了……"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_event235-38-009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就像把心情传达给小爽世那样……\n我也想要好好传达给小祥……"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_event235-12-045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我最先想到的是，要是眼泪也能收集并保存起来就好了"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_event235-30-027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为……\n我和小爽世也约好了，要一辈子组乐队的"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_event235-38-008.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我想要传达给小祥的心情……\n还没有全部传达给她。所以……"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不……\n是我拿着的花被风吹走了……我只是把手伸了出去而已……"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_manual_voice_finished_8#9",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "要加入吗？\n天文部只有我一个人……你愿意加入我会很高兴的"
+        }
+      ],
+      "ws_voice_1_1#2": [
+        {
+          "Name": "voice_0",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_19_069.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "……即使如此，我还是想和大家组一辈子乐队。\n无论跌倒几次，多么迷茫……"
+        },
+        {
+          "Name": "voice_1",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_09_045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小睦说，因为CRYCHIC已经毁了，\n所以这次想好好坚持……"
+        },
+        {
+          "Name": "voice_2",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_19_067.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我，害怕受伤，\n想组……一辈子乐队。\n但是……"
+        },
+        {
+          "Name": "voice_3",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_15_063.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我还不知道……该怎么办……\nCRYCHIC的事"
+        },
+        {
+          "Name": "voice_4",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_049.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "组成CRYCHIC后……我感觉充满了温暖……"
+        },
+        {
+          "Name": "voice_5",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_04_071.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我们是CRYCHIC。\n请听『春日影』"
+        },
+        {
+          "Name": "voice_6",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_04_092.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "是我害CRYCHIC解散了……"
+        },
+        {
+          "Name": "voice_7",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_13_032.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我好难受，好难受，\n我已经不想再经历这种事了……\n还觉得以后……再也不想组乐队了……"
+        },
+        {
+          "Name": "voice_8",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_14_037.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "向小爽世道歉……虽然我不知道该不该道歉，\n但是，我确实伤害了她……"
+        },
+        {
+          "Name": "voice_9",
+          "Sound": "assets/voices/curated_event235-15-065.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我没想到能回来……\n多亏小爱音，我又能组乐队了……"
+        },
+        {
+          "Name": "voice_10",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_052.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "上一任部长好像很喜欢，\n笔记本上也写了很多关于她们的事情"
+        },
+        {
+          "Name": "voice_11",
+          "Sound": "assets/voices/curated_event235-12-043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "大家觉得毕业很寂寞，\n还因为再也不能来到这里而感到悲伤"
+        },
+        {
+          "Name": "voice_12",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我还有南非企鹅、马可罗尼企鹅和王企鹅的哦！"
+        },
+        {
+          "Name": "voice_13",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_13_034.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "今天我也，一直觉得很害怕，\n但我仿佛感到你对我说了……加油"
+        },
+        {
+          "Name": "voice_14",
+          "Sound": "assets/voices/curated_event235-02-026.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小嘴乌鸦的尾羽……\n灰椋鸟和山斑鸠的飞羽也不知道去哪里了……"
+        },
+        {
+          "Name": "voice_15",
+          "Sound": "assets/voices/curated_event235-09-006.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "虽然像大家一样交到了朋友，\n但和大家在一起，却觉得很孤独"
+        },
+        {
+          "Name": "voice_16",
+          "Sound": "assets/voices/curated_event235-23-043.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "有珊瑚礁蝠鲼、翻车鲀、儒氏皇带鱼、\n鲸鲨……啊！"
+        },
+        {
+          "Name": "voice_17",
+          "Sound": "assets/voices/curated_event235-08-056.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "（很久很久以前，从小时候开始，\n我就有很多事情都做不好——）"
+        },
+        {
+          "Name": "voice_18",
+          "Sound": "assets/voices/curated_event235-09-003.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "好像只有我缺了点什么，\n我为自己的格格不入感到难过"
+        },
+        {
+          "Name": "voice_19",
+          "Sound": "assets/voices/curated_event235-23-044.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "这是蓝鲸和长须鲸！\n尺寸比较大……！"
+        },
+        {
+          "Name": "voice_20",
+          "Sound": "assets/voices/curated_event235-41-017.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "小乐奈也是吉他手。\n我还不太了解小乐奈……"
+        },
+        {
+          "Name": "voice_21",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_05_002.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "先攒好泪水，到悲伤时再尽情流淌，该有多好啊"
+        },
+        {
+          "Name": "voice_22",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_17_015.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "『世界对我来说好遥远』\n『将孤单的星星转个不停』"
+        },
+        {
+          "Name": "voice_23",
+          "Sound": "assets/voices/curated_event235-02-024.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "对、对不起！\n我一打开包，羽毛全飞出来了……"
+        },
+        {
+          "Name": "voice_24",
+          "Sound": "assets/voices/curated_event235-38-009.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "就像把心情传达给小爽世那样……\n我也想要好好传达给小祥……"
+        },
+        {
+          "Name": "voice_25",
+          "Sound": "assets/voices/curated_event235-12-045.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我最先想到的是，要是眼泪也能收集并保存起来就好了"
+        },
+        {
+          "Name": "voice_26",
+          "Sound": "assets/voices/curated_event235-30-027.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "因为……\n我和小爽世也约好了，要一辈子组乐队的"
+        },
+        {
+          "Name": "voice_27",
+          "Sound": "assets/voices/curated_event235-38-008.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "我想要传达给小祥的心情……\n还没有全部传达给她。所以……"
+        },
+        {
+          "Name": "voice_28",
+          "Sound": "assets/voices/curated_adv_voice_mujica_002_1_01_093.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "不……\n是我拿着的花被风吹走了……我只是把手伸了出去而已……"
+        },
+        {
+          "Name": "voice_29",
+          "Sound": "assets/voices/curated_adv_voice_mygo_001_1_02_055.wav",
+          "Command": "lip_sync enforce",
+          "PostCommand": "lip_sync enable; start_mtn ournotes_l2d_carrier_tomori ws_voice_finished_8#9; start_mtn ws_voice_gap#7",
+          "Priority": 9,
+          "Interruptable": true,
+          "Text": "要加入吗？\n天文部只有我一个人……你愿意加入我会很高兴的"
+        }
+      ],
+      "ws_voice_run#6": [
+        {
+          "Name": "captions_1_0",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "NextMtn": "ws_voice_1_1#2"
+        },
+        {
+          "Name": "captions_1_1",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "NextMtn": "ws_voice_0_1#2"
+        }
+      ],
+      "ws_voice_gap#7": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 2500,
+          "PostCommand": "start_mtn ournotes_l2d_carrier_tomori ws_voice_ready_8#9"
+        }
+      ],
+      "web_cycle_action#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_toggle_action#9"
+        }
+      ],
+      "web_cycle_voice#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_toggle_voice#9"
+        }
+      ],
+      "web_cycle_costume#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_toggle_costume#9"
+        }
+      ],
+      "ui_close#4": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_tomori ws_hide_text#5",
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_menu_timeout#5": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 60000,
+          "NextMtn": "ws_menu_close#6"
+        }
+      ],
+      "ws_menu_close#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_close_menu#6; stop_mtn 5; stop_mtn 4; start_mtn ournotes_l2d_carrier_tomori ws_hide_text#5",
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        }
+      ],
+      "ws_refresh_menu#9": [
+        {
+          "Name": "000",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_000#9"
+        },
+        {
+          "Name": "001",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_001#9"
+        },
+        {
+          "Name": "010",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_010#9"
+        },
+        {
+          "Name": "011",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_011#9"
+        },
+        {
+          "Name": "100",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_100#9"
+        },
+        {
+          "Name": "101",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_101#9"
+        },
+        {
+          "Name": "110",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 0"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_110#9"
+        },
+        {
+          "Name": "111",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "page_loop_action",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_voice",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "page_loop_costume",
+              "Type": 1,
+              "Code": "equal 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori_costume_008_menu state_111#9"
+        }
+      ],
+      "ws_menu_mark_open#6": [
+        {
+          "Name": "run",
+          "Priority": 9,
+          "Interruptable": true,
+          "MotionDuration": 1,
+          "VarFloats": [
+            {
+              "Name": "ws_menu_open",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ],
+          "Command": "start_mtn ournotes_l2d_carrier_tomori ws_hide_text#5; start_mtn ws_menu_timeout#5"
+        }
+      ]
+    },
+    "Expressions": [],
+    "Physics": "assets/physics/upstream_3c4e1249412ea60c0c08b0fd.physics3.json"
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {
+      "Items": [],
+      "Enabled": true
+    },
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 10.0,
+      "SmoothTime": 0.1,
+      "Items": [
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {},
+    "Accelerometer": {},
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {},
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {},
+    "Battery": {}
+  },
+  "HitAreas": [],
+  "Options": {
+    "Id": "ournotes_l2d_carrier_tomori_costume_008",
+    "Name": "高松灯 · 生日服·2026–2027",
+    "TexFixed": true,
+    "TexType": 0
+  }
+}
