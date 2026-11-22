@@ -346,6 +346,7 @@
           "Priority": 9,
           "Interruptable": true,
           "MotionDuration": 1,
+          "NextMtn": "ui_expression#3",
           "VarFloats": []
         }
       ],
@@ -1894,9 +1895,331 @@
           ],
           "Command": "start_mtn ournotes_l2d_carrier_tomori ws_hide_text#5; start_mtn ws_menu_timeout#5"
         }
+      ],
+      "ui_expression#3": [
+        {
+          "Name": "exp_000",
+          "Command": "clear_exp; set_exp assets/expressions/25b5ff51fcd10ebe22b100848f7ead83.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_001",
+          "Command": "clear_exp; set_exp assets/expressions/2b1dbb7b15e7f4019b79a139ad5bac22.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_002",
+          "Command": "clear_exp; set_exp assets/expressions/0979f42e2a43bde67c3a182375f8f80c.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_003",
+          "Command": "clear_exp; set_exp assets/expressions/18cdf044e47629ee3835dd5123416d63.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_004",
+          "Command": "clear_exp; set_exp assets/expressions/e3284d31bd0f612284231fee78957fce.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_005",
+          "Command": "clear_exp; set_exp assets/expressions/9d028c23118a7fcd7b3c2369980caa95.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_006",
+          "Command": "clear_exp; set_exp assets/expressions/066319b7691a09bb4600c47a9ff23696.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_007",
+          "Command": "clear_exp; set_exp assets/expressions/074b0fdf08fdc132303ac6ea1e99b925.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_008",
+          "Command": "clear_exp; set_exp assets/expressions/8d0b5de1b550b2a821d3ca85a3306189.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_009",
+          "Command": "clear_exp; set_exp assets/expressions/0cdb40be0885ac142ffaf6fbb691c3b6.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_010",
+          "Command": "clear_exp; set_exp assets/expressions/91f89cbe0cbf51aab41de1dde202dd95.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_011",
+          "Command": "clear_exp; set_exp assets/expressions/7e4a2f68bc082e008e2764adf711406e.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_012",
+          "Command": "clear_exp; set_exp assets/expressions/28bb1c155bfd8a2f745343eff099a490.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_013",
+          "Command": "clear_exp; set_exp assets/expressions/fa0b6cc025ef359f57debd19cf1bbbec.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_014",
+          "Command": "clear_exp; set_exp assets/expressions/1eb6938d1ee27776e223e5a09c6133a8.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_015",
+          "Command": "clear_exp; set_exp assets/expressions/b84abdbc55a6c94b0d5bcd5589c73003.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_016",
+          "Command": "clear_exp; set_exp assets/expressions/765c5431119d6d857439b5972a442d4a.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_017",
+          "Command": "clear_exp; set_exp assets/expressions/f29a9e40e5160c702f886696e99faa41.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_018",
+          "Command": "clear_exp; set_exp assets/expressions/4a1d3e06ac64040aea9e9faa9e38d8d5.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_019",
+          "Command": "clear_exp; set_exp assets/expressions/b3fb1599cd6a5c5dec89e12c85350dd7.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_020",
+          "Command": "clear_exp; set_exp assets/expressions/02de1ae208f612d48f8a39f7218aaa24.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_021",
+          "Command": "clear_exp; set_exp assets/expressions/d9f420130518993a07fe74f0a37d6d1b.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_022",
+          "Command": "clear_exp; set_exp assets/expressions/8701711c7f2e1a2a50eb191128d41ed7.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_023",
+          "Command": "clear_exp; set_exp assets/expressions/2d95c80f7ebfb0e78a690fd1c6464405.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_024",
+          "Command": "clear_exp; set_exp assets/expressions/4e0b05ea5b16ca6e8e5190bddf052e1b.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_025",
+          "Command": "clear_exp; set_exp assets/expressions/6a53dee3d2480aa3629e09bd9573763b.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_026",
+          "Command": "clear_exp; set_exp assets/expressions/8ac30683d73434b519fd1f4ca617dc19.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_027",
+          "Command": "clear_exp; set_exp assets/expressions/897320abd877d53ea1ca46840a7ec21d.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        },
+        {
+          "Name": "exp_028",
+          "Command": "clear_exp; set_exp assets/expressions/929ee885090fa32e8df4b3b848f01ea7.exp3.json",
+          "MotionDuration": 1,
+          "Priority": 9,
+          "Interruptable": true
+        }
       ]
     },
-    "Expressions": [],
+    "Expressions": [
+      {
+        "Name": "exp_angry01.exp3",
+        "File": "assets/expressions/25b5ff51fcd10ebe22b100848f7ead83.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile01.exp3",
+        "File": "assets/expressions/2b1dbb7b15e7f4019b79a139ad5bac22.exp3.json"
+      },
+      {
+        "Name": "exp_bsmile02.exp3",
+        "File": "assets/expressions/0979f42e2a43bde67c3a182375f8f80c.exp3.json"
+      },
+      {
+        "Name": "exp_cry01.exp3",
+        "File": "assets/expressions/18cdf044e47629ee3835dd5123416d63.exp3.json"
+      },
+      {
+        "Name": "exp_cry02.exp3",
+        "File": "assets/expressions/e3284d31bd0f612284231fee78957fce.exp3.json"
+      },
+      {
+        "Name": "exp_cry03.exp3",
+        "File": "assets/expressions/9d028c23118a7fcd7b3c2369980caa95.exp3.json"
+      },
+      {
+        "Name": "exp_idle01.exp3",
+        "File": "assets/expressions/066319b7691a09bb4600c47a9ff23696.exp3.json"
+      },
+      {
+        "Name": "exp_idle02.exp3",
+        "File": "assets/expressions/074b0fdf08fdc132303ac6ea1e99b925.exp3.json"
+      },
+      {
+        "Name": "exp_idle03.exp3",
+        "File": "assets/expressions/8d0b5de1b550b2a821d3ca85a3306189.exp3.json"
+      },
+      {
+        "Name": "exp_idle04.exp3",
+        "File": "assets/expressions/0cdb40be0885ac142ffaf6fbb691c3b6.exp3.json"
+      },
+      {
+        "Name": "exp_kime01.exp3",
+        "File": "assets/expressions/91f89cbe0cbf51aab41de1dde202dd95.exp3.json"
+      },
+      {
+        "Name": "exp_pain01.exp3",
+        "File": "assets/expressions/7e4a2f68bc082e008e2764adf711406e.exp3.json"
+      },
+      {
+        "Name": "exp_pale01.exp3",
+        "File": "assets/expressions/28bb1c155bfd8a2f745343eff099a490.exp3.json"
+      },
+      {
+        "Name": "exp_sad01.exp3",
+        "File": "assets/expressions/fa0b6cc025ef359f57debd19cf1bbbec.exp3.json"
+      },
+      {
+        "Name": "exp_sad02.exp3",
+        "File": "assets/expressions/1eb6938d1ee27776e223e5a09c6133a8.exp3.json"
+      },
+      {
+        "Name": "exp_sad03.exp3",
+        "File": "assets/expressions/b84abdbc55a6c94b0d5bcd5589c73003.exp3.json"
+      },
+      {
+        "Name": "exp_sad04.exp3",
+        "File": "assets/expressions/765c5431119d6d857439b5972a442d4a.exp3.json"
+      },
+      {
+        "Name": "exp_salk01.exp3",
+        "File": "assets/expressions/f29a9e40e5160c702f886696e99faa41.exp3.json"
+      },
+      {
+        "Name": "exp_serious01.exp3",
+        "File": "assets/expressions/4a1d3e06ac64040aea9e9faa9e38d8d5.exp3.json"
+      },
+      {
+        "Name": "exp_serious02.exp3",
+        "File": "assets/expressions/b3fb1599cd6a5c5dec89e12c85350dd7.exp3.json"
+      },
+      {
+        "Name": "exp_serious03.exp3",
+        "File": "assets/expressions/02de1ae208f612d48f8a39f7218aaa24.exp3.json"
+      },
+      {
+        "Name": "exp_shy01.exp3",
+        "File": "assets/expressions/d9f420130518993a07fe74f0a37d6d1b.exp3.json"
+      },
+      {
+        "Name": "exp_smile01.exp3",
+        "File": "assets/expressions/8701711c7f2e1a2a50eb191128d41ed7.exp3.json"
+      },
+      {
+        "Name": "exp_smile02.exp3",
+        "File": "assets/expressions/2d95c80f7ebfb0e78a690fd1c6464405.exp3.json"
+      },
+      {
+        "Name": "exp_smile03.exp3",
+        "File": "assets/expressions/4e0b05ea5b16ca6e8e5190bddf052e1b.exp3.json"
+      },
+      {
+        "Name": "exp_smile04.exp3",
+        "File": "assets/expressions/6a53dee3d2480aa3629e09bd9573763b.exp3.json"
+      },
+      {
+        "Name": "exp_surprised01.exp3",
+        "File": "assets/expressions/8ac30683d73434b519fd1f4ca617dc19.exp3.json"
+      },
+      {
+        "Name": "exp_surprised02.exp3",
+        "File": "assets/expressions/897320abd877d53ea1ca46840a7ec21d.exp3.json"
+      },
+      {
+        "Name": "exp_surprised03.exp3",
+        "File": "assets/expressions/929ee885090fa32e8df4b3b848f01ea7.exp3.json"
+      }
+    ],
     "Physics": "assets/physics/upstream_3c4e1249412ea60c0c08b0fd.physics3.json"
   },
   "Controllers": {
