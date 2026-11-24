@@ -2,6 +2,8 @@
 
 本仓库维护 OurNotes 的 Live2DViewerEX 创意工坊版本。角色目录包含模型、衣装、动作、表情、语音和区域触发配置。
 
+按乐队浏览封面、衣装数量和单角色 WPK。下载后可在 Live2DViewerEX 或 LuvPet 导入。[角色封面介绍](workshop/SHOWCASE.md) · [GitHub 发布](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/latest)
+
 ## 交互
 
 点击头部切换表情，脸部播放语音，上身与左右手臂播放动作，腰部换装，下身打开菜单。
