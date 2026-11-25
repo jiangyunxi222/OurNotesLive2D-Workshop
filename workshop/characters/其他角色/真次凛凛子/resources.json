@@ -1,0 +1,302 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "RiNG 工作服",
+      "file": "00_integrated.model3.json",
+      "actions": [
+        {
+          "name": "动作2",
+          "file": "assets/c04735ee623ed37b5003e0f5.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/ea7648eedf47265f3cd26546.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/5ac4df3e0eb98be024a39c1c.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/86fec4b35a5c6767dbcab5a7.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/4c7c016d56709a1df547dbf1.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/0704eaa0c6f8720a5c74e6b9.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/f7f8eca793c6138a9f79f24b.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/6f29b2b338e8243701e817c8.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/49c6a8de974a80a9fd60f197.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/7fe271015c8a30c8b3dec67b.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/cd21b388dba420057e988c8d.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/29ee4ab8cf4c7e1efdaf992b.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/ece07671aabcc895ba69430a.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/abb31d8fb90961ceeb3c1c10.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/135f5a9cc1d9de55dae3df7c.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/5267f0d321b33bc8b1524926.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/64ca9347dcb768e42f0e9e10.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/776691b92c824f3216ec8c89.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/e9dea40af2cf1c776606143c.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/95f1213456eecc9e23ad7638.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/445f5f88683fc48fd4fc8e75.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/73e504e3aa25fbc56f359d2e.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/49120ff94c8b3616aae43327.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/320f64417af0bee7ac3ba08b.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/213ec15c3eae7796f1a51e62.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/4d1f50d6b7cf543547d1c3e4.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/a8f2da7a10ebd62a439f4a08.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/54904c6aefe87c0039096a15.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/5ef53163de8a029f4208057c.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/1f9af2dd15b71be7c3a2f710.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/f72d9015cfbf3760aad65699.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/c0cc43dda56633110eec2cf3.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/c8323481e6332d5bd6efa20e.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/02a84bc465cff1db8d495030.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/a1506743d3916822c211dc18.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/e617efa522b8386add81232a.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/a5973a1375650c05135a1e3f.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/8f0987a5defa02813eca5fa6.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/ce639d021db9852c5d0a4021.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/d2b6f335c66309ffba7eabc3.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/a1902a09c1af442daaceb36b.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/7b848c0b8b41ebff175159fb.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/3b3631745adbf3172e162bc8.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/ac8aa6a32b7af1789c0fc266.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/84362e6f66fe919e4d304b1f.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/47bcf643e6a3be97d3a21d35.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/fa4b8bb0abde74e6a3285556.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/353a7e9c6c9874b907026e71.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/05f96581d5a7b30697843404.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/0b6ca2c3f0745b48d12b30ee.motion3.json"
+        },
+        {
+          "name": "动作2",
+          "file": "assets/0adddc137446601799359e70.motion3.json"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "笑容01",
+          "file": "assets/044c26460af6eec5825d0d49.exp3.json"
+        },
+        {
+          "name": "平静01",
+          "file": "assets/aa593e5cf799da4ba9d6d6b5.exp3.json"
+        },
+        {
+          "name": "惊讶01",
+          "file": "assets/38c66d3289d2efb4bec00839.exp3.json"
+        },
+        {
+          "name": "平静02",
+          "file": "assets/7a8d250c93bf9824a9b17108.exp3.json"
+        },
+        {
+          "name": "害羞01",
+          "file": "assets/411e486cd4aac55566091766.exp3.json"
+        },
+        {
+          "name": "自信01",
+          "file": "assets/5560467b46b8c2dbd335d8a6.exp3.json"
+        },
+        {
+          "name": "阴影01",
+          "file": "assets/dbdfebb5a5fc9df317963fe2.exp3.json"
+        },
+        {
+          "name": "平静03",
+          "file": "assets/e986deda04293538cddb4d0f.exp3.json"
+        },
+        {
+          "name": "苍白01",
+          "file": "assets/daf390dec7223d9ac8fbdce6.exp3.json"
+        },
+        {
+          "name": "哭泣01",
+          "file": "assets/f1c843efbc67c9e1804ebf85.exp3.json"
+        },
+        {
+          "name": "思考01",
+          "file": "assets/c992f84d96664ca11ef41963.exp3.json"
+        },
+        {
+          "name": "难过01",
+          "file": "assets/7444d48a20a014a93e41cdd4.exp3.json"
+        },
+        {
+          "name": "惊讶02",
+          "file": "assets/91bb6b5acd5ee50a28f368a0.exp3.json"
+        },
+        {
+          "name": "生气01",
+          "file": "assets/0348987cc5d57aef55172b01.exp3.json"
+        },
+        {
+          "name": "难过02",
+          "file": "assets/e1b6bb3db0b69ddbccd48318.exp3.json"
+        },
+        {
+          "name": "笑容02",
+          "file": "assets/0ac82a44f41836da2918e495.exp3.json"
+        },
+        {
+          "name": "认真02",
+          "file": "assets/048affe46188e80a741741c9.exp3.json"
+        },
+        {
+          "name": "认真01",
+          "file": "assets/586fbc1bf241557221435765.exp3.json"
+        },
+        {
+          "name": "微笑01",
+          "file": "assets/6de99fd477b5fa0782ea2308.exp3.json"
+        },
+        {
+          "name": "苍白02",
+          "file": "assets/9306220291e25c4b3c3381ff.exp3.json"
+        },
+        {
+          "name": "微笑02",
+          "file": "assets/9e169f7e3bd95f8496a5fea4.exp3.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

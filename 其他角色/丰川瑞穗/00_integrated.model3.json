@@ -1,0 +1,32 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "assets/d7916a4470068714d6f7056f.moc3",
+    "Textures": [
+      "assets/6b30a0c5a53228a2eeced922.png",
+      "assets/92d5ef20e2512e09aab39a5a.png"
+    ],
+    "Motions": {
+      "Tap": [
+        {
+          "Name": "动作2",
+          "File": "assets/648904739dc7717e9b97b1fd.motion3.json",
+          "Priority": 3
+        }
+      ]
+    },
+    "Physics": "assets/7aee962954231d10665fa17b.physics3.json"
+  },
+  "Options": {
+    "Id": "ournotes_20945282b0bd9f0d_0",
+    "TexFixed": true
+  },
+  "HitAreas": [
+    {
+      "Name": "动作",
+      "Id": "ArtMesh68",
+      "Motion": "Tap",
+      "Order": 20
+    }
+  ]
+}

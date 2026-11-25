@@ -1,0 +1,28 @@
+{
+  "id": "7f22380cf66e54bb",
+  "name": "丰川定治",
+  "game": "OurNotes",
+  "group": "其他角色",
+  "model": "其他角色/丰川定治/00_integrated.model3.json",
+  "resourceManifest": "其他角色/丰川定治/manifest.json",
+  "sourceLock": "其他角色/丰川定治/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/丰川定治/resources.json",
+  "metadata": "workshop/characters/其他角色/丰川定治/metadata.json",
+  "preview": "workshop/characters/其他角色/丰川定治/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "daa9cddd40bf4e46e6ce19e991ddfad6fb4fbeaa7bfc5d2097b98fcb485a3e80",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

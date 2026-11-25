@@ -1,0 +1,14 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "替补",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/fe1283cfe48d50e11968c0bd.moc3": "fe1283cfe48d50e11968c0bda745ff8b55e5c6a7b0a4b50f911b665470ca38fe",
+    "assets/bf290c847b8064eb6269a2d2.png": "bf290c847b8064eb6269a2d2aa0a7c39013e4f6b884b7b8d4ac886f8ad147967",
+    "assets/5eb64f3aaf57447b1c0ba84e.png": "5eb64f3aaf57447b1c0ba84efad3c4872cfb8b541d02433ff17902ac4aa7c9b7",
+    "assets/604d9f6aa2d9c34cec26fdc1.physics3.json": "604d9f6aa2d9c34cec26fdc17bdca1ab4b01098a05660d2c38e3366cc672f5ea",
+    "assets/267629d69c2b22a044c2d570.motion3.json": "267629d69c2b22a044c2d5709b16911492e8008500fa4f3c3a18e261a494619c",
+    "00_integrated.model3.json": "5f4a6bba334164c936b9cbe1b4074d1220d2898adc2c77c4073365631b916ae2"
+  }
+}

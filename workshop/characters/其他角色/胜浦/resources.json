@@ -1,0 +1,17 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "西装",
+      "file": "00_integrated.model3.json",
+      "actions": [
+        {
+          "name": "动作2",
+          "file": "assets/6dc1c966d8c435ccd7a897d4.motion3.json"
+        }
+      ],
+      "expressions": []
+    }
+  ],
+  "voices": []
+}

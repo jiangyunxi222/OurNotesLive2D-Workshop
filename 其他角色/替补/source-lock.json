@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model3.json",
+      "model": "adv_live2d_sub_substitute_casual_spring_01_still",
+      "provider": "story"
+    }
+  ],
+  "assets": {
+    "assets/fe1283cfe48d50e11968c0bd.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/fe1283cfe48d50e11968c0bda745ff8b55e5c6a7b0a4b50f911b665470ca38fe.moc3.gz"
+    ],
+    "assets/bf290c847b8064eb6269a2d2.png": [
+      "https://storage.bdon.moe/moenotes/assets/bf290c847b8064eb6269a2d2aa0a7c39013e4f6b884b7b8d4ac886f8ad147967.png"
+    ],
+    "assets/5eb64f3aaf57447b1c0ba84e.png": [
+      "https://storage.bdon.moe/moenotes/assets/5eb64f3aaf57447b1c0ba84efad3c4872cfb8b541d02433ff17902ac4aa7c9b7.png"
+    ],
+    "assets/604d9f6aa2d9c34cec26fdc1.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/855946b2e2e1f800df095f83274666cd0c04dffee9915685fb24e3fc4438aa45.json.gz#physics"
+    ],
+    "assets/267629d69c2b22a044c2d570.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/855946b2e2e1f800df095f83274666cd0c04dffee9915685fb24e3fc4438aa45.json.gz#Assets/AddressableResources/Character/Live2D/sub_substitute/adv_live2d_sub_substitute_casual_spring_01_still/common/motions/mtn_idle01_C.motion3.json"
+    ]
+  }
+}

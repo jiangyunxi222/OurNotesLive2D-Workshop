@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model3.json",
+      "model": "adv_live2d_sub_kiyotsugu_suits_01_still",
+      "provider": "story"
+    },
+    {
+      "file": "002_costume.model3.json",
+      "model": "adv_live2d_sub_kiyotsugu_sweat_01_still",
+      "provider": "story"
+    }
+  ],
+  "assets": {
+    "assets/63c54a0ac05e80352293440a.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/63c54a0ac05e80352293440a752cd9aa9c16050aecda32254c11df60127b6000.moc3.gz"
+    ],
+    "assets/e45e520f7e600e102bbc771c.png": [
+      "https://storage.bdon.moe/moenotes/assets/e45e520f7e600e102bbc771ce0ba918a4abb5d4aa5c2a19fd99fc18d435a9184.png"
+    ],
+    "assets/563aec3d93ea0ee66af240a7.png": [
+      "https://storage.bdon.moe/moenotes/assets/563aec3d93ea0ee66af240a7165504d9ae7ab9518af7e1902af1b702051b36fa.png"
+    ],
+    "assets/309c8c2187ff460c53470436.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/90e5b9194163614648e9a5b8731975e888e47351ac0d115a52a38c4242afe2af.json.gz#physics"
+    ],
+    "assets/ea48e01c380642cf7d4683f7.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/90e5b9194163614648e9a5b8731975e888e47351ac0d115a52a38c4242afe2af.json.gz#Assets/AddressableResources/Character/Live2D/sub_kiyotsugu/adv_live2d_sub_kiyotsugu_suits_01_still/common/motions/mtn_idle01_C.motion3.json"
+    ],
+    "assets/1aa5d8f9db29335d60862c3e.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/1aa5d8f9db29335d60862c3ec7a433b6e09275f8e74ce0fe740fad2a1d8f8090.moc3.gz"
+    ],
+    "assets/7621d010fdccddda03633312.png": [
+      "https://storage.bdon.moe/moenotes/assets/7621d010fdccddda0363331291fc5e8aab39ad85538b02b12e467569f9da8e2d.png"
+    ],
+    "assets/e27b200fd6016f26a1b5b767.png": [
+      "https://storage.bdon.moe/moenotes/assets/e27b200fd6016f26a1b5b767754d23aff5cf7aac053719692342770ef80f30cc.png"
+    ],
+    "assets/dfa5866248052a2b237fd340.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a3efd80f3f4411f82d9ec78dc055e586c05c0856fec73b59f9597d702e4ef5cd.json.gz#physics"
+    ],
+    "assets/6bd1714c8263a5e0af6c7d2e.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a3efd80f3f4411f82d9ec78dc055e586c05c0856fec73b59f9597d702e4ef5cd.json.gz#Assets/AddressableResources/Character/Live2D/sub_kiyotsugu/adv_live2d_sub_kiyotsugu_sweat_01_still/common/motions/mtn_idle01_C.motion3.json"
+    ]
+  }
+}

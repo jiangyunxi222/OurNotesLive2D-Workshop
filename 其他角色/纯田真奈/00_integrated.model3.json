@@ -1,0 +1,375 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "assets/df2428e9af3519a75decf296.moc3",
+    "Textures": [
+      "assets/a98dee7dcbf76ec0cc0b31f7.png",
+      "assets/658f65d9abeefe2e09e28f28.png"
+    ],
+    "Motions": {
+      "Tap": [
+        {
+          "Name": "动作2",
+          "File": "assets/415cfac401fb64e7da17286b.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/cbae752d40b653879d222ec8.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/35905d480d810941b16b47e1.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/d61d2c65d70971845a61ac92.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/621a0001a986a573334a78d7.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/0011ddf7559e76c429c65a0e.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/8d0491adc371abb4639c968f.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/6814d87c48bea05443e936ef.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/b1630259355d20e367f3289e.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/a4ca605274330fe437ecd982.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/af8c5b33fb770e8eb670ba2e.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/16b0d1899703117cf96d609e.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/a628cdf245793fc994c3a178.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/f6ba899a7e2b9ca2db74c8e3.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/b6524e561988c33b44bdaf4b.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/8577c4e6eb1f5902f9248745.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/1ba4d4261d4686797f9a940d.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/3146995898d45934b3c6f85b.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/8902732e24bdad70a4a7552f.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/5ca1b4154bc926303d4ceacd.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/e5ae9aaec4d58680291ddd5d.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/778940f2da87ac8bbd1242f0.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/c5828f9b34ce8b5f57fe3c6a.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/0997059e77135e882aded3b5.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/724422c053fe7d47244d1923.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/b02ac264eb48dfce12b0dd62.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/20a6b7f1dbd375d7f4446870.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/4ff1e4fbdfcf06454d4e5be2.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/93ee4bc60b86138cbbc9bb76.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/abcc90e58cce226ebfd8dc27.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/d268a81e8d8262f7db0b0cb3.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/5b3a2f453830fff629370337.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/9b81dc901d508732eb56b6cc.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/36e3bbfcb0c76c3b3000062f.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/4d7ebd1bff35230e1b3a9a81.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/3e79124f795c13b04256b38d.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/38d305c8224090d59dec8ea2.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/de1c766685209fe346c0aaa5.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/2789e4d531768d0f3fc5b6be.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/ddb9fa5cfd196f3eb8e975e5.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/7f82775da73741ab28151b86.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/f3cc048341a15104e8cc3354.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/020ac3ace5464fbdaefb6d8c.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/66157e7e6a5855cd195abcfe.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/24af0378ea71058d63313634.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/7b18202159088d2f9cdccd43.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/c27a8f1482fdb69a5455493e.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/ad176d155ea86f9dcea34709.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/373d407c4262003e33422168.motion3.json",
+          "Priority": 3
+        },
+        {
+          "Name": "动作2",
+          "File": "assets/ce4e3448ad2c1a0c4aec1415.motion3.json",
+          "Priority": 3
+        }
+      ],
+      "TapFace": [
+        {
+          "Name": "切换表情",
+          "Command": "next_exp"
+        }
+      ]
+    },
+    "Physics": "assets/d2dd30c9f7dc351493a7749a.physics3.json",
+    "Expressions": [
+      {
+        "Name": "平静01",
+        "File": "assets/3eaf5bbdffee34d6df8f3089.exp3.json"
+      },
+      {
+        "Name": "平静02",
+        "File": "assets/0848c9e1cca49cc5f17bb16e.exp3.json"
+      },
+      {
+        "Name": "害羞01",
+        "File": "assets/202a9015287ad7e32c97e4d0.exp3.json"
+      },
+      {
+        "Name": "笑容01",
+        "File": "assets/fa3553e951b36330adf3268a.exp3.json"
+      },
+      {
+        "Name": "思考01",
+        "File": "assets/d698647c0c7f218ac76717a1.exp3.json"
+      },
+      {
+        "Name": "苍白01",
+        "File": "assets/8e2960667702dec3e2905801.exp3.json"
+      },
+      {
+        "Name": "自信01",
+        "File": "assets/2b27048ad3b7a3d409f1ff2a.exp3.json"
+      },
+      {
+        "Name": "苍白02",
+        "File": "assets/5affd012d265f0cb4c7c5629.exp3.json"
+      },
+      {
+        "Name": "平静03",
+        "File": "assets/1988eddfa5321c112ca1d93f.exp3.json"
+      },
+      {
+        "Name": "惊讶01",
+        "File": "assets/8f76d17704b204ea8cdd8301.exp3.json"
+      },
+      {
+        "Name": "认真02",
+        "File": "assets/4b266bcf59e50c7c9fb17fc4.exp3.json"
+      },
+      {
+        "Name": "惊讶02",
+        "File": "assets/cde6d3570c5bf953be748146.exp3.json"
+      },
+      {
+        "Name": "微笑02",
+        "File": "assets/2c81bc9067292280155c45b2.exp3.json"
+      },
+      {
+        "Name": "难过01",
+        "File": "assets/395a4c3f585f1dfe8ef4a7b7.exp3.json"
+      },
+      {
+        "Name": "哭泣01",
+        "File": "assets/98cda83df18b92384bf17f1c.exp3.json"
+      },
+      {
+        "Name": "难过02",
+        "File": "assets/8a327795dac9cbe52c7a85a0.exp3.json"
+      },
+      {
+        "Name": "生气01",
+        "File": "assets/00117d376e555bac52b0b3f9.exp3.json"
+      },
+      {
+        "Name": "微笑01",
+        "File": "assets/143d850762bf488de0ff13e7.exp3.json"
+      },
+      {
+        "Name": "笑容02",
+        "File": "assets/8f85c59657fcadc3e2c9b712.exp3.json"
+      },
+      {
+        "Name": "阴影01",
+        "File": "assets/69bd3500daa4148bc47a4022.exp3.json"
+      },
+      {
+        "Name": "认真01",
+        "File": "assets/7720b2674a649516ea586098.exp3.json"
+      }
+    ]
+  },
+  "Options": {
+    "Id": "ournotes_dd07948a1a93617f_0",
+    "TexFixed": true
+  },
+  "HitAreas": [
+    {
+      "Name": "表情",
+      "Id": "ArtMesh511",
+      "Motion": "TapFace",
+      "Order": 30
+    },
+    {
+      "Name": "动作",
+      "Id": "ArtMesh513",
+      "Motion": "Tap",
+      "Order": 20
+    }
+  ]
+}

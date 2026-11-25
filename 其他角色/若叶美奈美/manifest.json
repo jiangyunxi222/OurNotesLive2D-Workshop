@@ -1,0 +1,14 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "若叶美奈美",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/478c020f5b81be8209bf3647.moc3": "478c020f5b81be8209bf36471213439651f81cc91aaecb7086d2eb4f13f67849",
+    "assets/64f960f9fc1fb8b95f78d324.png": "64f960f9fc1fb8b95f78d3242a3b84e1511f8d7436e9ddfdcecb4903e1ca32e3",
+    "assets/547a0a63044744cdbb9562d5.png": "547a0a63044744cdbb9562d5ebd1980a01b8a1369b83e8d58fb11af1f832fd8d",
+    "assets/a93265263d99ae5d99060d93.physics3.json": "a93265263d99ae5d99060d93c2d471d29800083ecae3d984cc57b9d64f2db14c",
+    "assets/cf6957b5d69bcdf3d6f22406.motion3.json": "cf6957b5d69bcdf3d6f22406410324da96f02adaedd536899bc6de1a0bef16b3",
+    "00_integrated.model3.json": "6e179cd309ac5605fdc90efa5539f393fbc2807fe5667c8d3d27207f85447301"
+  }
+}

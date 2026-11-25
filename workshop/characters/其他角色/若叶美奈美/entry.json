@@ -1,0 +1,28 @@
+{
+  "id": "3d163be6ba07f3ab",
+  "name": "若叶美奈美",
+  "game": "OurNotes",
+  "group": "其他角色",
+  "model": "其他角色/若叶美奈美/00_integrated.model3.json",
+  "resourceManifest": "其他角色/若叶美奈美/manifest.json",
+  "sourceLock": "其他角色/若叶美奈美/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/若叶美奈美/resources.json",
+  "metadata": "workshop/characters/其他角色/若叶美奈美/metadata.json",
+  "preview": "workshop/characters/其他角色/若叶美奈美/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "eae386a65a99262c37e18704803242e52b514142af32a78a311b50f3de709830",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

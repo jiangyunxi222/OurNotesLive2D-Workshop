@@ -1,0 +1,17 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "春季便服",
+      "file": "00_integrated.model3.json",
+      "actions": [
+        {
+          "name": "动作2",
+          "file": "assets/fea260cdcdecfddf19d00d13.motion3.json"
+        }
+      ],
+      "expressions": []
+    }
+  ],
+  "voices": []
+}

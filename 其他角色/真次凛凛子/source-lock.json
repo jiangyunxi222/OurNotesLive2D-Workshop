@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model3.json",
+      "model": "adv_live2d_sub_ririko_arbeit_ring_01",
+      "provider": "story"
+    }
+  ],
+  "assets": {
+    "assets/15310326723d3276f5dd45ee.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/15310326723d3276f5dd45ee4ae8b51b4e0a4c1bcefc0e29a1de3f1d6d33cd2e.moc3.gz"
+    ],
+    "assets/98f1543ca7d79b69f085a0f5.png": [
+      "https://storage.bdon.moe/moenotes/assets/98f1543ca7d79b69f085a0f5e9a8e42860d4463120bc04734fb95eb9a4360319.png"
+    ],
+    "assets/5dead35ba65f18204bac05c9.png": [
+      "https://storage.bdon.moe/moenotes/assets/5dead35ba65f18204bac05c9cc96fcc0c3ac347b2f70e96e644c8663e560f9ff.png"
+    ],
+    "assets/42d9dcf0673528e4a3668b4e.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#physics"
+    ],
+    "assets/c04735ee623ed37b5003e0f5.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_bye01_C.motion3.json"
+    ],
+    "assets/ea7648eedf47265f3cd26546.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_look01_C.motion3.json"
+    ],
+    "assets/5ac4df3e0eb98be024a39c1c.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_cry01_R.motion3.json"
+    ],
+    "assets/86fec4b35a5c6767dbcab5a7.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_serious01_L.motion3.json"
+    ],
+    "assets/4c7c016d56709a1df547dbf1.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_thinking01_C.motion3.json"
+    ],
+    "assets/0704eaa0c6f8720a5c74e6b9.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_question01_C.motion3.json"
+    ],
+    "assets/f7f8eca793c6138a9f79f24b.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_nod02_L.motion3.json"
+    ],
+    "assets/6f29b2b338e8243701e817c8.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_smile01_C.motion3.json"
+    ],
+    "assets/49c6a8de974a80a9fd60f197.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_nod02_R.motion3.json"
+    ],
+    "assets/7fe271015c8a30c8b3dec67b.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_angry01_C.motion3.json"
+    ],
+    "assets/cd21b388dba420057e988c8d.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_kime01_C.motion3.json"
+    ],
+    "assets/29ee4ab8cf4c7e1efdaf992b.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_smile02_C.motion3.json"
+    ],
+    "assets/ece07671aabcc895ba69430a.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_sad01_L.motion3.json"
+    ],
+    "assets/abb31d8fb90961ceeb3c1c10.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_thinking01_L.motion3.json"
+    ],
+    "assets/135f5a9cc1d9de55dae3df7c.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_surprised01_C.motion3.json"
+    ],
+    "assets/5267f0d321b33bc8b1524926.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_denial01_R.motion3.json"
+    ],
+    "assets/64ca9347dcb768e42f0e9e10.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_denial01_L.motion3.json"
+    ],
+    "assets/776691b92c824f3216ec8c89.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_smile02_L.motion3.json"
+    ],
+    "assets/e9dea40af2cf1c776606143c.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_serious01_R.motion3.json"
+    ],
+    "assets/95f1213456eecc9e23ad7638.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_cry01_C.motion3.json"
+    ],
+    "assets/445f5f88683fc48fd4fc8e75.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_look01_R.motion3.json"
+    ],
+    "assets/73e504e3aa25fbc56f359d2e.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_look01_L.motion3.json"
+    ],
+    "assets/49120ff94c8b3616aae43327.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_denial01_C.motion3.json"
+    ],
+    "assets/320f64417af0bee7ac3ba08b.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_nod02_C.motion3.json"
+    ],
+    "assets/213ec15c3eae7796f1a51e62.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_question01_L.motion3.json"
+    ],
+    "assets/4d1f50d6b7cf543547d1c3e4.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_kime01_L.motion3.json"
+    ],
+    "assets/a8f2da7a10ebd62a439f4a08.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_check01_C.motion3.json"
+    ],
+    "assets/54904c6aefe87c0039096a15.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_check01_L.motion3.json"
+    ],
+    "assets/5ef53163de8a029f4208057c.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_smile01_L.motion3.json"
+    ],
+    "assets/1f9af2dd15b71be7c3a2f710.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_thinking01_R.motion3.json"
+    ],
+    "assets/f72d9015cfbf3760aad65699.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_nod01_R.motion3.json"
+    ],
+    "assets/c0cc43dda56633110eec2cf3.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_angry01_R.motion3.json"
+    ],
+    "assets/c8323481e6332d5bd6efa20e.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_check01_R.motion3.json"
+    ],
+    "assets/02a84bc465cff1db8d495030.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_nod01_L.motion3.json"
+    ],
+    "assets/a1506743d3916822c211dc18.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_surprised01_L.motion3.json"
+    ],
+    "assets/e617efa522b8386add81232a.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_angry01_L.motion3.json"
+    ],
+    "assets/a5973a1375650c05135a1e3f.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_idle01_C.motion3.json"
+    ],
+    "assets/8f0987a5defa02813eca5fa6.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_sad01_R.motion3.json"
+    ],
+    "assets/ce639d021db9852c5d0a4021.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_sad01_C.motion3.json"
+    ],
+    "assets/d2b6f335c66309ffba7eabc3.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_bye01_R.motion3.json"
+    ],
+    "assets/a1902a09c1af442daaceb36b.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_cry01_L.motion3.json"
+    ],
+    "assets/7b848c0b8b41ebff175159fb.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_nod01_C.motion3.json"
+    ],
+    "assets/3b3631745adbf3172e162bc8.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_surprised01_R.motion3.json"
+    ],
+    "assets/ac8aa6a32b7af1789c0fc266.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_kime01_R.motion3.json"
+    ],
+    "assets/84362e6f66fe919e4d304b1f.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_serious01_C.motion3.json"
+    ],
+    "assets/47bcf643e6a3be97d3a21d35.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_bye01_L.motion3.json"
+    ],
+    "assets/fa4b8bb0abde74e6a3285556.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_idle01_L.motion3.json"
+    ],
+    "assets/353a7e9c6c9874b907026e71.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_idle01_R.motion3.json"
+    ],
+    "assets/05f96581d5a7b30697843404.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_smile02_R.motion3.json"
+    ],
+    "assets/0b6ca2c3f0745b48d12b30ee.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_smile01_R.motion3.json"
+    ],
+    "assets/0adddc137446601799359e70.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#Assets/AddressableResources/Character/Live2D/sub_ririko/adv_live2d_sub_ririko_arbeit_ring_01/common/motions/mtn_question01_R.motion3.json"
+    ],
+    "assets/044c26460af6eec5825d0d49.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_bsmile01.exp3"
+    ],
+    "assets/aa593e5cf799da4ba9d6d6b5.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_idle01.exp3"
+    ],
+    "assets/38c66d3289d2efb4bec00839.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_surprised01.exp3"
+    ],
+    "assets/7a8d250c93bf9824a9b17108.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_idle02.exp3"
+    ],
+    "assets/411e486cd4aac55566091766.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_shy01.exp3"
+    ],
+    "assets/5560467b46b8c2dbd335d8a6.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_kime01.exp3"
+    ],
+    "assets/dbdfebb5a5fc9df317963fe2.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_shadow01.exp3"
+    ],
+    "assets/e986deda04293538cddb4d0f.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_idle03.exp3"
+    ],
+    "assets/daf390dec7223d9ac8fbdce6.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_pale01.exp3"
+    ],
+    "assets/f1c843efbc67c9e1804ebf85.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_cry01.exp3"
+    ],
+    "assets/c992f84d96664ca11ef41963.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_thinking01.exp3"
+    ],
+    "assets/7444d48a20a014a93e41cdd4.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_sad01.exp3"
+    ],
+    "assets/91bb6b5acd5ee50a28f368a0.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_surprised02.exp3"
+    ],
+    "assets/0348987cc5d57aef55172b01.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_angry01.exp3"
+    ],
+    "assets/e1b6bb3db0b69ddbccd48318.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_sad02.exp3"
+    ],
+    "assets/0ac82a44f41836da2918e495.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_bsmile02.exp3"
+    ],
+    "assets/048affe46188e80a741741c9.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_serious02.exp3"
+    ],
+    "assets/586fbc1bf241557221435765.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_serious01.exp3"
+    ],
+    "assets/6de99fd477b5fa0782ea2308.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_smile01.exp3"
+    ],
+    "assets/9306220291e25c4b3c3381ff.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_pale02.exp3"
+    ],
+    "assets/9e169f7e3bd95f8496a5fea4.exp3.json": [
+      "https://storage.bdon.moe/moenotes/assets/a0080bb1ae692d1d878f5391ec60e4e16e7fe09a45ecda8641bf44be681ff79b.json.gz#exp_smile02.exp3"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model3.json",
+      "model": "adv_live2d_sub_katsuura_suits_01_still",
+      "provider": "story"
+    }
+  ],
+  "assets": {
+    "assets/e4ca7e5c2e6036eb34144aba.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/e4ca7e5c2e6036eb34144aba7593877b6cc010c83bdf296781620579954c8cb8.moc3.gz"
+    ],
+    "assets/75adc6c5e8bd0de82a81572f.png": [
+      "https://storage.bdon.moe/moenotes/assets/75adc6c5e8bd0de82a81572f40ddaac9b5c4fdbd49553bb7f1e3658ecbbd994d.png"
+    ],
+    "assets/28dcfb4f74015e383f25b3a7.png": [
+      "https://storage.bdon.moe/moenotes/assets/28dcfb4f74015e383f25b3a75cc090b01e0fe60a319f835282ce51e3ce89f8bf.png"
+    ],
+    "assets/6d27e969ed2d19bd889ec3fd.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/7b0ef0125c4c3d8bfdb66de7c24e583e508442cd4216f03bd2967b8cb680424d.json.gz#physics"
+    ],
+    "assets/6dc1c966d8c435ccd7a897d4.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/7b0ef0125c4c3d8bfdb66de7c24e583e508442cd4216f03bd2967b8cb680424d.json.gz#Assets/AddressableResources/Character/Live2D/sub_katsuura/adv_live2d_sub_katsuura_suits_01_still/common/motions/mtn_idle01_C.motion3.json"
+    ]
+  }
+}

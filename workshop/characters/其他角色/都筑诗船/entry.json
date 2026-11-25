@@ -1,0 +1,28 @@
+{
+  "id": "1eca36811b08bfe6",
+  "name": "都筑诗船",
+  "game": "OurNotes",
+  "group": "其他角色",
+  "model": "其他角色/都筑诗船/00_integrated.model3.json",
+  "resourceManifest": "其他角色/都筑诗船/manifest.json",
+  "sourceLock": "其他角色/都筑诗船/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/都筑诗船/resources.json",
+  "metadata": "workshop/characters/其他角色/都筑诗船/metadata.json",
+  "preview": "workshop/characters/其他角色/都筑诗船/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "b03af58433503a9ee4e122a7b78fb4204848a6946ec5ad1b28abe784af6f1d91",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

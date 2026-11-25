@@ -1,0 +1,14 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "都筑诗船",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/5332a478aebfe2f873435a40.moc3": "5332a478aebfe2f873435a40bb0e75deabfa4e931319f4fe1fd4e6d7176cdd82",
+    "assets/134fc4df42bafe3043e7f25f.png": "134fc4df42bafe3043e7f25f583d5127e8e71554aaf5b353f44d26dcc8960fd3",
+    "assets/c2409d6d0481086d3b283850.png": "c2409d6d0481086d3b2838504174aa92342f4ac2833b204abaecf20c010654d1",
+    "assets/6812475c5e3f9319ac8690dc.physics3.json": "6812475c5e3f9319ac8690dc2cbb805775c56715dcbb7378564212d17480ed6b",
+    "assets/fea260cdcdecfddf19d00d13.motion3.json": "fea260cdcdecfddf19d00d136a18c724972fe03fbd0df7943d02643ae7191ec2",
+    "00_integrated.model3.json": "42c9492bf0bf368540f5f258d4c54a141d19674a2f1e7f25de587a814988d06d"
+  }
+}

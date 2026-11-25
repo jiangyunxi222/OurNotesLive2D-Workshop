@@ -1,6 +1,6 @@
 # OurNotes 创意工坊角色
 
-共 44 个单角色 WPK。选择角色下方的下载链接，在 Live2DViewerEX 或 LuvPet 中导入。
+共 53 个单角色 WPK。选择角色下方的下载链接，在 Live2DViewerEX 或 LuvPet 中导入。
 
 ## Ave Mujica
 
@@ -55,6 +55,15 @@
 | 封面 | 角色 | WPK |
 | --- | --- | --- |
 | <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E8%95%BE%E5%8F%B6%E7%88%B6%E4%BA%B2%E7%9A%84%E7%A7%98%E4%B9%A6/cover.png" alt="蕾叶父亲的秘书" width="112"> | [蕾叶父亲的秘书](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E8%95%BE%E5%8F%B6%E7%88%B6%E4%BA%B2%E7%9A%84%E7%A7%98%E4%B9%A6/entry.json)<br>1 套衣装 · 1 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_9ec9f6da87f4767b_Workshop.wpk)<br>3.4 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E8%83%9C%E6%B5%A6/cover.png" alt="胜浦" width="112"> | [胜浦](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E8%83%9C%E6%B5%A6/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_b24681941543e193_Workshop.wpk)<br>2.0 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E4%B8%B0%E5%B7%9D%E6%B8%85%E5%91%8A/cover.png" alt="丰川清告" width="112"> | [丰川清告](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E4%B8%B0%E5%B7%9D%E6%B8%85%E5%91%8A/entry.json)<br>2 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_fd826dd1c65b6955_Workshop.wpk)<br>3.2 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E7%BA%AF%E7%94%B0%E7%9C%9F%E5%A5%88/cover.png" alt="纯田真奈" width="112"> | [纯田真奈](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E7%BA%AF%E7%94%B0%E7%9C%9F%E5%A5%88/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_dd07948a1a93617f_Workshop.wpk)<br>10.2 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E8%8B%A5%E5%8F%B6%E7%BE%8E%E5%A5%88%E7%BE%8E/cover.png" alt="若叶美奈美" width="112"> | [若叶美奈美](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E8%8B%A5%E5%8F%B6%E7%BE%8E%E5%A5%88%E7%BE%8E/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_3d163be6ba07f3ab_Workshop.wpk)<br>2.1 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E4%B8%B0%E5%B7%9D%E7%91%9E%E7%A9%97/cover.png" alt="丰川瑞穗" width="112"> | [丰川瑞穗](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E4%B8%B0%E5%B7%9D%E7%91%9E%E7%A9%97/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_20945282b0bd9f0d_Workshop.wpk)<br>2.2 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E7%9C%9F%E6%AC%A1%E5%87%9B%E5%87%9B%E5%AD%90/cover.png" alt="真次凛凛子" width="112"> | [真次凛凛子](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E7%9C%9F%E6%AC%A1%E5%87%9B%E5%87%9B%E5%AD%90/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_893f778858bcc8b8_Workshop.wpk)<br>29.1 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E4%B8%B0%E5%B7%9D%E5%AE%9A%E6%B2%BB/cover.png" alt="丰川定治" width="112"> | [丰川定治](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E4%B8%B0%E5%B7%9D%E5%AE%9A%E6%B2%BB/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_7f22380cf66e54bb_Workshop.wpk)<br>1.9 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E9%83%BD%E7%AD%91%E8%AF%97%E8%88%B9/cover.png" alt="都筑诗船" width="112"> | [都筑诗船](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E9%83%BD%E7%AD%91%E8%AF%97%E8%88%B9/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_1eca36811b08bfe6_Workshop.wpk)<br>1.8 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E6%9B%BF%E8%A1%A5/cover.png" alt="替补" width="112"> | [替补](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E6%9B%BF%E8%A1%A5/entry.json)<br>1 套衣装 · 0 条语音 | [下载 WPK](https://github.com/jiangyunxi222/OurNotesLive2D-Workshop/releases/download/v1.0.0/ournotes_fc168c664d728235_Workshop.wpk)<br>3.1 MiB |
 
 ## 夢限大みゅーたいぷ
 

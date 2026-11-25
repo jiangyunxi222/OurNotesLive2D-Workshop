@@ -1,0 +1,14 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "丰川定治",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/37c67c072c975e8b2b7b69fc.moc3": "37c67c072c975e8b2b7b69fc6b14d9db6e56e825d17fb5606749e0503d6cf57e",
+    "assets/f59deb23a84e8dcae564937a.png": "f59deb23a84e8dcae564937ac2795efc264f288f83ec87174930d8ecbd07d206",
+    "assets/36be20a446e6bed88390b295.png": "36be20a446e6bed88390b295073bda9c7d754914af519fab0c1515421400b138",
+    "assets/aa40fd71405dda7206adf4e3.physics3.json": "aa40fd71405dda7206adf4e30f27b76489eee4ec89a28625d657d930292997d0",
+    "assets/91933317f8f2f72ae60a3149.motion3.json": "91933317f8f2f72ae60a3149a44406fcdcc7de077346b5aa97fff969ae71a7dd",
+    "00_integrated.model3.json": "79556de768dd55ef065b1e01a48237d9b47831b4999e6d8b556b4d5df2f14d47"
+  }
+}

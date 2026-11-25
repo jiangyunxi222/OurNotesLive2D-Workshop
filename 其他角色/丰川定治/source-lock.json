@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model3.json",
+      "model": "adv_live2d_sub_sadaharu_suits_01_still",
+      "provider": "story"
+    }
+  ],
+  "assets": {
+    "assets/37c67c072c975e8b2b7b69fc.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/37c67c072c975e8b2b7b69fc6b14d9db6e56e825d17fb5606749e0503d6cf57e.moc3.gz"
+    ],
+    "assets/f59deb23a84e8dcae564937a.png": [
+      "https://storage.bdon.moe/moenotes/assets/f59deb23a84e8dcae564937ac2795efc264f288f83ec87174930d8ecbd07d206.png"
+    ],
+    "assets/36be20a446e6bed88390b295.png": [
+      "https://storage.bdon.moe/moenotes/assets/36be20a446e6bed88390b295073bda9c7d754914af519fab0c1515421400b138.png"
+    ],
+    "assets/aa40fd71405dda7206adf4e3.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/ad6b8f7b00c72f9609eaf716fe6f265772fece49c8573baec1adba5694e39816.json.gz#physics"
+    ],
+    "assets/91933317f8f2f72ae60a3149.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/ad6b8f7b00c72f9609eaf716fe6f265772fece49c8573baec1adba5694e39816.json.gz#Assets/AddressableResources/Character/Live2D/sub_sadaharu/adv_live2d_sub_sadaharu_suits_01_still/common/motions/mtn_idle01_C.motion3.json"
+    ]
+  }
+}

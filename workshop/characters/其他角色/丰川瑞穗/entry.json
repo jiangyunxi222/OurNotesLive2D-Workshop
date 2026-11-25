@@ -1,0 +1,28 @@
+{
+  "id": "20945282b0bd9f0d",
+  "name": "丰川瑞穗",
+  "game": "OurNotes",
+  "group": "其他角色",
+  "model": "其他角色/丰川瑞穗/00_integrated.model3.json",
+  "resourceManifest": "其他角色/丰川瑞穗/manifest.json",
+  "sourceLock": "其他角色/丰川瑞穗/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/丰川瑞穗/resources.json",
+  "metadata": "workshop/characters/其他角色/丰川瑞穗/metadata.json",
+  "preview": "workshop/characters/其他角色/丰川瑞穗/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "b96bf20078439eb1d8d41f0796fd15b9eed2efc76250800ed841d1f0de0c4185",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "893f778858bcc8b8",
+  "name": "真次凛凛子",
+  "game": "OurNotes",
+  "group": "其他角色",
+  "model": "其他角色/真次凛凛子/00_integrated.model3.json",
+  "resourceManifest": "其他角色/真次凛凛子/manifest.json",
+  "sourceLock": "其他角色/真次凛凛子/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/真次凛凛子/resources.json",
+  "metadata": "workshop/characters/其他角色/真次凛凛子/metadata.json",
+  "preview": "workshop/characters/其他角色/真次凛凛子/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "c0df08fefbfed9f93371953e7e3ef2ffc9f112fdaec757389d16764cead33b22",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 51,
+    "expressions": 21
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

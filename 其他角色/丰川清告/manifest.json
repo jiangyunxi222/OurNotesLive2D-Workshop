@@ -1,0 +1,20 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "丰川清告",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/63c54a0ac05e80352293440a.moc3": "63c54a0ac05e80352293440a752cd9aa9c16050aecda32254c11df60127b6000",
+    "assets/e45e520f7e600e102bbc771c.png": "e45e520f7e600e102bbc771ce0ba918a4abb5d4aa5c2a19fd99fc18d435a9184",
+    "assets/563aec3d93ea0ee66af240a7.png": "563aec3d93ea0ee66af240a7165504d9ae7ab9518af7e1902af1b702051b36fa",
+    "assets/309c8c2187ff460c53470436.physics3.json": "309c8c2187ff460c53470436693d693a478d8d9dbc7759145852498f90d914ab",
+    "assets/ea48e01c380642cf7d4683f7.motion3.json": "ea48e01c380642cf7d4683f7cac8c9c1a53729bd8e13437e8cec9c84002e56bc",
+    "assets/1aa5d8f9db29335d60862c3e.moc3": "1aa5d8f9db29335d60862c3ec7a433b6e09275f8e74ce0fe740fad2a1d8f8090",
+    "assets/7621d010fdccddda03633312.png": "7621d010fdccddda0363331291fc5e8aab39ad85538b02b12e467569f9da8e2d",
+    "assets/e27b200fd6016f26a1b5b767.png": "e27b200fd6016f26a1b5b767754d23aff5cf7aac053719692342770ef80f30cc",
+    "assets/dfa5866248052a2b237fd340.physics3.json": "dfa5866248052a2b237fd340a6bbe04cdd3100bb141d4912d9fd494b6cbea661",
+    "assets/6bd1714c8263a5e0af6c7d2e.motion3.json": "6bd1714c8263a5e0af6c7d2ed7b7c05c6f7de2b8cdbd47afbb39a70e28476a19",
+    "00_integrated.model3.json": "cd1ffeb39743795aa2591102c8c9b9a7dfeed4b8aac2259d7491179edea4e7dd",
+    "002_costume.model3.json": "48e4906e8af1431f805e3641c6a8782b6a2e990039f77b6ed85071d22ba59d57"
+  }
+}

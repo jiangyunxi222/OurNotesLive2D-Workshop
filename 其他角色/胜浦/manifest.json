@@ -1,0 +1,14 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "胜浦",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/e4ca7e5c2e6036eb34144aba.moc3": "e4ca7e5c2e6036eb34144aba7593877b6cc010c83bdf296781620579954c8cb8",
+    "assets/75adc6c5e8bd0de82a81572f.png": "75adc6c5e8bd0de82a81572f40ddaac9b5c4fdbd49553bb7f1e3658ecbbd994d",
+    "assets/28dcfb4f74015e383f25b3a7.png": "28dcfb4f74015e383f25b3a75cc090b01e0fe60a319f835282ce51e3ce89f8bf",
+    "assets/6d27e969ed2d19bd889ec3fd.physics3.json": "6d27e969ed2d19bd889ec3fd9c73b038310783908b255d9e2a6cdf3b7f944eb6",
+    "assets/6dc1c966d8c435ccd7a897d4.motion3.json": "6dc1c966d8c435ccd7a897d4f5405e43fd1f50ed6fa7abb2b76efca8a5d09292",
+    "00_integrated.model3.json": "8adfa0b114d59682eee5d2ab23a15bf36526f1c3234d721ec6c95586ab0943dc"
+  }
+}

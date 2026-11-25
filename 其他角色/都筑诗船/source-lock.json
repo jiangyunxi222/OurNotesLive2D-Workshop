@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model3.json",
+      "model": "adv_live2d_sub_shifune_casual_spring_01_still",
+      "provider": "story"
+    }
+  ],
+  "assets": {
+    "assets/5332a478aebfe2f873435a40.moc3": [
+      "https://storage.bdon.moe/moenotes/assets/5332a478aebfe2f873435a40bb0e75deabfa4e931319f4fe1fd4e6d7176cdd82.moc3.gz"
+    ],
+    "assets/134fc4df42bafe3043e7f25f.png": [
+      "https://storage.bdon.moe/moenotes/assets/134fc4df42bafe3043e7f25f583d5127e8e71554aaf5b353f44d26dcc8960fd3.png"
+    ],
+    "assets/c2409d6d0481086d3b283850.png": [
+      "https://storage.bdon.moe/moenotes/assets/c2409d6d0481086d3b2838504174aa92342f4ac2833b204abaecf20c010654d1.png"
+    ],
+    "assets/6812475c5e3f9319ac8690dc.physics3.json": [
+      "https://storage.bdon.moe/moenotes/assets/077f222217c1aeda13d659b0fb4f5d4949e163d9ee90840bc82646ed051c885a.json.gz#physics"
+    ],
+    "assets/fea260cdcdecfddf19d00d13.motion3.json": [
+      "https://storage.bdon.moe/moenotes/assets/077f222217c1aeda13d659b0fb4f5d4949e163d9ee90840bc82646ed051c885a.json.gz#Assets/AddressableResources/Character/Live2D/sub_shifune/adv_live2d_sub_shifune_casual_spring_01_still/common/motions/mtn_idle01_C.motion3.json"
+    ]
+  }
+}

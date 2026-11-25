@@ -1,0 +1,28 @@
+{
+  "id": "b24681941543e193",
+  "name": "胜浦",
+  "game": "OurNotes",
+  "group": "其他角色",
+  "model": "其他角色/胜浦/00_integrated.model3.json",
+  "resourceManifest": "其他角色/胜浦/manifest.json",
+  "sourceLock": "其他角色/胜浦/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/胜浦/resources.json",
+  "metadata": "workshop/characters/其他角色/胜浦/metadata.json",
+  "preview": "workshop/characters/其他角色/胜浦/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "7467a136cb385b246358a8856163aaa3437941077101185046a9a8751bf92e3e",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

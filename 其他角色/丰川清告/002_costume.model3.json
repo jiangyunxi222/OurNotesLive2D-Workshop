@@ -1,0 +1,44 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "assets/1aa5d8f9db29335d60862c3e.moc3",
+    "Textures": [
+      "assets/7621d010fdccddda03633312.png",
+      "assets/e27b200fd6016f26a1b5b767.png"
+    ],
+    "Motions": {
+      "Tap": [
+        {
+          "Name": "动作2",
+          "File": "assets/6bd1714c8263a5e0af6c7d2e.motion3.json",
+          "Priority": 3
+        }
+      ],
+      "TapCostume": [
+        {
+          "Name": "换装",
+          "Command": "change_model 00_integrated.model3.json"
+        }
+      ]
+    },
+    "Physics": "assets/dfa5866248052a2b237fd340.physics3.json"
+  },
+  "Options": {
+    "Id": "ournotes_fd826dd1c65b6955_1",
+    "TexFixed": true
+  },
+  "HitAreas": [
+    {
+      "Name": "动作",
+      "Id": "ArtMesh40",
+      "Motion": "Tap",
+      "Order": 20
+    },
+    {
+      "Name": "换装",
+      "Id": "ArtMesh41",
+      "Motion": "TapCostume",
+      "Order": 10
+    }
+  ]
+}

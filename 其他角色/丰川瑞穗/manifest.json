@@ -1,0 +1,14 @@
+{
+  "game": "OurNotes",
+  "group": "其他角色",
+  "character": "丰川瑞穗",
+  "entry": "00_integrated.model3.json",
+  "files_sha256": {
+    "assets/d7916a4470068714d6f7056f.moc3": "d7916a4470068714d6f7056f8197f39f207f10917d4b47fb27e5fd074429fa99",
+    "assets/6b30a0c5a53228a2eeced922.png": "6b30a0c5a53228a2eeced92283dca869ab2a4d77d113a0f860616fd4897d4287",
+    "assets/92d5ef20e2512e09aab39a5a.png": "92d5ef20e2512e09aab39a5a57cd3128b85c8084e21c5291c0c1b695376f5802",
+    "assets/7aee962954231d10665fa17b.physics3.json": "7aee962954231d10665fa17be73238106eec0d9536932b2cfc9c06e73e89c32c",
+    "assets/648904739dc7717e9b97b1fd.motion3.json": "648904739dc7717e9b97b1fd2dd8440bfae5f3c9c82edccc280f2f5f7585be39",
+    "00_integrated.model3.json": "86fc2e9790083cac0020595562d79b2ed62e6d932d9d127345feadcdfd510c7a"
+  }
+}
