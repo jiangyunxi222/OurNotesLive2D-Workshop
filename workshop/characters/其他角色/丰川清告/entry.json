@@ -18,8 +18,8 @@
     "expressions": 0
   },
   "release": {
-    "state": "draft",
-    "workshopId": null,
+    "state": "published",
+    "workshopId": "3845545821",
     "nativeMenu": "source-controls",
     "wpkVerification": "archive-verified",
     "genderTagReview": false,
